@@ -1,4 +1,4 @@
-# Hi there, I'm sProDev <img src="https://raw.githubusercontent.com/sProDev/sProDev/master/images/wave.gif" width="30px">
+# Hi there, I'm sProDev :wave:
 
 My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at VHS ([@smkn1pml](https://github.com/smkn1pml)).
 
@@ -19,5 +19,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sProDev&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/sProDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sProDev&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&disable_animations=true&hide=issues" alt="sProDev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sProDev&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
 </a>
