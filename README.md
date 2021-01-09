@@ -16,8 +16,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/sProDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sProDev&hide=css&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sProDev&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/sProDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sProDev&show_icons=true&hide_border=true&hide=issues&count_private=true" alt="sProDev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sProDev&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&disable_animations=true&hide=issues" alt="sProDev's GitHub Stats" />
 </a>
