@@ -1,6 +1,6 @@
 # Hi there, I'm sProDev :wave:
 
-My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at ([SMK Negeri 1 Pemalang](https://github.com/smkn1pml)).
+My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
 
 **Personal Stuffs:**
 - 🔭 I’m currently working on school project
