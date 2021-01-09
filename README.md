@@ -6,7 +6,6 @@ My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm f
 - 🔭 I’m currently working on school project
 - 🌱 I’m currently learning server management
 - ✨ Interested in backend-ish things
-- 📫 Reach me via [twitter](https://www.twitter.com/suluh_s) or [facebook](https://www.facebook.com/suluh.sulistiawan)
 - ⚡ I don't really like music and I only go out when it is really important
 
 ## &#x270d; Blog & Writing
