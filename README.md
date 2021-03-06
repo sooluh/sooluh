@@ -10,6 +10,7 @@ My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm f
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
 
+<!--
 ## &#x1F527; Technologies & Tools
 [![Operating System](https://img.shields.io/badge/OS-Linux-%23FEBD16?style=for-the-badge&logoColor=white&logo=linux)](https://github.com/sProDev)
 [![Code Editor](https://img.shields.io/badge/%20IDE-VS_Code-%230078d7?style=for-the-badge&logoColor=white&logo=visual-studio-code)](https://github.com/sProDev)
@@ -31,6 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Language](https://img.shields.io/badge/Tools-Git-%23f34f29?style=for-the-badge&logoColor=white&logo=git)](https://github.com/sProDev)
 [![Language](https://img.shields.io/badge/Tools-MySQL-%2300758F?style=for-the-badge&logoColor=white&logo=mysql)](https://github.com/sProDev)
 [![Language](https://img.shields.io/badge/Tools-SQLite3-blue?style=for-the-badge&logoColor=white&logo=sqlite)](https://github.com/sProDev)
+-->
 
 ## &#x1F919; Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
@@ -39,8 +41,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/sProDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sProDev&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sProDev&layout=compact&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/sProDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sProDev&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues" alt="sProDev's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sProDev&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues&theme=dark" alt="sProDev's GitHub Stats" />
 </a>
