@@ -2,10 +2,10 @@
 My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
 
 **Personal Stuffs:**
-- &#x1F52D; I’m currently working on school project
-- &#x1F331; I’m currently learning server management
-- &#x2728; Interested in backend-ish things
-- &#x26A1; I don't really like music and I only go out when it is really important
+- &#x1F52D; I’m currently working at home :kissing:
+- &#x1F331; I’m currently learning for graduation exams :wink:
+- &#x2728; Interested in backend-ish things :zany_face:
+- &#x26A1; I don't really like music and I only go out when it is really important :no_mouth:
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
@@ -36,6 +36,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## &#x1F919; Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
+[![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suluh_s)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suluh_s)
 
