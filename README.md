@@ -1,4 +1,4 @@
-# Hi there, I'm sooluh &#x1F44B;
+# Hi there, I'm Sool Uh! &#x1F44B;
 My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
 
 **Personal Stuffs:**
