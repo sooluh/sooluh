@@ -7,11 +7,6 @@ My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm f
 - &#x2728; Interested in backend-ish things:zany_face:
 - &#x26A1; I don't really like music and I only go out when it is really important:no_mouth:
 
-&#128071; Hit in your console or terminal to connect with me.
-```
-npx suluh
-```
-
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
 
