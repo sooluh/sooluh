@@ -1,0 +1,41 @@
+{
+    "name": "sooluh",
+    "version": "1.0.0",
+    "description": "A personal card for Suluh Sulistiawan (@sooluh)",
+    "main": "src/card.js",
+    "scripts": {
+        "test": "node ./src/card.js",
+        "pub": "npm version major & npm publish"
+    },
+    "bin": {
+        "sooluh": "./src/card.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sooluh/sooluh.git"
+    },
+    "keywords": [
+        "card",
+        "npm",
+        "npm card",
+        "npx",
+        "npx card",
+        "business card"
+    ],
+    "author": "Suluh Sulistiawan <kuy@suluh.my.id> (https://suluh.my.id/)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sooluh/sooluh/issues"
+    },
+    "homepage": "https://github.com/sooluh/sooluh#readme",
+    "dependencies": {
+        "boxen": "^5.0.0",
+        "chalk": "^4.1.0",
+        "clear": "^0.1.0",
+        "cli-spinners": "^2.5.0",
+        "inquirer": "^8.0.0",
+        "open": "^8.0.2",
+        "ora": "^5.3.0",
+        "request": "^2.88.2"
+    }
+}
