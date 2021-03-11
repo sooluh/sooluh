@@ -1,4 +1,4 @@
-# Hi there, I'm Sool Uh! &#x1F44B;
+# Hi there, I'm Suluh! &#x1F44B;
 My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
 
 **Personal Stuffs:**
@@ -6,6 +6,12 @@ My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm f
 - &#x1F331; I’m currently learning for graduation exams:wink:
 - &#x2728; Interested in backend-ish things:zany_face:
 - &#x26A1; I don't really like music and I only go out when it is really important:no_mouth:
+
+**&#128071; Hit in your console or terminal to connect with me.**
+```
+npx sooluh
+```
+**&#9757; This command line tool can be found at [npx sooluh](https://github.com/sooluh/sooluh)**
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
