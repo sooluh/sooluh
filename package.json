@@ -1,5 +1,5 @@
 {
-    "name": "sooluh",
+    "name": "suluh",
     "version": "1.0.0",
     "description": "A personal card for Suluh Sulistiawan (@sooluh)",
     "main": "src/card.js",
@@ -8,7 +8,7 @@
         "pub": "npm version major & npm publish"
     },
     "bin": {
-        "sooluh": "./src/card.js"
+        "suluh": "./src/card.js"
     },
     "repository": {
         "type": "git",
