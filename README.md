@@ -1,5 +1,5 @@
 # Hi there, I'm Suluh! &#x1F44B;
-My name is Suluh Sulistiawan and I'm a software developer/DevOps engineer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
+My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
 
 **Personal Stuffs:**
 - &#x1F52D; I’m currently working at home:kissing:
@@ -40,7 +40,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suluh_s)
 
-<!--
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/sooluh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooluh&layout=compact&hide_border=true&theme=dark" />
@@ -48,4 +47,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/sooluh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sooluh&count_private=true&show_icons=true&hide_border=true&custom_title=My%20Github%20Stats&include_all_commits=true&hide=issues&theme=dark" alt="sooluh's GitHub Stats" />
 </a>
--->
