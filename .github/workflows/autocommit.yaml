@@ -27,18 +27,18 @@ jobs:
           git config --local user.name "sooluh"
           git add --all
 
-          arr[0]="feat: 😂 auto commit"
-          arr[1]="feat: 😱 auto commit"
-          arr[2]="feat: 👿 auto commit"
-          arr[3]="feat: 💩 auto commit"
-          arr[4]="feat: 🙏 auto commit"
-          arr[5]="feat: 🙈 auto commit"
-          arr[6]="feat: 🐐 auto commit"
-          arr[7]="feat: 🚀 auto commit"
+          messages[0]="auto commit 😂"
+          messages[1]="auto commit 😱"
+          messages[2]="auto commit 👿"
+          messages[3]="auto commit 💩"
+          messages[4]="auto commit 🙏"
+          messages[5]="auto commit 🙈"
+          messages[6]="auto commit 🐐"
+          messages[7]="auto commit 🚀"
 
-          rand=$[$RANDOM % ${#arr[@]}]
+          random=$[$RANDOM % ${#messages[@]}]
 
-          git commit -m "${arr[$rand]}"
+          git commit -m "${messages[$random]}"
 
       - name: GitHub Push 🌠
         uses: ad-m/github-push-action@master
