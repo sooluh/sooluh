@@ -1,10 +1,10 @@
 name: Auto Commit
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: []
   schedule:
-    # scheduling once every 3 hours
-    - cron: "0 */3 * * *"
+    # at minute 0 past hour 7, 8, 9, 10, and 11.
+    - cron: "0 7,8,9,10,11 * * *"
 
 jobs:
   autocommit:
@@ -27,18 +27,18 @@ jobs:
           git config --local user.name "sooluh"
           git add --all
 
-          msgs[0]="auto commit 😂"
-          msgs[1]="auto commit 😱"
-          msgs[2]="auto commit 👿"
-          msgs[3]="auto commit 💩"
-          msgs[4]="auto commit 🙏"
-          msgs[5]="auto commit 🙈"
-          msgs[6]="auto commit 🐐"
-          msgs[7]="auto commit 🚀"
+          arr[0]="feat: 😂 auto commit"
+          arr[1]="feat: 😱 auto commit"
+          arr[2]="feat: 👿 auto commit"
+          arr[3]="feat: 💩 auto commit"
+          arr[4]="feat: 🙏 auto commit"
+          arr[5]="feat: 🙈 auto commit"
+          arr[6]="feat: 🐐 auto commit"
+          arr[7]="feat: 🚀 auto commit"
 
-          rand=$[$RANDOM % ${#msgs[@]}]
+          rand=$[$RANDOM % ${#arr[@]}]
 
-          git commit -m "${msgs[$rand]}"
+          git commit -m "${arr[$rand]}"
 
       - name: GitHub Push 🌠
         uses: ad-m/github-push-action@v0.5.0
