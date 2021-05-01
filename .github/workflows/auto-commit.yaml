@@ -1,13 +1,15 @@
 name: Auto Commit
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - "main"
   schedule:
     # at minute 0 past hour 7, 8, 9, 10, and 11.
     - cron: "0 7,8,9,10,11 * * *"
 
 jobs:
-  autocommit:
+  auto_commit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -18,7 +20,7 @@ jobs:
 
       - name: Modify Last Update 👻
         run: |
-          d=`date +%s%N | cut -b1-13`
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
           echo $d > update.txt
 
       - name: Commit Changes 🥴
@@ -27,18 +29,18 @@ jobs:
           git config --local user.name "sooluh"
           git add --all
 
-          messages[0]="auto commit 😂"
-          messages[1]="auto commit 😱"
-          messages[2]="auto commit 👿"
-          messages[3]="auto commit 💩"
-          messages[4]="auto commit 🙏"
-          messages[5]="auto commit 🙈"
-          messages[6]="auto commit 🐐"
-          messages[7]="auto commit 🚀"
+          arr[0]="auto commit 😂"
+          arr[1]="auto commit 😱"
+          arr[2]="auto commit 👿"
+          arr[3]="auto commit 💩"
+          arr[4]="auto commit 🙏"
+          arr[5]="auto commit 🙈"
+          arr[6]="auto commit 🐐"
+          arr[7]="auto commit 🚀"
 
-          random=$[$RANDOM % ${#messages[@]}]
+          rand=$[$RANDOM % ${#arr[@]}]
 
-          git commit -m "${messages[$random]}"
+          git commit -m "${arr[$rand]}"
 
       - name: GitHub Push 🌠
         uses: ad-m/github-push-action@master
