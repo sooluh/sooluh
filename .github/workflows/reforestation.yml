@@ -23,7 +23,7 @@ jobs:
         run: |
           git config --local user.email "suluh.webdevelopers@hotmail.com"
           git config --local user.name "sooluh"
-          git add --local
+          git add --all
 
           git commit -m "🌱 reforestation"
 
