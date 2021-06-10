@@ -3,4 +3,4 @@
 filename=src/reforestation.txt
 date=$(date '+%Y-%m-%d %H:%M:%S')
 
-echo $(date) >>$filename
+echo $(date) > $filename
