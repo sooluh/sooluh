@@ -1,5 +1,5 @@
 # Hi there, I'm Suluh! &#x1F44B;
-My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, living in Pemalang, Central Java and currently studying at [SMK Negeri 1 Pemalang](https://github.com/smkn1pml).
+My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, living in Pemalang, Central Java and currently I'm working at home.
 
 **Personal Stuffs:**
 - &#x1F52D; I’m currently working at home
