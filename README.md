@@ -22,12 +22,12 @@ For hobbies or freelance I usually use PHP, JavaScript and TypeScript.
 #### Main Stack
 
 [![PHP](https://img.shields.io/badge/PHP-%238993be?style=for-the-badge&logoColor=white&logo=php)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logoColor=white&logo=mysql)](https://www.mysql.com/)
+[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=for-the-badge&logoColor=white&logo=codeigniter)](https://codeigniter.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=for-the-badge&logoColor=white&logo=javascript)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=for-the-badge&logoColor=white&logo=typescript)](https://www.typescriptlang.org/)
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=for-the-badge&logoColor=white&logo=codeigniter)](https://codeigniter.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59?&style=for-the-badge&logoColor=white&logo=express)](https://expressjs.com/)
 [![Fastify](https://img.shields.io/badge/Fastify-%23202020?style=for-the-badge&logoColor=white&logo=fastify)](https://www.fastify.io/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logoColor=white&logo=mysql)](https://www.mysql.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23FFFFFF?style=for-the-badge&logoColor=white&logo=npm)](https://www.npmjs.com/)
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com/)
 
