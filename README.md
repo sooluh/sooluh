@@ -6,7 +6,7 @@ My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, l
 &#x1F52D; I’m currently working at home<br />
 &#x1F331; I’m currently learning for nothing<br />
 &#x2728; Interested in backend-ish things<br />
-&#x26A1; I don't really like music and I only go out when it is really important
+&#x26A1; Rarely go out, unless it's very important
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog. You can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
