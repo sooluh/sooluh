@@ -2,13 +2,14 @@
 My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, living in Pemalang, Central Java and currently I'm working at home.
 
 **Personal Stuffs:**
-- &#x1F52D; I’m currently working at home
-- &#x1F331; I’m currently learning for nothing
-- &#x2728; Interested in backend-ish things
-- &#x26A1; I don't really like music and I only go out when it is really important
+
+&#x1F52D; I’m currently working at home<br />
+&#x1F331; I’m currently learning for nothing<br />
+&#x2728; Interested in backend-ish things<br />
+&#x26A1; I don't really like music and I only go out when it is really important
 
 ## &#x270d; Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
+Apart from coding, I also maintain a blog. You can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
 
 <!--
 ## &#x1F527; Technologies & Tools
