@@ -43,11 +43,13 @@ For hobbies or freelance I usually use PHP, JavaScript and TypeScript.
 [![Bash Shell](https://img.shields.io/badge/Bash-%234eaa25?style=for-the-badge&logoColor=white&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logoColor=white&logo=sqlite)](https://www.sqlite.org/)
 
+<!--
 ## &#x1F919; Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
 [![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suluh_s)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suluh_s)
+-->
 
 <!--
 ## &#x1f4c8; GitHub Stats
