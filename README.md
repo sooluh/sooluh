@@ -1,8 +1,7 @@
 # Hi there, I'm Suluh! &#x1F44B;
 My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, living in Pemalang, Central Java and currently I'm working at home.
 
-**Personal Stuffs:**
-
+**Personal Stuffs:**<br />
 &#x1F52D; I’m currently working at home<br />
 &#x1F331; I’m currently learning for nothing<br />
 &#x2728; Interested in backend-ish things<br />
