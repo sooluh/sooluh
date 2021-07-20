@@ -12,7 +12,7 @@ My name is Suluh Sulistiawan and I'm a software developer. I'm from Indonesia, l
 
 Apart from coding, I also maintain a blog. You can find my articles on my website at [teknowebapp.com](https://www.teknowebapp.com/profile/4).
 
-## &#x1F527; Technologies & Tools
+## &#x1F527; Technologies
 
 #### Summary
 
