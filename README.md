@@ -1,6 +1,6 @@
-## Yo! &#128075;
+## Howdy &#128075;
 
-Howdy, introduce me to Suluh Sulistiawan, a software developer from Indonesia. 7+ years of experience in web development.
+Introduce me to Suluh Sulistiawan, a software developer from Indonesia. 7+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
 [![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/suluh_s)
@@ -10,10 +10,10 @@ Howdy, introduce me to Suluh Sulistiawan, a software developer from Indonesia. 7
 ## Personal Stuffs &#129295;
 
 &#128301; I’m currently working at [**PST**](https://pratamatechsolution.co.id/)<br />
-&#127793; I’m currently learning for **Typescript**<br />
+&#127793; I’m currently learning for **TypeScript**<br />
 &#10024; Interested in **backend-ish** things<br />
 &#9889; Rarely go out, unless it's very important<br />
-&#127926; Really likes dangdut music: Om Adella, New Pallapa and Om Nirwana
+&#127926; Really likes dangdut music
 
 ## Working Area &#128584;
 
