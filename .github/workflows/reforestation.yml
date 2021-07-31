@@ -16,8 +16,8 @@ jobs:
 
       - name: Modify Last Update 👻
         run: |
-          chmod +x ./src/update.sh
-          ./src/update.sh
+          chmod +x ./reforestation/run.sh
+          ./reforestation/run.sh
 
       - name: Commit Changes 🥴
         run: |
@@ -25,7 +25,8 @@ jobs:
           git config --local user.name "sooluh"
           git add --all
 
-          git commit -m "🌱 reforestation"
+          date=$(date '+%Y-%m-%d %H:%M:%S')
+          git commit -m "green update [$date]"
 
       - name: GitHub Push 🌠
         uses: ad-m/github-push-action@master
