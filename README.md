@@ -3,7 +3,6 @@
 Introduce me to Suluh Sulistiawan, a software developer from Indonesia. 7+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
-[![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/suluh_s)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat&logo=telegram&logoColor=white)](https://t.me/suluh_s)
 
