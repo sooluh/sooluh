@@ -1,6 +1,6 @@
 ## Howdy &#128075;
 
-Introduce me to Suluh Sulistiawan, a software developer from Indonesia. 7+ years of experience in web development.
+I'm Suluh Sulistiawan; a software developer from Indonesia. 7+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s)
