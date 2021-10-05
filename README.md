@@ -18,7 +18,7 @@ I'm Suluh Sulistiawan; a software developer from Indonesia. 7+ years of experien
 
 #### Summary
 
-In my office work, I use the PHP framework [**CodeIgniter 3**](https://github.com/bcit-ci/CodeIgniter) and [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) to build website applications.<br />
+In my office work, I use the PHP framework ~~[**CodeIgniter 3**](https://github.com/bcit-ci/CodeIgniter) and~~ [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) to build website applications.<br />
 For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript**.
 
 #### Main Stack
