@@ -9,10 +9,10 @@ I'm Suluh Sulistiawan; a software developer from Indonesia. 7+ years of experien
 ## Personal Stuffs :v:
 
 :briefcase: I'm currently working at [**PST**](https://pratamatechsolution.co.id/)<br />
-:seedling: Currently learning and exploring **TypeScript**<br />
+:seedling: Currently learning **TypeScript**<br />
 :sparkles: Interested in **backend-ish** things<br />
 :window: Rarely go out, unless it's very important<br />
-:notes: Listen to dangdut music, modern Javanese songs, and _dj santuy_
+:notes: Listen to modern Javanese songs
 
 ## Working Area :see_no_evil:
 
