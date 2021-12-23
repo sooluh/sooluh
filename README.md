@@ -3,7 +3,8 @@
 I'm Suluh Sulistiawan; a software developer from Indonesia. 7+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s)
+[![Twitter](https://img.shields.io/twitter/follow/suluh_s?logo=twitter&style=flat-square)](https://www.twitter.com/suluh_s)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/suluh_s) -->
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/suluh_s)
 
 ## Personal Stuffs :v:
