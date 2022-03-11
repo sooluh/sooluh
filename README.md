@@ -11,7 +11,7 @@ I'm Suluh Sulistiawan; a software developer from Indonesia. 7+ years of experien
 ## Personal Stuffs :v:
 
 :briefcase: I'm currently working at [**PST**](https://pratamatechsolution.co.id/)<br />
-:seedling: Currently learning **TypeScript**<br />
+:seedling: Currently learning **Docker**, **Nginx**, **Socket.IO** & **Message Broker** <br />
 :sparkles: Interested in **backend-ish** things<br />
 :window: Rarely go out, unless it's very important<br />
 :notes: Listen to modern Javanese songs
