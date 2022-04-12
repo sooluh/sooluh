@@ -23,7 +23,7 @@ I'm Suluh Sulistiawan; a software engineer from Indonesia. 7+ years of experienc
 In my office work, I use the PHP framework ~~[**CodeIgniter 3**](https://github.com/bcit-ci/CodeIgniter) and~~ [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) to build website applications.<br />
 For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript**.
 
-#### :sunglasses: Familiar Stacks
+#### :sunglasses: Familiar Tech
 
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23333&logo=php)](https://www.php.net/)
