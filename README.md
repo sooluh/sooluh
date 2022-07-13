@@ -11,7 +11,7 @@ I'm Suluh Sulistiawan; a software engineer from Indonesia. 7+ years of experienc
 ## Personal Stuffs :surfing_man:
 
 > I am currently 18 years old.<br />
-> Started my career at the age of 13, and worked remotely/freelance.
+> Started my career at the age of 11, and worked remotely/freelance.
 
 :man_technologist: I'm currently working at [**PST**](https://pratamatechsolution.co.id/)<br />
 :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
