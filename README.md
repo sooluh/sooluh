@@ -30,7 +30,7 @@ For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript*
 #### :sunglasses: Familiar Tech
 
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
-[![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23333&logo=php)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23FFF&logo=php)](https://www.php.net/)
 [![Composer](https://img.shields.io/badge/Composer-%23FFF?style=flat-square&logoColor=%23222&logo=composer)](https://getcomposer.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-%2300758F?style=flat-square&logoColor=%23FFF&logo=mysql)](https://www.mysql.com/)
 [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23dd4814?style=flat-square&logoColor=%23FFF&logo=codeigniter)](https://codeigniter.com/)
@@ -47,8 +47,12 @@ For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript*
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3?style=flat-square&logoColor=%23FFF&logo=bootstrap)](https://getbootstrap.com/)
 [![Bash Shell](https://img.shields.io/badge/Bash-%234eaa25?style=flat-square&logoColor=%23FFF&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-%23002c66?style=flat-square&logoColor=%23FFF&logo=docker)](https://www.docker.com/)
+[![AdonisJS](https://img.shields.io/badge/AdonisJS-%235a45ff?style=flat-square&logoColor=%23FFF&logo=adonisjs)](https://adonisjs.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-%23222?style=flat-square&logoColor=%23009639&logo=nginx)](https://www.nginx.com/)
+[![Tauri](https://img.shields.io/badge/Tauri-%23242526?style=flat-square&logoColor=%23ffc131&logo=tauri)](https://tauri.app/)
+[![Caddy 2](https://img.shields.io/badge/Caddy%202-%231bba37?style=flat-square&logoColor=%23FFF&logo=windows-terminal)](http://caddyserver.com/v2/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FFF?style=flat-square&logoColor=%23FF6600&logo=rabbitmq)](https://www.rabbitmq.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
 [![Ionic Framework](https://img.shields.io/badge/Ionic-%23498AFF?style=flat-square&logoColor=%23FFF&logo=ionic)](https://ionicframework.com/)
+[![Apache](https://img.shields.io/badge/Apache-%23557697?style=flat-square&logoColor=%23d12127&logo=apache)](https://httpd.apache.org/)
