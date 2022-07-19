@@ -50,7 +50,7 @@ For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript*
 [![AdonisJS](https://img.shields.io/badge/AdonisJS-%235a45ff?style=flat-square&logoColor=%23FFF&logo=adonisjs)](https://adonisjs.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-%23222?style=flat-square&logoColor=%23009639&logo=nginx)](https://www.nginx.com/)
 [![Tauri](https://img.shields.io/badge/Tauri-%23242526?style=flat-square&logoColor=%23ffc131&logo=tauri)](https://tauri.app/)
-[![Caddy 2](https://img.shields.io/badge/Caddy%202-%231bba37?style=flat-square&logoColor=%23FFF&logo=windows-terminal)](https://caddyserver.com/v2)
+[![Caddy Web Server](https://img.shields.io/badge/Caddy%20Web%20Server-%231bba37?style=flat-square&logoColor=%23FFF&logo=windows-terminal)](https://caddyserver.com/v2)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FFF?style=flat-square&logoColor=%23FF6600&logo=rabbitmq)](https://www.rabbitmq.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
