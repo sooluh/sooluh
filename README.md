@@ -2,7 +2,7 @@
 
 I'm Suluh Sulistiawan; a software engineer from Indonesia. 7+ years of experience in web development.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.sulistiawan)
+[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.me)
 [![Twitter](https://img.shields.io/twitter/follow/suluh_s?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/suluh_s)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/suluh_s)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4cH_s6tZDBT4NW7VuM4Gsw?label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/c/SDeveloper)
@@ -15,7 +15,7 @@ I'm Suluh Sulistiawan; a software engineer from Indonesia. 7+ years of experienc
 
 :man_technologist: I'm currently working at [**PST**](https://pratamatechsolution.co.id/)<br />
 :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-:seedling: Currently learning **AdonisJS**, **Tauri** & **Vue.js**<br />
+:seedling: Currently learning **AdonisJS**, **Neutralinojs** & **Vue.js**<br />
 :sparkles: Interested in **backend-ish** things<br />
 :house: Rarely go out, unless it's very important<br />
 :notes: Listen to modern Javanese songs
@@ -24,7 +24,7 @@ I'm Suluh Sulistiawan; a software engineer from Indonesia. 7+ years of experienc
 
 #### :blossom: Summary
 
-In my office work, I use the PHP framework ~~[**CodeIgniter 3**](https://github.com/bcit-ci/CodeIgniter) and~~ [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) to build website applications.<br />
+In my office work, I use the PHP framework ~~[**CodeIgniter 3**](https://github.com/bcit-ci/CodeIgniter),~~ [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) and [**AdonisJS**](https://github.com/adonisjs/core) to build website applications.<br />
 For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript**.
 
 #### :sunglasses: Familiar Tech
