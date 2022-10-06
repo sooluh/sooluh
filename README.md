@@ -1,6 +1,6 @@
 # Howdy :wave:
 
-I'm Suluh S; a software engineer from Indonesia. 7+ years of experience in web development.
+I'm Suluh; a software engineer from Indonesia. 7+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.me)
 [![Twitter](https://img.shields.io/twitter/follow/suluh_s?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/suluh_s)
