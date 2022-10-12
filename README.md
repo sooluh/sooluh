@@ -1,6 +1,6 @@
-# Howdy :wave:
+# Howdy:wave:
 
-I'm Suluh; a software engineer from Indonesia. 7+ years of experience in web development.
+I'm Suluh `he/him` ; a software engineer from Indonesia. 7+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.me)
 [![Twitter](https://img.shields.io/twitter/follow/suluh_s?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/suluh_s)
@@ -8,7 +8,7 @@ I'm Suluh; a software engineer from Indonesia. 7+ years of experience in web dev
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4cH_s6tZDBT4NW7VuM4Gsw?label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/c/SDeveloper)
 [![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fsuluh.my.id)](https://suluh.my.id)
 
-## Personal Stuffs :surfing_man:
+## :surfing_man: Personal Stuffs
 
 > I am currently 18 years old.<br />
 > Started my career at the age of 11, and worked remotely/freelance.
@@ -20,7 +20,7 @@ I'm Suluh; a software engineer from Indonesia. 7+ years of experience in web dev
 :house: Rarely go out, unless it's very important<br />
 :notes: Listen to modern Javanese songs
 
-## Working Area :see_no_evil:
+## :see_no_evil: Working Area
 
 #### :blossom: Summary
 
