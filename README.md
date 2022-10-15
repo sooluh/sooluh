@@ -8,7 +8,8 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 7+ years of experience 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4cH_s6tZDBT4NW7VuM4Gsw?label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/c/SDeveloper)
 [![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fsuluh.my.id)](https://suluh.my.id)
 
-> **Warning**<br>
+> **Warning**
+> 
 > Do you have a **hijrah community** that is engaged in technology?<br>
 > Priority in [Purwakarta, West Java](https://goo.gl/maps/RFdhGxjMbM3C1yBM8)
 > or [Pemalang, Central Java](https://goo.gl/maps/7SbbHEmvUYLWuAyE6)<br>
