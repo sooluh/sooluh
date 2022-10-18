@@ -1,12 +1,13 @@
-name: Reforestation
+name: Reforestation 🌱
+
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: ['main']
   schedule:
     # at minute 0 past hour 7, 8, 9, 10, and 11
     - cron: "0 7,8,9,10,11 * * *"
+
 jobs:
   reforestation:
     runs-on: ubuntu-latest
@@ -21,8 +22,8 @@ jobs:
 
       - name: Commit Changes 🥴
         run: |
-          git config --local user.email "suluh.webdevelopers@hotmail.com"
-          git config --local user.name "sooluh"
+          git config --local user.email "suluhs@aol.com"
+          git config --local user.name "Torch"
           git add --all
 
           date=$(date '+%Y-%m-%d %H:%M:%S')
