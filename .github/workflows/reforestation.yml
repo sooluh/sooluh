@@ -22,7 +22,7 @@ jobs:
 
       - name: Commit Changes 🥴
         run: |
-          git config --local user.email "suluhs@aol.com"
+          git config --local user.email "20874779+sooluh@users.noreply.github.com"
           git config --local user.name "Torch"
           git add --all
 
