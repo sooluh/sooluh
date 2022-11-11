@@ -1,6 +1,6 @@
 # Howdy:wave:
 
-I'm Suluh `he/him` ; a software engineer from Indonesia. 7+ years of experience in web development.
+I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience in web development.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.me)
 [![Twitter](https://img.shields.io/twitter/follow/suluh_s?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/suluh_s)
@@ -16,12 +16,12 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 7+ years of experience 
 
 ## :surfing_man: Personal Stuffs
 
-> I am currently 18 years old.<br />
+> I am currently 19 years old.<br />
 > Started my career at the age of 11, and worked remotely/freelance.
 
 :man_technologist: I'm currently working at [**PST**](https://pratamatechsolution.co.id/)<br />
 :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-:seedling: Currently learning **AdonisJS** & **Python**<br />
+:seedling: Currently learning **AdonisJS** && **Python**<br />
 :sparkles: Interested in **backend-ish** things<br />
 :house: Rarely go out, unless it's important<br />
 :book: Read Islamic motiv books
@@ -55,10 +55,8 @@ For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript*
 [![Docker](https://img.shields.io/badge/Docker-%23002c66?style=flat-square&logoColor=%23FFF&logo=docker)](https://www.docker.com/)
 [![AdonisJS](https://img.shields.io/badge/AdonisJS-%235a45ff?style=flat-square&logoColor=%23FFF&logo=adonisjs)](https://adonisjs.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-%23222?style=flat-square&logoColor=%23009639&logo=nginx)](https://www.nginx.com/)
-[![Tauri](https://img.shields.io/badge/Tauri-%23242526?style=flat-square&logoColor=%23ffc131&logo=tauri)](https://tauri.app/)
 [![Caddy Server](https://img.shields.io/badge/Caddy%20Server-%231bba37?style=flat-square&logoColor=%23FFF&logo=windows-terminal)](https://caddyserver.com/v2)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FFF?style=flat-square&logoColor=%23FF6600&logo=rabbitmq)](https://www.rabbitmq.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat-square&logoColor=%23FFF&logo=sqlite)](https://www.sqlite.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFA611?style=flat-square&logoColor=%23FFF&logo=firebase)](https://firebase.google.com/)
-[![Ionic Framework](https://img.shields.io/badge/Ionic-%23498AFF?style=flat-square&logoColor=%23FFF&logo=ionic)](https://ionicframework.com/)
 [![Apache](https://img.shields.io/badge/Apache-%23557697?style=flat-square&logoColor=%23d12127&logo=apache)](https://httpd.apache.org/)
