@@ -24,7 +24,7 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience 
 
 #### :blossom: Summary
 
-In my office work, I use the PHP framework ~~[**CodeIgniter 3**](https://github.com/bcit-ci/CodeIgniter),~~ [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) and [**AdonisJS**](https://github.com/adonisjs/core) to build website applications.<br />
+In my office work, I use the PHP framework [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) and [**AdonisJS**](https://github.com/adonisjs/core) to build website applications.<br />
 For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript**.
 
 #### :sunglasses: Familiar Tech
