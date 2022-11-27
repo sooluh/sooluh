@@ -5,8 +5,8 @@ on:
   push:
     branches: ['main']
   schedule:
-    # at minute 0 past hour 7, 8, 9, 10, and 11
-    - cron: "0 7,8,9,10,11 * * *"
+    # https://crontab.guru/every-4-hours
+    - cron: "0 */4 * * *"
 
 jobs:
   reforestation:
@@ -15,21 +15,21 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2
 
-      - name: Modify Last Update 👻
+      - name: Modify Last Update 🛸
         run: |
           chmod +x ./reforestation/run.sh
           ./reforestation/run.sh
 
-      - name: Commit Changes 🥴
+      - name: Commit Changes 🚩
         run: |
           git config --local user.email "20874779+sooluh@users.noreply.github.com"
           git config --local user.name "Torch"
           git add --all
 
           date=$(date '+%Y-%m-%d %H:%M:%S')
-          git commit -m "green update [$date]"
+          git commit -m ":hourglass: $date"
 
-      - name: GitHub Push 🌠
+      - name: GitHub Push 🚀
         uses: ad-m/github-push-action@master
         with:
           force: true
