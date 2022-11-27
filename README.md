@@ -8,7 +8,7 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4cH_s6tZDBT4NW7VuM4Gsw?label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/c/SDeveloper)
 [![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fsuluh.my.id)](https://suluh.my.id)
 
-## :surfing_man: Personal Stuffs
+## :raising_hand: Personal Stuffs
 
 > I am currently 19 years old.<br />
 > Started my career at the age of 11, and worked remotely/freelance.
@@ -20,14 +20,14 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience 
 :house: Rarely go out, unless it's important<br />
 :book: Read Islamic motiv books
 
-## :see_no_evil: Working Area
+## :eyes: Working Area
 
-#### :blossom: Summary
+#### :raised_hands: Summary
 
 In my office work, I use the PHP framework [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) and [**AdonisJS**](https://github.com/adonisjs/core) to build website applications.<br />
 For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript**.
 
-#### :sunglasses: Familiar Tech
+#### :dart: Familiar Tech
 
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logoColor=%23FFF&logo=php)](https://www.php.net/)
