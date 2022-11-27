@@ -15,7 +15,7 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience 
 
 :man_technologist: I'm currently working at [**PST**](https://pratama.tech/)<br />
 :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-:seedling: Currently learning **AdonisJS** `&&` **Python**<br />
+:seedling: Currently learning **AdonisJS** `&&` **Vue 3**<br />
 :sparkles: Interested in **backend-ish** things<br />
 :house: Rarely go out, unless it's important<br />
 :book: Read Islamic motiv books
@@ -39,7 +39,7 @@ For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript*
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23f0db4f?style=flat-square&logoColor=%23333&logo=javascript)](https://www.javascript.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59?&style=flat-square&logoColor=%23FFF&logo=express)](https://expressjs.com/)
 [![Yarn](https://img.shields.io/badge/Yarn-%23FFFFFF?style=flat-square&logoColor=%232188b6&logo=yarn)](https://yarnpkg.com/)
-[![NPM](https://img.shields.io/badge/npm-%23FFFFFF?style=flat-square&logoColor=%23FFF&logo=npm)](https://www.npmjs.com/)
+[![NPM](https://img.shields.io/badge/npm-%23C53635?style=flat-square&logoColor=%23FFF&logo=npm)](https://www.npmjs.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23e34c26?style=flat-square&logoColor=%23FFF&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=flat-square&logoColor=%23FFF&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![jQuery](https://img.shields.io/badge/JQuery-%230769ad?style=flat-square&logoColor=%23FFF&logo=jquery)](https://jquery.com/)
