@@ -42,7 +42,7 @@ For hobbies or freelance I usually use **PHP**, **JavaScript** and **TypeScript*
 [![NPM](https://img.shields.io/badge/npm-%23C53635?style=flat-square&logoColor=%23FFF&logo=npm)](https://www.npmjs.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23e34c26?style=flat-square&logoColor=%23FFF&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%23264de4?style=flat-square&logoColor=%23FFF&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![jQuery](https://img.shields.io/badge/JQuery-%230769ad?style=flat-square&logoColor=%23FFF&logo=jquery)](https://jquery.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-%230769ad?style=flat-square&logoColor=%23FFF&logo=jquery)](https://jquery.com/)
 [![SCSS](https://img.shields.io/badge/SCSS-%23E0A3C2?style=flat-square&logoColor=%23333&logo=sass)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3?style=flat-square&logoColor=%23FFF&logo=bootstrap)](https://getbootstrap.com/)
 [![Bash](https://img.shields.io/badge/Bash-%234eaa25?style=flat-square&logoColor=%23FFF&logo=gnu-bash)](https://www.gnu.org/software/bash/)
