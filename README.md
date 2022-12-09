@@ -2,10 +2,10 @@
 
 I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience in web development.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/suluh.me)
-[![Twitter](https://img.shields.io/twitter/follow/suluh_s?color=%231d9bf0&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/suluh_s)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/suluh_s)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4cH_s6tZDBT4NW7VuM4Gsw?label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/c/SDeveloper)
+[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://fb.me/suluh.me)
+[![Twitter](https://img.shields.io/twitter/follow/suluh_s?color=%231d9bf0&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/suluh_s)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://suluh_s.t.me)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC4cH_s6tZDBT4NW7VuM4Gsw?color=%23FF0000&label=YouTube&logo=youtube&style=flat-square)](https://youtube.com/@sooluh)
 [![Website](https://img.shields.io/website?down_color=down&down_message=Down&label=Website&logo=google-chrome&logoColor=white&style=flat-square&up_color=blue&up_message=Up&url=https%3A%2F%2Fsuluh.my.id)](https://suluh.my.id)
 
 ## :raising_hand: Personal Stuffs
