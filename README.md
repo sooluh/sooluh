@@ -2,13 +2,6 @@
 
 I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience in web development.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23C13584.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/suluh_s)
-[![Twitter](https://img.shields.io/badge/Twitter-%231d9bf0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/suluh_s)
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://fb.me/suluh.me)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/suluh_s)
-[![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@sooluh)
-[![Website](https://img.shields.io/website?down_color=down&down_message=Down&label=Website&logo=google-chrome&logoColor=white&style=flat-square&up_color=blue&up_message=Up&url=https%3A%2F%2Fsuluh.my.id)](https://suluh.my.id)
-
 ## :raising_hand: Personal Stuffs
 
 > I am currently 19 years old.<br />
