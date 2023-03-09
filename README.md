@@ -9,7 +9,7 @@ I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience 
 
 :man_technologist: I'm currently working at [**PST**](https://pratama.tech/)<br />
 :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-:seedling: Currently learning **Vue 3**<br />
+:seedling: Currently learning **Vue 3** `&&` **Nuxt**<br />
 :sparkles: Interested in **backend-ish** things<br />
 :house: Rarely go out, unless it's important<br />
 :book: Read Islamic motiv books
