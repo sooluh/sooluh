@@ -15,9 +15,7 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 <sub>_The Night Journey_</sub><br>
 **Surah Al-Isra** (17: 23)
 
-```
-For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
-```
+> For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
 
 \- Ramadhan 27, 1444
 <!-- AYAHADAY:END -->
