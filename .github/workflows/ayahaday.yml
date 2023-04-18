@@ -1,0 +1,39 @@
+name: Ayah of the Day ☪️
+
+on:
+  schedule:
+    # https://crontab.guru/every-day
+    - cron: 0 0 * * *
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Update Posts 📚
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Setup Deno 🦕
+        uses: denoland/setup-deno@v1.1.1
+        with:
+          deno-version: v1.x
+
+      - name: Bismillah 🤲🏻
+        run: deno run --allow-all src/ayahaday.ts
+
+      - name: Commit Changes 🚩
+        run: |
+          git config --local user.email "20874779+sooluh@users.noreply.github.com"
+          git config --local user.name "Torch"
+          git add --all
+
+          date=$(date '+%Y-%m-%d')
+          git commit -m ":star_and_crescent: ayah of the day $date"
+
+      - name: GitHub Push 🚀
+        uses: ad-m/github-push-action@master
+        with:
+          force: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

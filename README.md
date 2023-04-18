@@ -9,15 +9,9 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 - :house: Rarely go out, unless it's important<br />
 - :book: Read Islamic motiv books
 
-### :book: Ayah of the Day
+### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 23)
-
-> For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
-
-\- Ramadhan 27, 1444
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
@@ -30,7 +24,7 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 - [Bukan Sekedar WhatsApp Mod](https://sooluh.hashnode.dev/whatsapp-mod-clf0xlrzp00180ajy8c0n1po5)
 <!-- HASHNODE_BLOG:END -->
 
-Check out [__notes.suluh.my.id__](https://notes.suluh.my.id) for more interesting blog posts!
+Check out [**notes.suluh.my.id**](https://notes.suluh.my.id) for more interesting blog posts!
 
 ### :dart: Familiar Tech
 
