@@ -1,0 +1,25 @@
+name: Post Feed Updater 🔃
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+  schedule:
+    # https://crontab.guru/every-6-hours
+    - cron: "0 */6 * * *"
+
+jobs:
+  update:
+    name: Update Posts 📚
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Hashnode Updater 🐣
+        uses: varunsridharan/action-hashnode-blog@main
+        with:
+          USERNAME: sooluh
+          COUNT: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

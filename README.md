@@ -1,27 +1,22 @@
-# Howdy:wave:
+## :wave: Hi there, I'm Suluh!
 
-I'm Suluh `he/him` ; a software engineer from Indonesia. 8+ years of experience in web development.
+a software engineer from Indonesia. 8+ years of experience in web development.
 
-## :raising_hand: Personal Stuffs
+- :man_technologist: I'm currently working at [**PST**](https://pratama.tech/)<br />
+- :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
+- :seedling: Currently learning `null`<br />
+- :sparkles: Interested in **backend-ish** things<br />
+- :house: Rarely go out, unless it's important<br />
+- :book: Read Islamic motiv books
 
-> I am currently 19 years old.<br />
-> Started my career at the age of 11, and worked remotely/freelance.
+### :books: Recent Blog Posts
 
-:man_technologist: I'm currently working at [**PST**](https://pratama.tech/)<br />
-:mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-:seedling: Currently learning `Nuxt.js`<br />
-:sparkles: Interested in **backend-ish** things<br />
-:house: Rarely go out, unless it's important<br />
-:book: Read Islamic motiv books
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
-## :eyes: Working Area
+Check out [__notes.suluh.my.id__](https://notes.suluh.my.id) for more interesting blog posts!
 
-#### :raised_hands: Summary
-
-In my office work, I use the PHP framework [**AdonisJS**](https://github.com/adonisjs/core) and [**CodeIgniter 4**](https://github.com/codeigniter4/CodeIgniter4) to build website applications.<br />
-For hobbies or freelance I usually use **JavaScript**, **TypeScript** and **PHP**.
-
-#### :dart: Familiar Tech
+### :dart: Familiar Tech
 
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=flat-square&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)
