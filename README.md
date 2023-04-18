@@ -12,6 +12,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :books: Recent Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Dinilai Sebagai Ketaatan Saat Bertemu Error](https://sooluh.hashnode.dev/error-clfymj36v00010alc6o1a4a77)
+- [Create My Own MessageFormat](https://sooluh.hashnode.dev/messageformat-clfbxjun600010al1botwgnay)
+- [Renungan Seputar Ayat Puasa](https://sooluh.hashnode.dev/puasa-clf83kupp000b09jz1xnq8c6m)
+- [Integrate WhatsApp Cloud API with your AdonisJS App](https://sooluh.hashnode.dev/whatsapp-api-adonisjs-clf2ds9r2000709mg0g9z71im)
+- [Bukan Sekedar WhatsApp Mod](https://sooluh.hashnode.dev/whatsapp-mod-clf0xlrzp00180ajy8c0n1po5)
 <!-- HASHNODE_BLOG:END -->
 
 Check out [__notes.suluh.my.id__](https://notes.suluh.my.id) for more interesting blog posts!
