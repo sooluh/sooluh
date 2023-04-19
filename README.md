@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 23)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 62)
 
-> For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
+> There will certainly be no fear for the close servants of Allah, nor will they grieve.
 
-\- Ramadhan 27, 1444
+\- Ramadhan 28, 1444
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
