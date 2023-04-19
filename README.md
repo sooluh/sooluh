@@ -17,7 +17,7 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 > There will certainly be no fear for the close servants of Allah, nor will they grieve.
 
-— Ramadhan 28, 1444
+— Ramadhan 28, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
