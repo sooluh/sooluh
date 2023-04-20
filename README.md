@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 62)
+<sub>_The Rooms_</sub><br>
+**Surah Al-Hujurat** (49: 13)
 
-> There will certainly be no fear for the close servants of Allah, nor will they grieve.
+> O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware. 
 
-— Ramadhan 28, 1444H
+— Ramadhan 29, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
