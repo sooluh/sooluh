@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rooms_</sub><br>
-**Surah Al-Hujurat** (49: 13)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 62)
 
-> O humanity! Indeed, We created you from a male and a female, and made you into peoples and tribes so that you may ˹get to˺ know one another. Surely the most noble of you in the sight of Allah is the most righteous among you. Allah is truly All-Knowing, All-Aware. 
+> Adding, “Do you see this one you honoured above me? If you delay my end until the Day of Judgment, I will certainly take hold of his descendants, except for a few.”
 
-— Ramadhan 29, 1444H
+— Shawwal 1, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
