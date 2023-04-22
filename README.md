@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 62)
+<sub>_The Iron_</sub><br>
+**Surah Al-Hadid** (57: 21)
 
-> Adding, “Do you see this one you honoured above me? If you delay my end until the Day of Judgment, I will certainly take hold of his descendants, except for a few.”
+> ˹So˺ compete with one another for forgiveness from your Lord and a Paradise as vast as the heavens and the earth, prepared for those who believe in Allah and His messengers. This is the favour of Allah. He grants it to whoever He wills. And Allah is the Lord of infinite bounty.
 
-— Shawwal 1, 1444H
+— Shawwal 2, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
