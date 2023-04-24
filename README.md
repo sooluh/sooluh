@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Iron_</sub><br>
-**Surah Al-Hadid** (57: 21)
+<sub>_The Prostration_</sub><br>
+**Surah As-Sajdah** (32: 8)
 
-> ˹So˺ compete with one another for forgiveness from your Lord and a Paradise as vast as the heavens and the earth, prepared for those who believe in Allah and His messengers. This is the favour of Allah. He grants it to whoever He wills. And Allah is the Lord of infinite bounty.
+> Then He made his descendants from an extract of a humble fluid,
 
-— Shawwal 2, 1444H
+— Shawwal 4, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
