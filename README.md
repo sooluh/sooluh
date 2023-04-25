@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prostration_</sub><br>
-**Surah As-Sajdah** (32: 8)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 95)
 
-> Then He made his descendants from an extract of a humble fluid,
+> He responded, “What my Lord has provided for me is far better. But assist me with resources, and I will build a barrier between you and them.
 
-— Shawwal 4, 1444H
+— Shawwal 5, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
