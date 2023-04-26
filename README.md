@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 95)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 44)
 
-> He responded, “What my Lord has provided for me is far better. But assist me with resources, and I will build a barrier between you and them.
+> And warn the people of the Day when the punishment will overtake ˹the wicked among˺ them, and the wrongdoers will cry, “Our Lord! Delay us for a little while. We will respond to Your call and follow the messengers!” ˹It will be said,˺ “Did you not swear before that you would never be removed ˹to the next life˺?”
 
-— Shawwal 5, 1444H
+— Shawwal 6, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
