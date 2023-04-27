@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 44)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 51)
 
-> And warn the people of the Day when the punishment will overtake ˹the wicked among˺ them, and the wrongdoers will cry, “Our Lord! Delay us for a little while. We will respond to Your call and follow the messengers!” ˹It will be said,˺ “Did you not swear before that you would never be removed ˹to the next life˺?”
+> or whatever you think is harder to bring to life!” Then they will ask ˹you˺, “Who will bring us back ˹to life˺?” Say, “The One Who created you the first time.” They will then shake their heads at you and ask, “When will that be?” Say, “Perhaps it is soon!”
 
-— Shawwal 6, 1444H
+— Shawwal 7, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
