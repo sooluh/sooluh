@@ -13,11 +13,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 51)
+**Surah Al-Isra** (17: 1)
 
-> or whatever you think is harder to bring to life!” Then they will ask ˹you˺, “Who will bring us back ˹to life˺?” Say, “The One Who created you the first time.” They will then shake their heads at you and ask, “When will that be?” Say, “Perhaps it is soon!”
+> Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing.
 
-— Shawwal 7, 1444H
+— Shawwal 8, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
