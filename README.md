@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 1)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 25)
 
-> Glory be to the One Who took His servant ˹Muḥammad˺ by night from the Sacred Mosque to the Farthest Mosque whose surroundings We have blessed, so that We may show him some of Our signs. Indeed, He alone is the All-Hearing, All-Seeing.
+> Let them bear their burdens in full on the Day of Judgment as well as some of the burdens of those they mislead without knowledge. Evil indeed is what they will bear!
 
-— Shawwal 8, 1444H
+— Shawwal 9, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
