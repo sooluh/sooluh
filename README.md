@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 25)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 59)
 
-> Let them bear their burdens in full on the Day of Judgment as well as some of the burdens of those they mislead without knowledge. Evil indeed is what they will bear!
+> Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning.
 
-— Shawwal 9, 1444H
+— Shawwal 10, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
