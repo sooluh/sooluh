@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 59)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 45)
 
-> Nothing keeps Us from sending the ˹demanded˺ signs except that they had ˹already˺ been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning.
+> And give them a parable of this worldly life. ˹It is˺ like the plants of the earth, thriving when sustained by the rain We send down from the sky. Then they ˹soon˺ turn into chaff scattered by the wind. And Allah is fully capable of ˹doing˺ all things.
 
-— Shawwal 10, 1444H
+— Shawwal 11, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
