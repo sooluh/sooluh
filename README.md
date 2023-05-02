@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 45)
+<sub>_The Man_</sub><br>
+**Surah Al-Insan** (76: 2)
 
-> And give them a parable of this worldly life. ˹It is˺ like the plants of the earth, thriving when sustained by the rain We send down from the sky. Then they ˹soon˺ turn into chaff scattered by the wind. And Allah is fully capable of ˹doing˺ all things.
+> ˹For˺ indeed, We ˹alone˺ created humans from a drop of mixed fluids, ˹in order˺ to test them, so We made them hear and see.
 
-— Shawwal 11, 1444H
+— Shawwal 12, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
