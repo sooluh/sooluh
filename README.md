@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man_</sub><br>
-**Surah Al-Insan** (76: 2)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 34)
 
-> ˹For˺ indeed, We ˹alone˺ created humans from a drop of mixed fluids, ˹in order˺ to test them, so We made them hear and see.
+> And He has granted you all that you asked Him for. If you tried to count Allah’s blessings, you would never be able to number them. Indeed humankind is truly unfair, ˹totally˺ ungrateful. 
 
-— Shawwal 12, 1444H
+— Shawwal 13, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
