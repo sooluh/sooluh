@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 34)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 18)
 
-> And He has granted you all that you asked Him for. If you tried to count Allah’s blessings, you would never be able to number them. Indeed humankind is truly unfair, ˹totally˺ ungrateful. 
+> Those who respond to ˹the call of˺ their Lord will have the finest reward. As for those who do not respond to Him, even if they were to possess everything in the world twice over, they would certainly offer it to ransom themselves. They will face strict judgment, and Hell will be their home. What an evil place to rest!
 
-— Shawwal 13, 1444H
+— Shawwal 14, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
