@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 18)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 2)
 
-> Those who respond to ˹the call of˺ their Lord will have the finest reward. As for those who do not respond to Him, even if they were to possess everything in the world twice over, they would certainly offer it to ransom themselves. They will face strict judgment, and Hell will be their home. What an evil place to rest!
+> We have not revealed the Quran to you ˹O Prophet˺ to cause you distress,
 
-— Shawwal 14, 1444H
+— Shawwal 15, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
