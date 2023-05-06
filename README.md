@@ -13,11 +13,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 2)
+**Surah Taha** (20: 16)
 
-> We have not revealed the Quran to you ˹O Prophet˺ to cause you distress,
+> So do not let those who disbelieve in it and follow their desires distract you from it, or you will be doomed.’”
 
-— Shawwal 15, 1444H
+— Shawwal 16, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
