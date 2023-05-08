@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 25)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 57)
 
-> Moses prayed, “My Lord! Uplift my heart for me,
+> And the reward of the Hereafter is far better for those who are faithful and are mindful ˹of Allah˺.
 
-— Shawwal 17, 1444H
+— Shawwal 18, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
