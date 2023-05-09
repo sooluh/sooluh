@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 57)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 13)
 
-> And the reward of the Hereafter is far better for those who are faithful and are mindful ˹of Allah˺.
+> And ˹He subjected˺ for you whatever He has created on earth of varying colours. Surely in this is a sign for those who are mindful.
 
-— Shawwal 18, 1444H
+— Shawwal 19, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
