@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 13)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 40)
 
-> And ˹He subjected˺ for you whatever He has created on earth of varying colours. Surely in this is a sign for those who are mindful.
+> And as for those who were in awe of standing before their Lord and restrained themselves from ˹evil˺ desires,
 
-— Shawwal 19, 1444H
+— Shawwal 20, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
