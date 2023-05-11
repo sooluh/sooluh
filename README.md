@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 40)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 54)
 
-> And as for those who were in awe of standing before their Lord and restrained themselves from ˹evil˺ desires,
+> Your Lord knows you best. He may have mercy on you if He wills, or punish you if He wills. We have not sent you ˹O Prophet˺ as a keeper over them.
 
-— Shawwal 20, 1444H
+— Shawwal 21, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
