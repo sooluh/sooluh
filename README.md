@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 30)
+<sub>_The Winnowing Winds_</sub><br>
+**Surah Adh-Dhariyat** (51: 13)
 
-> And so We have sent you ˹O Prophet˺ to a community, like ˹We did with˺ earlier communities, so that you may recite to them what We have revealed to you. Yet they deny the Most Compassionate. Say, “He is my Lord! There is no god ˹worthy of worship˺ except Him. In Him I put my trust, and to Him I turn ˹in repentance˺.”
+> ˹It is˺ the Day they will be tormented over the Fire.
 
-— Shawwal 22, 1444H
+— Shawwal 23, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
