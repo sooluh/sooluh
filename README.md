@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Winnowing Winds_</sub><br>
-**Surah Adh-Dhariyat** (51: 13)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 75)
 
-> ˹It is˺ the Day they will be tormented over the Fire.
+> But whoever comes to Him as a believer, having done good, they will have the highest ranks:
 
-— Shawwal 23, 1444H
+— Shawwal 24, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
