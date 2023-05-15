@@ -13,11 +13,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 75)
+**Surah Taha** (20: 15)
 
-> But whoever comes to Him as a believer, having done good, they will have the highest ranks:
+> The Hour is sure to come. My Will is to keep it hidden, so that every soul may be rewarded according to their efforts.
 
-— Shawwal 24, 1444H
+— Shawwal 25, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
