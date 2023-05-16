@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 15)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 46)
 
-> The Hour is sure to come. My Will is to keep it hidden, so that every soul may be rewarded according to their efforts.
+> Wealth and children are the adornment of this worldly life, but the everlasting good deeds are far better with your Lord in reward and in hope. 
 
-— Shawwal 25, 1444H
+— Shawwal 26, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
