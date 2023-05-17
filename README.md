@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 46)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 48)
 
-> Wealth and children are the adornment of this worldly life, but the everlasting good deeds are far better with your Lord in reward and in hope. 
+> ˹Watch for˺ the Day ˹when˺ the earth will be changed into a different earth and the heavens as well, and all will appear before Allah—the One, the Supreme.
 
-— Shawwal 26, 1444H
+— Shawwal 27, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
