@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 48)
+<sub>_The Divorce_</sub><br>
+**Surah At-Talaq** (65: 5)
 
-> ˹Watch for˺ the Day ˹when˺ the earth will be changed into a different earth and the heavens as well, and all will appear before Allah—the One, the Supreme.
+> This is the commandment of Allah, which He has revealed to you. And whoever is mindful of Allah, He will absolve them of their sins and reward them immensely.
 
-— Shawwal 27, 1444H
+— Shawwal 28, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
