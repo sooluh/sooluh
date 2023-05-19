@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Divorce_</sub><br>
-**Surah At-Talaq** (65: 5)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 1)
 
-> This is the commandment of Allah, which He has revealed to you. And whoever is mindful of Allah, He will absolve them of their sins and reward them immensely.
+> ˹The time of˺ people’s judgment has drawn near, yet they are heedlessly turning away.
 
-— Shawwal 28, 1444H
+— Shawwal 29, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
