@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 1)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 54)
 
-> ˹The time of˺ people’s judgment has drawn near, yet they are heedlessly turning away.
+> We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings.
 
-— Shawwal 29, 1444H
+— Shawwal 30, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
