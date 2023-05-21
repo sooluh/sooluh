@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 54)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 7)
 
-> We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings.
+> Whether you speak openly ˹or not˺, He certainly knows what is secret and what is even more hidden.
 
-— Shawwal 30, 1444H
+— Dhu al-Qi’dah 1, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
