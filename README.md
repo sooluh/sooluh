@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 7)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 36)
 
-> Whether you speak openly ˹or not˺, He certainly knows what is secret and what is even more hidden.
+> We have made sacrificial camels ˹and cattle˺ among the symbols of Allah, in which there is ˹much˺ good for you. So pronounce the Name of Allah over them when they are lined up ˹for sacrifice˺. Once they have fallen ˹lifeless˺ on their sides, you may eat from their meat, and feed the needy—those who do not beg, and those who do. In this way We have subjected these ˹animals˺ to you so that you may be grateful.
 
-— Dhu al-Qi’dah 1, 1444H
+— Dhu al-Qi’dah 2, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
