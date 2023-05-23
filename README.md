@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 36)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 51)
 
-> We have made sacrificial camels ˹and cattle˺ among the symbols of Allah, in which there is ˹much˺ good for you. So pronounce the Name of Allah over them when they are lined up ˹for sacrifice˺. Once they have fallen ˹lifeless˺ on their sides, you may eat from their meat, and feed the needy—those who do not beg, and those who do. In this way We have subjected these ˹animals˺ to you so that you may be grateful.
+> The King asked ˹the women˺, “What did you get when you tried to seduce Joseph?” They replied, “Allah forbid! We know nothing indecent about him.” Then the Chief Minister’s wife admitted, “Now the truth has come to light. It was I who tried to seduce him, and he is surely truthful.
 
-— Dhu al-Qi’dah 2, 1444H
+— Dhu al-Qi’dah 3, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
