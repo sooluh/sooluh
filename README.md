@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 51)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 42)
 
-> The King asked ˹the women˺, “What did you get when you tried to seduce Joseph?” They replied, “Allah forbid! We know nothing indecent about him.” Then the Chief Minister’s wife admitted, “Now the truth has come to light. It was I who tried to seduce him, and he is surely truthful.
+> Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers do. He only delays them until a Day when ˹their˺ eyes will stare in horror—
 
-— Dhu al-Qi’dah 3, 1444H
+— Dhu al-Qi’dah 4, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
