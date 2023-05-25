@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 42)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 26)
 
-> Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers do. He only delays them until a Day when ˹their˺ eyes will stare in horror—
+> Allah gives abundant or limited provisions to whoever He wills. And the disbelievers become prideful of ˹the pleasures of˺ this worldly life. But the life of this world, compared to the Hereafter, is nothing but a fleeting enjoyment.
 
-— Dhu al-Qi’dah 4, 1444H
+— Dhu al-Qi’dah 5, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
