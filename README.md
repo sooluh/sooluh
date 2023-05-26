@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 26)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 5)
 
-> Allah gives abundant or limited provisions to whoever He wills. And the disbelievers become prideful of ˹the pleasures of˺ this worldly life. But the life of this world, compared to the Hereafter, is nothing but a fleeting enjoyment.
+> O humanity! If you are in doubt about the Resurrection, then ˹know that˺ We did create you from dust, then from a sperm-drop, then ˹developed you into˺ a clinging clot ˹of blood˺, then a lump of flesh—fully formed or unformed—in order to demonstrate ˹Our power˺ to you. ˹Then˺ We settle whatever ˹embryo˺ We will in the womb for an appointed term, then bring you forth as infants, so that you may reach your prime. Some of you ˹may˺ die ˹young˺, while others are left to reach the most feeble stage of life so that they may know nothing after having known much. And you see the earth lifeless, but as soon as We send down rain upon it, it begins to stir ˹to life˺ and swell, producing every type of pleasant plant.
 
-— Dhu al-Qi’dah 5, 1444H
+— Dhu al-Qi’dah 6, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
