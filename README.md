@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 57)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 12)
 
-> And who does more wrong than those who, when reminded of their Lord’s revelations, turn away from them and forget what their own hands have done? We have certainly cast veils over their hearts—leaving them unable to comprehend this ˹Quran˺—and deafness in their ears. And if you ˹O Prophet˺ invite them to ˹true˺ guidance, they will never be ˹rightly˺ guided.
+> They call besides Allah what can neither harm nor benefit them. That is ˹truly˺ the farthest one can stray.
 
-— Dhu al-Qi’dah 7, 1444H
+— Dhu al-Qi’dah 8, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
