@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 12)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 36)
 
-> They call besides Allah what can neither harm nor benefit them. That is ˹truly˺ the farthest one can stray.
+> Do not follow what you have no ˹sure˺ knowledge of. Indeed, all will be called to account for ˹their˺ hearing, sight, and intellect.
 
-— Dhu al-Qi’dah 8, 1444H
+— Dhu al-Qi’dah 9, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
