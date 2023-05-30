@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 36)
+<sub>_The Crouching_</sub><br>
+**Surah Al-Jathiyah** (45: 13)
 
-> Do not follow what you have no ˹sure˺ knowledge of. Indeed, all will be called to account for ˹their˺ hearing, sight, and intellect.
+> He ˹also˺ subjected for you whatever is in the heavens and whatever is on the earth—all by His grace. Surely in this are signs for people who reflect.
 
-— Dhu al-Qi’dah 9, 1444H
+— Dhu al-Qi’dah 10, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
