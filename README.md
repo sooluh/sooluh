@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Crouching_</sub><br>
-**Surah Al-Jathiyah** (45: 13)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 22)
 
-> He ˹also˺ subjected for you whatever is in the heavens and whatever is on the earth—all by His grace. Surely in this are signs for people who reflect.
+> Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.
 
-— Dhu al-Qi’dah 10, 1444H
+— Dhu al-Qi’dah 11, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
