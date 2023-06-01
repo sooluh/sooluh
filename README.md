@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 22)
+<sub>_The Resurrection_</sub><br>
+**Surah Al-Qiyamah** (75: 3)
 
-> Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.
+> Do people think We cannot reassemble their bones?
 
-— Dhu al-Qi’dah 11, 1444H
+— Dhu al-Qi’dah 12, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
