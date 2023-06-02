@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Resurrection_</sub><br>
-**Surah Al-Qiyamah** (75: 3)
+<sub>_The Sovereignty_</sub><br>
+**Surah Al-Mulk** (67: 2)
 
-> Do people think We cannot reassemble their bones?
+> ˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.
 
-— Dhu al-Qi’dah 12, 1444H
+— Dhu al-Qi’dah 13, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
