@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty_</sub><br>
-**Surah Al-Mulk** (67: 2)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 16)
 
-> ˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.
+> We did not create the heavens and the earth and everything in between for sport.
 
-— Dhu al-Qi’dah 13, 1444H
+— Dhu al-Qi’dah 14, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
