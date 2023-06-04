@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 16)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 34)
 
-> We did not create the heavens and the earth and everything in between for sport.
+> For every community We appointed a rite of sacrifice so that they may pronounce the Name of Allah over the sacrificial animals He has provided for them. For your God is only One God, so submit yourselves to Him ˹alone˺. And give good news ˹O Prophet˺ to the humble:
 
-— Dhu al-Qi’dah 14, 1444H
+— Dhu al-Qi’dah 15, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
