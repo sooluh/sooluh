@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 34)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 37)
 
-> For every community We appointed a rite of sacrifice so that they may pronounce the Name of Allah over the sacrificial animals He has provided for them. For your God is only One God, so submit yourselves to Him ˹alone˺. And give good news ˹O Prophet˺ to the humble:
+> And do not walk on the earth arrogantly. Surely you can neither crack the earth nor stretch to the height of the mountains.
 
-— Dhu al-Qi’dah 15, 1444H
+— Dhu al-Qi’dah 16, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
