@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 37)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 22)
 
-> And do not walk on the earth arrogantly. Surely you can neither crack the earth nor stretch to the height of the mountains.
+> And put your hand under your armpit, it will come out ˹shining˺ white, unblemished, as another sign,
 
-— Dhu al-Qi’dah 16, 1444H
+— Dhu al-Qi’dah 17, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
