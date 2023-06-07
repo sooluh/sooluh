@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 22)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 8)
 
-> And put your hand under your armpit, it will come out ˹shining˺ white, unblemished, as another sign,
+> And We will certainly reduce whatever is on it to barren ground.
 
-— Dhu al-Qi’dah 17, 1444H
+— Dhu al-Qi’dah 18, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
