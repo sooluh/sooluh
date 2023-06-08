@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 8)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 6)
 
-> And We will certainly reduce whatever is on it to barren ground.
+> Then ˹after your repentance˺ We would give you the upper hand over them and aid you with wealth and offspring, causing you to outnumber them.
 
-— Dhu al-Qi’dah 18, 1444H
+— Dhu al-Qi’dah 19, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
