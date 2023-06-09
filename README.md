@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 6)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 31)
 
-> Then ˹after your repentance˺ We would give you the upper hand over them and aid you with wealth and offspring, causing you to outnumber them.
+> Be upright ˹in devotion˺ to Allah, associating none with Him ˹in worship˺. For whoever associates ˹others˺ with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place.
 
-— Dhu al-Qi’dah 19, 1444H
+— Dhu al-Qi’dah 20, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
