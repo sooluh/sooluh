@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 11)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 51)
 
-> For each one there are successive angels before and behind, protecting them by Allah’s command. Indeed, Allah would never change a people’s state ˹of favour˺ until they change their own state ˹of faith˺. And if it is Allah’s Will to torment a people, it can never be averted, nor can they find a protector other than Him.
+> I never called them to witness the creation of the heavens and the earth or ˹even˺ their own creation, nor would I take the misleaders as helpers.
 
-— Dhu al-Qi’dah 21, 1444H
+— Dhu al-Qi’dah 22, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
