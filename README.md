@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 51)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 12)
 
-> I never called them to witness the creation of the heavens and the earth or ˹even˺ their own creation, nor would I take the misleaders as helpers.
+> We made the day and night as two signs. So We made the sign of the night devoid of light, and We made the sign of the day ˹perfectly˺ bright, so that you may seek the bounty of your Lord and know the number of years and calculation ˹of time˺. And We have explained everything in detail.
 
-— Dhu al-Qi’dah 22, 1444H
+— Dhu al-Qi’dah 23, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
