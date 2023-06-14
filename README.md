@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 28)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 47)
 
-> And patiently stick with those who call upon their Lord morning and evening, seeking His pleasure. Do not let your eyes look beyond them, desiring the luxuries of this worldly life. And do not obey those whose hearts We have made heedless of Our remembrance, who follow ˹only˺ their desires and whose state is ˹total˺ loss.
+> So go to him and say, ‘Indeed we are both messengers from your Lord, so let the Children of Israel go with us, and do not oppress them. We have come to you with a sign from your Lord. And salvation will be for whoever follows the ˹right˺ guidance.
 
-— Dhu al-Qi’dah 24, 1444H
+— Dhu al-Qi’dah 25, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
