@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 47)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 14)
 
-> So go to him and say, ‘Indeed we are both messengers from your Lord, so let the Children of Israel go with us, and do not oppress them. We have come to you with a sign from your Lord. And salvation will be for whoever follows the ˹right˺ guidance.
+> Calling upon Him ˹alone˺ is the truth. But those ˹idols˺ the pagans invoke besides Him ˹can˺ never respond to them in any way. ˹It is˺ just like someone who stretches out their hands to water, ˹asking it˺ to reach their mouths, but it can never do so. The calls of the disbelievers are only in vain.
 
-— Dhu al-Qi’dah 25, 1444H
+— Dhu al-Qi’dah 26, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
