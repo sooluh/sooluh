@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 14)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 34)
 
-> Calling upon Him ˹alone˺ is the truth. But those ˹idols˺ the pagans invoke besides Him ˹can˺ never respond to them in any way. ˹It is˺ just like someone who stretches out their hands to water, ˹asking it˺ to reach their mouths, but it can never do so. The calls of the disbelievers are only in vain.
+> For every community We appointed a rite of sacrifice so that they may pronounce the Name of Allah over the sacrificial animals He has provided for them. For your God is only One God, so submit yourselves to Him ˹alone˺. And give good news ˹O Prophet˺ to the humble:
 
-— Dhu al-Qi’dah 26, 1444H
+— Dhu al-Qi’dah 27, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
