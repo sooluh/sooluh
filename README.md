@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 41)
+<sub>_The Enshrouded One_</sub><br>
+**Surah Al-Muzzammil** (73: 17)
 
-> Do they not see that We gradually reduce their land from its borders? Allah decides—none can reverse His decision. And He is swift in reckoning.
+> If you ˹pagans˺ persist in disbelief, then how will you guard yourselves against ˹the horrors of˺ a Day which will turn children’s hair grey?
 
-— Dhu al-Hijjah 1, 1444H
+— Dhu al-Hijjah 2, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
