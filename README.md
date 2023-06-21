@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Enshrouded One_</sub><br>
-**Surah Al-Muzzammil** (73: 17)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 56)
 
-> If you ˹pagans˺ persist in disbelief, then how will you guard yourselves against ˹the horrors of˺ a Day which will turn children’s hair grey?
+> This is how We established Joseph in the land to settle wherever he pleased. We shower Our mercy on whoever We will, and We never discount the reward of the good-doers.
 
-— Dhu al-Hijjah 2, 1444H
+— Dhu al-Hijjah 3, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
