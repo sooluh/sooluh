@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 56)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 22)
 
-> This is how We established Joseph in the land to settle wherever he pleased. We shower Our mercy on whoever We will, and We never discount the reward of the good-doers.
+> Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.
 
-— Dhu al-Hijjah 3, 1444H
+— Dhu al-Hijjah 4, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
