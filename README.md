@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 22)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 40)
 
-> Had there been other gods besides Allah in the heavens or the earth, both ˹realms˺ would have surely been corrupted. So Glorified is Allah, Lord of the Throne, far above what they claim.
+> If We ever will something ˹to exist˺, all We say is: “Be!” And it is!
 
-— Dhu al-Hijjah 4, 1444H
+— Dhu al-Hijjah 5, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
