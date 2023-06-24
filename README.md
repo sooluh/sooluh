@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 40)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 18)
 
-> If We ever will something ˹to exist˺, all We say is: “Be!” And it is!
+> Whoever desires this fleeting world ˹alone˺, We hasten in it whatever We please to whoever We will; then We destine them for Hell, where they will burn, condemned and rejected.
 
-— Dhu al-Hijjah 5, 1444H
+— Dhu al-Hijjah 6, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
