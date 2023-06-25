@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 18)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 36)
 
-> Whoever desires this fleeting world ˹alone˺, We hasten in it whatever We please to whoever We will; then We destine them for Hell, where they will burn, condemned and rejected.
+> nor do I think the Hour will ˹ever˺ come. And if in fact I am returned to my Lord, I will definitely get a far better outcome than ˹all˺ this.”
 
-— Dhu al-Hijjah 6, 1444H
+— Dhu al-Hijjah 7, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
