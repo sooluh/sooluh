@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 9)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 29)
 
-> Surely this Quran guides to what is most upright, and gives good news to the believers—who do good—that they will have a mighty reward.
+> And say, ˹O Prophet,˺ “˹This is˺ the truth from your Lord. Whoever wills let them believe, and whoever wills let them disbelieve.” Surely We have prepared for the wrongdoers a Fire whose walls will ˹completely˺ surround them. When they cry for aid, they will be aided with water like molten metal, which will burn ˹their˺ faces. What a horrible drink! And what a terrible place to rest!
 
-— Dhu al-Hijjah 8, 1444H
+— Dhu al-Hijjah 9, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
