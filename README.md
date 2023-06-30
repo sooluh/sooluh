@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 53)
+<sub>_Explained in Detail_</sub><br>
+**Surah Fussilat** (41: 4)
 
-> Tell My ˹believing˺ servants to say only what is best. Satan certainly seeks to sow discord among them. Satan is indeed a sworn enemy to humankind.
+> delivering good news and warning. Yet most of them turn away, so they do not hear.
 
-— Dhu al-Hijjah 10, 1444H
+— Dhu al-Hijjah 12, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
