@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Explained in Detail_</sub><br>
-**Surah Fussilat** (41: 4)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 142)
 
-> delivering good news and warning. Yet most of them turn away, so they do not hear.
+> Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.
 
-— Dhu al-Hijjah 12, 1444H
+— Dhu al-Hijjah 13, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
