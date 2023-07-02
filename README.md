@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 142)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 21)
 
-> Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.
+> And awaiting them are maces of iron.
 
-— Dhu al-Hijjah 13, 1444H
+— Dhu al-Hijjah 14, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
