@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 21)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 35)
 
-> And awaiting them are maces of iron.
+> O children of Adam! When messengers from among yourselves come to you reciting My revelations—whoever shuns evil and mends their ways, there will be no fear for them, nor will they grieve.
 
-— Dhu al-Hijjah 14, 1444H
+— Dhu al-Hijjah 15, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
