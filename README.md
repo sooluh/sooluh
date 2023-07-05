@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 50)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 17)
 
-> And this ˹Quran˺ is a blessed reminder which We have revealed. Will you ˹pagans˺ then deny it?
+> ˹Can these people be compared to˺ those ˹believers˺ who stand on clear proof from their Lord, backed by ˹the Quran as˺ a witness from Him, and preceded by the Book of Moses ˹which was revealed˺ as a guide and mercy? It is those ˹believers˺ who have faith in it. But whoever from the ˹disbelieving˺ groups rejects it, the Fire will be their destiny. So do not be in doubt of it. It is certainly the truth from your Lord, but most people do not believe.
 
-— Dhu al-Hijjah 16, 1444H
+— Dhu al-Hijjah 17, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
