@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Criterian_</sub><br>
-**Surah Al-Furqan** (25: 24)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 30)
 
-> ˹But˺ on that Day the residents of Paradise will have the best settlement and the finest place to rest.
+> He has guided some, while others are destined to stray. They have taken devils as their masters instead of Allah—thinking they are ˹rightly˺ guided.
 
-— Dhu al-Hijjah 19, 1444H
+— Dhu al-Hijjah 20, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
