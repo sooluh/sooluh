@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 30)
+<sub>_Sheba_</sub><br>
+**Surah Saba** (34: 13)
 
-> He has guided some, while others are destined to stray. They have taken devils as their masters instead of Allah—thinking they are ˹rightly˺ guided.
+> They made for him whatever he desired of sanctuaries, statues, basins as large as reservoirs, and cooking pots fixed ˹into the ground˺. ˹We ordered:˺ “Work gratefully, O  family of David!” ˹Only˺ a few of My servants are ˹truly˺ grateful.
 
-— Dhu al-Hijjah 20, 1444H
+— Dhu al-Hijjah 21, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
