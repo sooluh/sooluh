@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Sheba_</sub><br>
-**Surah Saba** (34: 13)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 37)
 
-> They made for him whatever he desired of sanctuaries, statues, basins as large as reservoirs, and cooking pots fixed ˹into the ground˺. ˹We ordered:˺ “Work gratefully, O  family of David!” ˹Only˺ a few of My servants are ˹truly˺ grateful.
+> There is also a sign for them in the night: We strip from it daylight, then—behold!—they are in darkness.
 
-— Dhu al-Hijjah 21, 1444H
+— Dhu al-Hijjah 22, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
