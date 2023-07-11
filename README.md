@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 37)
+<sub>_The Consultation_</sub><br>
+**Surah Ash-Shuraa** (42: 21)
 
-> There is also a sign for them in the night: We strip from it daylight, then—behold!—they are in darkness.
+> Or do they have associate-gods who have ordained for them some ˹polytheistic˺ beliefs, which Allah has not authorized? Had it not been for ˹prior˺ decree on Judgment, the matter would have certainly been settled between them ˹at once˺. And surely the wrongdoers will suffer a painful punishment.
 
-— Dhu al-Hijjah 22, 1444H
+— Dhu al-Hijjah 23, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
