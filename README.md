@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Consultation_</sub><br>
-**Surah Ash-Shuraa** (42: 21)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 27)
 
-> Or do they have associate-gods who have ordained for them some ˹polytheistic˺ beliefs, which Allah has not authorized? Had it not been for ˹prior˺ decree on Judgment, the matter would have certainly been settled between them ˹at once˺. And surely the wrongdoers will suffer a painful punishment.
+> Then she returned to her people, carrying him. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing!
 
-— Dhu al-Hijjah 23, 1444H
+— Dhu al-Hijjah 24, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
