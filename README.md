@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Sheba_</sub><br>
-**Surah Saba** (34: 48)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 36)
 
-> Say, “Surely my Lord hurls the truth ˹against falsehood˺. ˹He is˺ the Knower of all unseen.”
+> Most of them follow nothing but ˹inherited˺ assumptions. ˹And˺ surely assumptions can in no way replace the truth. Allah is indeed All-Knowing of what they do.
 
-— Dhu al-Hijjah 25, 1444H
+— Dhu al-Hijjah 26, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
