@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 84)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 37)
 
-> So We answered his prayer and removed his adversity, and gave him back his family, twice as many, as a mercy from Us and a lesson for the ˹devoted˺ worshippers.
+> Yet their ˹various˺ groups have differed among themselves ˹about him˺, so woe to the disbelievers when they face a tremendous Day!
 
-— Dhu al-Hijjah 27, 1444H
+— Dhu al-Hijjah 28, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
