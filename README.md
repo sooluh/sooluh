@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 37)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 61)
 
-> Yet their ˹various˺ groups have differed among themselves ˹about him˺, so woe to the disbelievers when they face a tremendous Day!
+> And Allah will deliver those who were mindful ˹of Him˺ to their place of ˹ultimate˺ triumph. No evil will touch them, nor will they grieve.
 
-— Dhu al-Hijjah 28, 1444H
+— Dhu al-Hijjah 29, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
