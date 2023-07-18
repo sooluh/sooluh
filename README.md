@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops_</sub><br>
-**Surah Az-Zumar** (39: 61)
+<sub>_The Pleading Woman_</sub><br>
+**Surah Al-Mujadila** (58: 13)
 
-> And Allah will deliver those who were mindful ˹of Him˺ to their place of ˹ultimate˺ triumph. No evil will touch them, nor will they grieve.
+> Are you afraid of spending in charity before your private consultations ˹with him˺? Since you are unable to do so, and Allah has turned to you in mercy, then ˹continue to˺ establish prayer, pay alms-tax, and obey Allah and His Messenger. And Allah is All-Aware of what you do.
 
-— Dhu al-Hijjah 29, 1444H
+— Dhu al-Hijjah 30, 1444H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
