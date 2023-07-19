@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pleading Woman_</sub><br>
-**Surah Al-Mujadila** (58: 13)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 18)
 
-> Are you afraid of spending in charity before your private consultations ˹with him˺? Since you are unable to do so, and Allah has turned to you in mercy, then ˹continue to˺ establish prayer, pay alms-tax, and obey Allah and His Messenger. And Allah is All-Aware of what you do.
+> They are ˹wilfully˺ deaf, dumb, and blind, so they will never return ˹to the Right Path˺.
 
-— Dhu al-Hijjah 30, 1444H
+— Muharram 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
