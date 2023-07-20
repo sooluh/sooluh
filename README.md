@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 18)
+<sub>_The Emissaries_</sub><br>
+**Surah Al-Mursalat** (77: 26)
 
-> They are ˹wilfully˺ deaf, dumb, and blind, so they will never return ˹to the Right Path˺.
+> for the living and the dead,
 
-— Muharram 1, 1445H
+— Muharram 2, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
