@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver_</sub><br>
-**Surah Ghafir** (40: 80)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 71)
 
-> Also, you find in them ˹other˺ benefits. And by means of them you may reach destinations you desire. And you are carried upon ˹some of˺ them and upon ships.
+> O  People of the Book! Why do you mix the truth with falsehood and hide the truth knowingly?
 
-— Muharram 3, 1445H
+— Muharram 4, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
