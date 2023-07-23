@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 71)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 88)
 
-> O  People of the Book! Why do you mix the truth with falsehood and hide the truth knowingly?
+> The arrogant chiefs of his people threatened, “O Shu’aib! We will certainly expel you and your fellow believers from our land, unless you return to our faith.” He replied, “Even if we hate it?
 
-— Muharram 4, 1445H
+— Muharram 5, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
