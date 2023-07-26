@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Combined Forces_</sub><br>
-**Surah Al-Ahzab** (33: 59)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 39)
 
-> O Prophet! Ask your wives, daughters, and believing women to draw their cloaks over their bodies. In this way it is more likely that they will be recognized ˹as virtuous˺ and not be harassed. And Allah is All-Forgiving, Most Merciful. 
+> If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything.
 
-— Muharram 7, 1445H
+— Muharram 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
