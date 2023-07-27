@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 39)
+<sub>_The Moon_</sub><br>
+**Surah Al-Qamar** (54: 47)
 
-> If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything.
+> Indeed, the wicked are ˹entrenched˺ in misguidance, and ˹are bound for˺ blazes.
 
-— Muharram 8, 1445H
+— Muharram 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
