@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Moon_</sub><br>
-**Surah Al-Qamar** (54: 47)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 32)
 
-> Indeed, the wicked are ˹entrenched˺ in misguidance, and ˹are bound for˺ blazes.
+> ˹like˺ those who have divided their faith and split into sects, each rejoicing in what they have.
 
-— Muharram 9, 1445H
+— Muharram 10, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
