@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Romans_</sub><br>
-**Surah Ar-Rum** (30: 32)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 25)
 
-> ˹like˺ those who have divided their faith and split into sects, each rejoicing in what they have.
+> Let them bear their burdens in full on the Day of Judgment as well as some of the burdens of those they mislead without knowledge. Evil indeed is what they will bear!
 
-— Muharram 10, 1445H
+— Muharram 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
