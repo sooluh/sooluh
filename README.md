@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 25)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 66)
 
-> Let them bear their burdens in full on the Day of Judgment as well as some of the burdens of those they mislead without knowledge. Evil indeed is what they will bear!
+> Moses said to him, “May I follow you, provided that you teach me some of the right guidance you have been taught?”
 
-— Muharram 11, 1445H
+— Muharram 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
