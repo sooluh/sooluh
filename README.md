@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Opener_</sub><br>
-**Surah Al-Fatihah** (1: 1)
+<sub>_The Wind-Curved Sandhills_</sub><br>
+**Surah Al-Ahqaf** (46: 5)
 
-> In the Name of Allah—the Most Compassionate, Most Merciful.
+> And who could be more astray than those who call upon others besides Allah—˹others˺ that cannot respond to them until the Day of Judgment, and are ˹even˺ unaware of their calls?
 
-— Muharram 16, 1445H
+— Muharram 17, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
