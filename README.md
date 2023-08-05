@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Wind-Curved Sandhills_</sub><br>
-**Surah Al-Ahqaf** (46: 5)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 63)
 
-> And who could be more astray than those who call upon others besides Allah—˹others˺ that cannot respond to them until the Day of Judgment, and are ˹even˺ unaware of their calls?
+> When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”
 
-— Muharram 17, 1445H
+— Muharram 18, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
