@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 63)
+<sub>_Noah_</sub><br>
+**Surah Nuh** (71: 15)
 
-> When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied ˹further˺ supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”
+> Do you not see how Allah created seven heavens, one above the other,
 
-— Muharram 18, 1445H
+— Muharram 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
