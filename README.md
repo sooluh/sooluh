@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Noah_</sub><br>
-**Surah Nuh** (71: 15)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 73)
 
-> Do you not see how Allah created seven heavens, one above the other,
+> O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!
 
-— Muharram 19, 1445H
+— Muharram 20, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
