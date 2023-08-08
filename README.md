@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 73)
+<sub>_The Letter "Qaf"_</sub><br>
+**Surah Qaf** (50: 13)
 
-> O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!
+> ’Ȃd, Pharaoh, the kinfolk of Lot,
 
-— Muharram 20, 1445H
+— Muharram 21, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
