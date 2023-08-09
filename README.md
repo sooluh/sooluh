@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Qaf"_</sub><br>
-**Surah Qaf** (50: 13)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 173)
 
-> ’Ȃd, Pharaoh, the kinfolk of Lot,
+> Those who were warned, “Your enemies have mobilized their forces against you, so fear them,” the warning only made them grow stronger in faith and they replied, “Allah ˹alone˺ is sufficient ˹as an aid˺ for us and ˹He˺ is the best Protector.”
 
-— Muharram 21, 1445H
+— Muharram 22, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
