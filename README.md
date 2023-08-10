@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 173)
+<sub>_The City_</sub><br>
+**Surah Al-Balad** (90: 9)
 
-> Those who were warned, “Your enemies have mobilized their forces against you, so fear them,” the warning only made them grow stronger in faith and they replied, “Allah ˹alone˺ is sufficient ˹as an aid˺ for us and ˹He˺ is the best Protector.”
+> a tongue, and two lips;
 
-— Muharram 22, 1445H
+— Muharram 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
