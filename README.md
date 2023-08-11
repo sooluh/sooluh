@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The City_</sub><br>
-**Surah Al-Balad** (90: 9)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 29)
 
-> a tongue, and two lips;
+> In Hell they will burn. What an evil place for settlement.
 
-— Muharram 23, 1445H
+— Muharram 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
