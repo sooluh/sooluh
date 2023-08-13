@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding_</sub><br>
-**Surah Al-Mutaffifin** (83: 17)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 60)
 
-> and then be told, “This is what you used to deny.”
+> and who do whatever ˹good˺ they do with their hearts fearful, ˹knowing˺ that they will return to their Lord—
 
-— Muharram 25, 1445H
+— Muharram 26, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
