@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 59)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 161)
 
-> Indeed, the example of Jesus in the sight of Allah is like that of Adam. He created him from dust, then said to him, “Be!” And he was!
+> Surely those who disbelieve and die as disbelievers are condemned by Allah, the angels, and all of humanity.
 
-— Muharram 27, 1445H
+— Muharram 28, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
