@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 145)
+<sub>_The Emissaries_</sub><br>
+**Surah Al-Mursalat** (77: 34)
 
-> Even if you were to bring every proof to the People of the Book, they would not accept your direction ˹of prayer˺, nor would you accept theirs; nor would any of them accept the direction ˹of prayer˺ of another. And if you were to follow their desires after ˹all˺ the knowledge that has come to you, then you would certainly be one of the wrongdoers.
+> Woe on that Day to the deniers!
 
-— Muharram 29, 1445H
+— Safar 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
