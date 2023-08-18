@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Emissaries_</sub><br>
-**Surah Al-Mursalat** (77: 34)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 76)
 
-> Woe on that Day to the deniers!
+> When the night grew dark upon him, he saw a star and said, “This is my Lord!” But when it set, he said, “I do not love things that set.”
 
-— Safar 1, 1445H
+— Safar 2, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
