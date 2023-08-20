@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ant_</sub><br>
-**Surah An-Naml** (27: 84)
+<sub>_The Tidings_</sub><br>
+**Surah An-Naba** (78: 5)
 
-> When they ˹finally˺ come before their Lord, He will ask ˹them˺, “Did you deny My revelations without ˹even˺ comprehending them? Or what ˹exactly˺ did you do?”
+> Again, no! They will come to know.
 
-— Safar 3, 1445H
+— Safar 4, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
