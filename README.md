@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Tidings_</sub><br>
-**Surah An-Naba** (78: 5)
+<sub>_The Letter "Qaf"_</sub><br>
+**Surah Qaf** (50: 14)
 
-> Again, no! They will come to know.
+> the residents of the Forest, and the people of Tubba’. Each rejected ˹their˺ messenger, so My warning was fulfilled.
 
-— Safar 4, 1445H
+— Safar 5, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
