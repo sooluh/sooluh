@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding_</sub><br>
-**Surah Al-Mutaffifin** (83: 32)
+<sub>_The Ant_</sub><br>
+**Surah An-Naml** (27: 85)
 
-> And when they saw the faithful, they would say, “These ˹people˺ are truly astray,”
+> And the decree ˹of torment˺ will be justified against them for their wrongdoing, leaving them speechless.
 
-— Safar 7, 1445H
+— Safar 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
