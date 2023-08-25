@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ant_</sub><br>
-**Surah An-Naml** (27: 85)
+<sub>_The Spoils of War_</sub><br>
+**Surah Al-Anfal** (8: 35)
 
-> And the decree ˹of torment˺ will be justified against them for their wrongdoing, leaving them speechless.
+> Their prayer at the Sacred House was nothing but whistling and clapping. So taste the punishment for your disbelief.
 
-— Safar 8, 1445H
+— Safar 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
