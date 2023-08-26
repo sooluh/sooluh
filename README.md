@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War_</sub><br>
-**Surah Al-Anfal** (8: 35)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 1)
 
-> Their prayer at the Sacred House was nothing but whistling and clapping. So taste the punishment for your disbelief.
+> By those ˹angels˺ stripping out ˹evil souls˺ harshly,
 
-— Safar 9, 1445H
+— Safar 10, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
