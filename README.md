@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 1)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 35)
 
-> By those ˹angels˺ stripping out ˹evil souls˺ harshly,
+> Ask ˹them, O  Prophet˺, “Can any of your associate-gods guide to the truth?” Say, “˹Only˺ Allah guides to the truth.” Who then is more worthy to be followed: the One Who guides to the truth or those who cannot find the way unless guided? What is the matter with you? How do you judge?
 
-— Safar 10, 1445H
+— Safar 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
