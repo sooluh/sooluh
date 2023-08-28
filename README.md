@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 35)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55: 4)
 
-> Ask ˹them, O  Prophet˺, “Can any of your associate-gods guide to the truth?” Say, “˹Only˺ Allah guides to the truth.” Who then is more worthy to be followed: the One Who guides to the truth or those who cannot find the way unless guided? What is the matter with you? How do you judge?
+> ˹and˺ taught them speech.
 
-— Safar 11, 1445H
+— Safar 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
