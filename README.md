@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 4)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 66)
 
-> ˹and˺ taught them speech.
+> Certainly to Allah ˹alone˺ belong all those in the heavens and all those on the earth. And what do those who associate others with Allah really follow? They follow nothing but assumptions and do nothing but lie.
 
-— Safar 12, 1445H
+— Safar 13, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
