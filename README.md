@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 66)
+<sub>_The Prostration_</sub><br>
+**Surah As-Sajdah** (32: 19)
 
-> Certainly to Allah ˹alone˺ belong all those in the heavens and all those on the earth. And what do those who associate others with Allah really follow? They follow nothing but assumptions and do nothing but lie.
+> As for those who believe and do good, they will have the Gardens of ˹Eternal˺ Residence—as an accommodation for what they used to do.
 
-— Safar 13, 1445H
+— Safar 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
