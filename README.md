@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prostration_</sub><br>
-**Surah As-Sajdah** (32: 19)
+<sub>_Those who set the Ranks_</sub><br>
+**Surah As-Saffat** (37: 1)
 
-> As for those who believe and do good, they will have the Gardens of ˹Eternal˺ Residence—as an accommodation for what they used to do.
+> By those ˹angels˺ lined up in ranks,
 
-— Safar 14, 1445H
+— Safar 15, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
