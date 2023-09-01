@@ -13,11 +13,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_Those who set the Ranks_</sub><br>
-**Surah As-Saffat** (37: 1)
+**Surah As-Saffat** (37: 6)
 
-> By those ˹angels˺ lined up in ranks,
+> Indeed, We have adorned the lowest heaven with the stars for decoration
 
-— Safar 15, 1445H
+— Safar 16, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
