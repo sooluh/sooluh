@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 178)
+<sub>_The Pleading Woman_</sub><br>
+**Surah Al-Mujadila** (58: 5)
 
-> I am truly a trustworthy messenger to you.
+> Indeed, those who defy Allah and His Messenger will be debased, just like those before them. We have certainly sent down clear revelations. And the disbelievers will suffer a humiliating punishment.
 
-— Safar 17, 1445H
+— Safar 18, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
