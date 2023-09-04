@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pleading Woman_</sub><br>
-**Surah Al-Mujadila** (58: 5)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 45)
 
-> Indeed, those who defy Allah and His Messenger will be debased, just like those before them. We have certainly sent down clear revelations. And the disbelievers will suffer a humiliating punishment.
+> So the wrongdoers were utterly uprooted. And all praise is for Allah—Lord of all worlds.
 
-— Safar 18, 1445H
+— Safar 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
