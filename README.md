@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 45)
+<sub>_The Rocky Tract_</sub><br>
+**Surah Al-Hijr** (15: 68)
 
-> So the wrongdoers were utterly uprooted. And all praise is for Allah—Lord of all worlds.
+> Lot pleaded, “Indeed, these are my guests, so do not embarrass me.
 
-— Safar 19, 1445H
+— Safar 20, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
