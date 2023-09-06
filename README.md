@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 68)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 50)
 
-> Lot pleaded, “Indeed, these are my guests, so do not embarrass me.
+> And to the people of ’Âd We sent their brother Hûd. He said, “O my people! Worship Allah. You have no god other than Him. You do nothing but fabricate lies ˹against Allah˺.
 
-— Safar 20, 1445H
+— Safar 21, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
