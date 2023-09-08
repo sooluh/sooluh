@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 158)
+<sub>_The Combined Forces_</sub><br>
+**Surah Al-Ahzab** (33: 63)
 
-> Whether you die or are martyred—all of you will be gathered before Allah.
+> People ask you ˹O Prophet˺ about the Hour. Say, “That knowledge is only with Allah. You never know, perhaps the Hour is near.”
 
-— Safar 22, 1445H
+— Safar 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
