@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Combined Forces_</sub><br>
-**Surah Al-Ahzab** (33: 63)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 29)
 
-> People ask you ˹O Prophet˺ about the Hour. Say, “That knowledge is only with Allah. You never know, perhaps the Hour is near.”
+> Allah sets forth the parable of a slave owned by several quarrelsome masters, and a slave owned by only one master. Are they equal in condition? Praise be to Allah! In fact, most of them do not know.
 
-— Safar 23, 1445H
+— Safar 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
