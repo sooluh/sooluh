@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 81)
+<sub>_Those who set the Ranks_</sub><br>
+**Surah As-Saffat** (37: 81)
 
-> You lust after men instead of women! You are certainly transgressors.”
+> ˹For˺ he was truly one of Our faithful servants.
 
-— Safar 25, 1445H
+— Safar 26, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
