@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who set the Ranks_</sub><br>
-**Surah As-Saffat** (37: 81)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 41)
 
-> ˹For˺ he was truly one of Our faithful servants.
+> ˹O believers!˺ March forth whether it is easy or difficult for you, and strive with your wealth and your lives in the cause of Allah. That is best for you, if only you knew.
 
-— Safar 26, 1445H
+— Safar 27, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
