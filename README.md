@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 41)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 76)
 
-> ˹O believers!˺ March forth whether it is easy or difficult for you, and strive with your wealth and your lives in the cause of Allah. That is best for you, if only you knew.
+> ˹The angels said,˺ “O Abraham! Plead no more! Your Lord’s decree has already come, and they will certainly be afflicted with a punishment that cannot be averted!”
 
-— Safar 27, 1445H
+— Safar 28, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
