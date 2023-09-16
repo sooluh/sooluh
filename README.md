@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ascending Stairways_</sub><br>
-**Surah Al-Ma'arij** (70: 35)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 159)
 
-> These will be in Gardens, held in honour.
+> Those who hide the clear proofs and guidance that We have revealed—after We made it clear for humanity in the Book—will be condemned by Allah and ˹all˺ those who condemn.
 
-— Safar 30, 1445H
+— Rabi’ al-Awwal 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
