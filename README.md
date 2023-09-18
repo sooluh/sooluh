@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 11)
+<sub>_The Reality_</sub><br>
+**Surah Al-Haqqah** (69: 16)
 
-> But when he approached it, he was called, “O Moses!
+> The sky will then be so torn that it will be frail,
 
-— Rabi’ al-Awwal 2, 1445H
+— Rabi’ al-Awwal 3, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
