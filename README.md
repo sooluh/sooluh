@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality_</sub><br>
-**Surah Al-Haqqah** (69: 16)
+<sub>_The Tidings_</sub><br>
+**Surah An-Naba** (78: 25)
 
-> The sky will then be so torn that it will be frail,
+> except boiling water and ˹oozing˺ pus—
 
-— Rabi’ al-Awwal 3, 1445H
+— Rabi’ al-Awwal 4, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
