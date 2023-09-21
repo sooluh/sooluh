@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Wind-Curved Sandhills_</sub><br>
-**Surah Al-Ahqaf** (46: 10)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 32)
 
-> Ask ˹them, O  Prophet˺, “Consider if this ˹Quran˺ is ˹truly˺ from Allah and you deny it, and a witness from the Children of Israel attests to it and then believes, whereas you act arrogantly. Surely Allah does not guide the wrongdoing people.”
+> And We have made the sky a well-protected canopy, still they turn away from its signs.
 
-— Rabi’ al-Awwal 5, 1445H
+— Rabi’ al-Awwal 6, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
