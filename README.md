@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver_</sub><br>
-**Surah Ghafir** (40: 51)
+<sub>_The Sundering_</sub><br>
+**Surah Al-Inshiqaq** (84: 1)
 
-> We certainly help Our messengers and the believers, ˹both˺ in this worldly life and on the Day the witnesses will stand forth ˹for testimony˺—
+> When the sky bursts open,
 
-— Rabi’ al-Awwal 7, 1445H
+— Rabi’ al-Awwal 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
