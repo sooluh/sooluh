@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sundering_</sub><br>
-**Surah Al-Inshiqaq** (84: 1)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 99)
 
-> When the sky bursts open,
+> This is how We relate to you ˹O Prophet˺ some of the stories of the past. And We have certainly granted you a Reminder from Us.
 
-— Rabi’ al-Awwal 8, 1445H
+— Rabi’ al-Awwal 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
