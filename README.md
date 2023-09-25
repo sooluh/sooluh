@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 99)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 24)
 
-> This is how We relate to you ˹O Prophet˺ some of the stories of the past. And We have certainly granted you a Reminder from Us.
+> for they have been guided to the best of speech, and they have been guided to the Commendable Path. 
 
-— Rabi’ al-Awwal 9, 1445H
+— Rabi’ al-Awwal 10, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
