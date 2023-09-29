@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 115)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 28)
 
-> The Word of your Lord has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All- Knowing.
+> So when her husband saw that Joseph’s shirt was torn from the back, he said ˹to her˺, “This must be ˹an example˺ of the cunning of you ˹women˺! Indeed, your cunning is so shrewd!
 
-— Rabi’ al-Awwal 13, 1445H
+— Rabi’ al-Awwal 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
