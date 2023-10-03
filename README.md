@@ -4,10 +4,10 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 - :man_technologist: I'm currently working at [**PST**](https://pratama.tech/)<br />
 - :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-- :seedling: Currently learning SvelteKit<br />
+- :seedling: Currently learning `undefined` [?](https://muslim.or.id/51513-keutamaan-belajar-ilmu-agama-bag-1.html)<br />
 - :sparkles: Interested in **backend-ish** things<br />
 - :house: Rarely go out, unless it's important<br />
-- :book: Read Islamic motiv books
+- :book: Read Islamic ~motiv~ books
 
 ### :star_and_crescent: Ayah of the Day
 
