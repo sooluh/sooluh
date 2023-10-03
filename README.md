@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pen_</sub><br>
-**Surah Al-Qalam** (68: 28)
+<sub>_The Ornaments of Gold_</sub><br>
+**Surah Az-Zukhruf** (43: 35)
 
-> The most sensible of them said, “Did I not urge you to say, ‘Allah willing.’?”
+> and ornaments ˹of gold˺. Yet all this is no more than a ˹fleeting˺ enjoyment in this worldly life. ˹But˺ the Hereafter with your Lord is ˹only˺ for those mindful ˹of Him˺.
 
-— Rabi’ al-Awwal 17, 1445H
+— Rabi’ al-Awwal 18, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
