@@ -15,8 +15,6 @@ jobs:
         uses: actions/checkout@v2
 
       - name: GitLab Push 🚀
-        uses: action-pack/gitlab-sync@v3
-        with:
-          username: ${{ github.actor }}
-          url: https://gitlab.com/${{ github.repository }}.git
-          token: ${{ secrets.GITLAB_TOKEN }}
+        run: |
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITLAB_TOKEN }}@gitlab.com/${{ github.repository }}.git
+          git push -u origin main -f
