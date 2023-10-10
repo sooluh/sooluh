@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold_</sub><br>
-**Surah Az-Zukhruf** (43: 35)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 45)
 
-> and ornaments ˹of gold˺. Yet all this is no more than a ˹fleeting˺ enjoyment in this worldly life. ˹But˺ the Hereafter with your Lord is ˹only˺ for those mindful ˹of Him˺.
+> Many are the societies We have destroyed for persisting in wrongdoing, leaving them in total ruin. ˹Many are˺ also the abandoned wells and lofty palaces!
 
-— Rabi’ al-Awwal 18, 1445H
+— Rabi’ al-Awwal 25, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
