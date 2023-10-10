@@ -1,0 +1,21 @@
+name: Mirror GitLab 🪀
+
+on:
+  push:
+    - main
+  workflow_dispatch:
+
+jobs:
+  update:
+    name: Mirroring 🦾
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: GitLab Push 🚀
+        uses: action-pack/gitlab-sync@v3
+        with:
+          username: ${{ github.actor }}
+          url: https://gitlab.com/${{ github.repository }}.git
+          token: ${{ secrets.GITLAB_TOKEN }}
