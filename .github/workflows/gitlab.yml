@@ -16,6 +16,6 @@ jobs:
 
       - name: GitLab Push 🚀
         run: |
-          git remote set-url gitlab https://${{ github.actor }}:${{ secrets.GITLAB_TOKEN }}@gitlab.com/${{ github.repository }}.git
+          git remote add gitlab https://${{ github.actor }}:${{ secrets.GITLAB_TOKEN }}@gitlab.com/${{ github.repository }}.git
           git fetch --unshallow origin
           git push -u gitlab main -f
