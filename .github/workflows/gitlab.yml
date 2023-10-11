@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows:
+      - Ayah of the Day ☪️
+      - Post Feed Updater 🔃
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
