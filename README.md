@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread_</sub><br>
-**Surah Al-Ma'idah** (5: 72)
+<sub>_The Clot_</sub><br>
+**Surah Al-'Alaq** (96: 1)
 
-> Those who say, “Allah is the Messiah, son of Mary,” have certainly fallen into disbelief. The Messiah ˹himself˺ said, “O Children of Israel! Worship Allah—my Lord and your Lord.” Whoever associates others with Allah ˹in worship˺ will surely be forbidden Paradise by Allah. Their home will be the Fire. And the wrongdoers will have no helpers.
+> Read, ˹O Prophet,˺ in the Name of your Lord Who created—
 
-— Rabi’ al-Awwal 26, 1445H
+— Rabi’ al-Awwal 27, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
