@@ -1,15 +1,15 @@
-## :wave: Hi there, I'm Suluh!
+## 👋 Hi there, I'm Suluh!
 
 a software engineer from Indonesia. 8+ years of experience in web development.
 
-- :man_technologist: I'm currently working at [**PST**](https://pratama.tech/)<br />
-- :mortar_board: Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
-- :seedling: Currently learning `undefined` [`?`](https://muslim.or.id/51513-keutamaan-belajar-ilmu-agama-bag-1.html)<br />
-- :sparkles: Interested in **backend-ish** things<br />
-- :house: Rarely go out, unless it's important<br />
-- :book: Read Islamic ~motiv~ books
+- 👨‍💻 I'm currently working at [**PST**](https://pratama.tech/)<br />
+- 🎓 Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id/)<br />
+- 🌱 Currently learning `undefined` [`?`](https://muslim.or.id/51513-keutamaan-belajar-ilmu-agama-bag-1.html)<br />
+- ✨ Interested in **backend-ish** things<br />
+- 🏠 Rarely go out, unless it's important<br />
+- 📖 Read Islamic ~motiv~ books
 
-### :star_and_crescent: Ayah of the Day
+### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
 <sub>_The Heights_</sub><br>
@@ -20,7 +20,7 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 — Rabi’ al-Awwal 28, 1445H
 <!-- AYAHADAY:END -->
 
-### :books: Recent Blog Posts
+### 📚 Recent Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
 - [Sudah Berhijab Namun Perlu Dihijab Kembali](https://sooluh.hashnode.dev/tabarruj-cllkuqt9l000209mmb78pfcqj)
@@ -32,7 +32,7 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 Check out [**notes.suluh.my.id**](https://notes.suluh.my.id) for more interesting blog posts!
 
-### :dart: Familiar Tech
+### 🎯 Familiar Tech
 
 [![Git](https://img.shields.io/badge/Git-%23f34f29?style=flat-square&logoColor=%23FFF&logo=git)](https://git-scm.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc?style=flat-square&logoColor=%23FFF&logo=typescript)](https://www.typescriptlang.org/)
