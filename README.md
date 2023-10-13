@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### :star_and_crescent: Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Clot_</sub><br>
-**Surah Al-'Alaq** (96: 1)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 43)
 
-> Read, ˹O Prophet,˺ in the Name of your Lord Who created—
+> We will remove whatever bitterness they had in their hearts. Rivers will flow under their feet. And they will say, “Praise be to Allah for guiding us to this. We would have never been guided if Allah had not guided us. The messengers of our Lord had certainly come with the truth.” It will be announced to them, “This is Paradise awarded to you for what you used to do.”
 
-— Rabi’ al-Awwal 27, 1445H
+— Rabi’ al-Awwal 28, 1445H
 <!-- AYAHADAY:END -->
 
 ### :books: Recent Blog Posts
