@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 43)
+<sub>_The Moon_</sub><br>
+**Surah Al-Qamar** (54: 19)
 
-> We will remove whatever bitterness they had in their hearts. Rivers will flow under their feet. And they will say, “Praise be to Allah for guiding us to this. We would have never been guided if Allah had not guided us. The messengers of our Lord had certainly come with the truth.” It will be announced to them, “This is Paradise awarded to you for what you used to do.”
+> Indeed, We sent against them a furious wind, on a day of unrelenting misery,
 
-— Rabi’ al-Awwal 28, 1445H
+— Rabi’ al-Awwal 29, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
