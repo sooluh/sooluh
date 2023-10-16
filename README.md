@@ -12,12 +12,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who set the Ranks_</sub><br>
-**Surah As-Saffat** (37: 175)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 31)
 
-> You will see ˹what will happen to˺ them, and they too will see!
+> If there were a recitation that could cause mountains to move, or the earth to split, or the dead to speak, ˹it would have been this Quran˺. But all matters are by Allah’s Will. Have the believers not yet realized that had Allah willed, He could have guided all of humanity? And disasters will continue to afflict the disbelievers or strike close to their homes for their misdeeds, until Allah’s promise comes to pass. Surely Allah never fails in His promise.
 
-— Rabi’ al-Awwal 30, 1445H
+— Rabi’ al-Thani 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
