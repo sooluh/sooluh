@@ -15,11 +15,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 115)
+**Surah Taha** (20: 20)
 
-> And indeed, We once made a covenant with Adam, but he forgot, and ˹so˺ We did not find determination in him.
+> So he did, then—behold!—it became a serpent, slithering.
 
-— Rabi’ al-Thani 4, 1445H
+— Rabi’ al-Thani 5, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
