@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 20)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 36)
 
-> So he did, then—behold!—it became a serpent, slithering.
+> Bring ˹back˺ our forefathers, if what you say is true.”
 
-— Rabi’ al-Thani 5, 1445H
+— Rabi’ al-Thani 6, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
