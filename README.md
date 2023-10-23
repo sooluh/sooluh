@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 191)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 167)
 
-> Do they associate ˹with Allah˺ those ˹idols˺ which cannot create anything, but are in fact created;
+> and expose the hypocrites. When it was said to them, “Come fight in the cause of Allah or ˹at least˺ defend yourselves,” they replied, “If we had known there was fighting, we would have definitely gone with you.” They were closer to disbelief than to belief on that day—for saying with their mouths what was not in their hearts. Allah is All-Knowing of what they hide.
 
-— Rabi’ al-Thani 7, 1445H
+— Rabi’ al-Thani 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
