@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Tidings_</sub><br>
-**Surah An-Naba** (78: 30)
+<sub>_Muhammad_</sub><br>
+**Surah Muhammad** (47: 38)
 
-> ˹So the deniers will be told,˺ “Taste ˹the punishment˺, for all you will get from Us is more torment.”
+> Here you are, being invited to donate ˹a little˺ in the cause of Allah. Still some of you withhold. And whoever does so, it is only to their own loss. For Allah is the Self-Sufficient, whereas you stand in need ˹of Him˺. If you ˹still˺ turn away, He will replace you with another people. And they will not be like you.
 
-— Rabi’ al-Thani 9, 1445H
+— Rabi’ al-Thani 10, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
