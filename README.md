@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Muhammad_</sub><br>
-**Surah Muhammad** (47: 38)
+<sub>_The Iron_</sub><br>
+**Surah Al-Hadid** (57: 22)
 
-> Here you are, being invited to donate ˹a little˺ in the cause of Allah. Still some of you withhold. And whoever does so, it is only to their own loss. For Allah is the Self-Sufficient, whereas you stand in need ˹of Him˺. If you ˹still˺ turn away, He will replace you with another people. And they will not be like you.
+> No calamity ˹or blessing˺ occurs on earth or in yourselves without being ˹written˺ in a Record before We bring it into being. This is certainly easy for Allah.
 
-— Rabi’ al-Thani 10, 1445H
+— Rabi’ al-Thani 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
