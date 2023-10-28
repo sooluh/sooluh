@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who set the Ranks_</sub><br>
-**Surah As-Saffat** (37: 162)
+<sub>_The Exile_</sub><br>
+**Surah Al-Hashr** (59: 13)
 
-> can never lure ˹anyone˺ away from Him
+> Indeed, there is more fear in their hearts for you ˹believers˺ than for Allah. That is because they are a people who do not comprehend.
 
-— Rabi’ al-Thani 12, 1445H
+— Rabi’ al-Thani 13, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
