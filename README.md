@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Overwhelming_</sub><br>
-**Surah Al-Ghashiyah** (88: 25)
+<sub>_The Man_</sub><br>
+**Surah Al-Insan** (76: 4)
 
-> Surely to Us is their return,
+> Indeed, We have prepared for the disbelievers chains, shackles, and a blazing Fire.
 
-— Rabi’ al-Thani 14, 1445H
+— Rabi’ al-Thani 15, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
