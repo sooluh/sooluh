@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread_</sub><br>
-**Surah Al-Ma'idah** (5: 37)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 88)
 
-> They will be desperate to get out of the Fire but they will never be able to. And they will suffer an everlasting punishment.
+> Then he moulded for them an idol of a calf that made a lowing sound. They said, “This is your god and the god of Moses, but Moses forgot ˹where it was˺!”
 
-— Rabi’ al-Thani 16, 1445H
+— Rabi’ al-Thani 17, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
