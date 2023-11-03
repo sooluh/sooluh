@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who set the Ranks_</sub><br>
-**Surah As-Saffat** (37: 140)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 28)
 
-> ˹Remember˺ when he fled to the overloaded ship.
+> If you raise your hand to kill me, I will not raise mine to kill you, because I fear Allah—the Lord of all worlds.
 
-— Rabi’ al-Thani 18, 1445H
+— Rabi’ al-Thani 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
