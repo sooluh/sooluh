@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 25)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 43)
 
-> But how ˹horrible˺ will it be when We gather them together on the Day about which there is no doubt—when every soul will be paid in full for what it has done, and none will be wronged!
+> But it is not for you to tell its time.
 
-— Rabi’ al-Thani 22, 1445H
+— Rabi’ al-Thani 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
