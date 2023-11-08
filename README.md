@@ -15,11 +15,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 43)
+**Surah An-Nazi'at** (79: 38)
 
-> But it is not for you to tell its time.
+> and preferred the ˹fleeting˺ life of this world,
 
-— Rabi’ al-Thani 23, 1445H
+— Rabi’ al-Thani 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
