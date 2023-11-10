@@ -15,11 +15,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_Hud_</sub><br>
-**Surah Hud** (11: 68)
+**Surah Hud** (11: 11)
 
-> as if they had never lived there. Surely Thamûd denied their Lord, so away with Thamûd!
+> except those who patiently endure and do good. It is they who will have forgiveness and a mighty reward.
 
-— Rabi’ al-Thani 25, 1445H
+— Rabi’ al-Thani 26, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
