@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud_</sub><br>
-**Surah Hud** (11: 11)
+<sub>_The Ascending Stairways_</sub><br>
+**Surah Al-Ma'arij** (70: 6)
 
-> except those who patiently endure and do good. It is they who will have forgiveness and a mighty reward.
+> They truly see this ˹Day˺ as impossible,
 
-— Rabi’ al-Thani 26, 1445H
+— Rabi’ al-Thani 27, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
