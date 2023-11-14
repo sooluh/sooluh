@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Saad"_</sub><br>
-**Surah Sad** (38: 49)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 51)
 
-> This is ˹all˺ a reminder. And the righteous will certainly have an honourable destination:
+> So the evil ˹consequences˺ of their deeds overtook them. And the wrongdoers among these ˹pagans˺ will be overtaken by the evil ˹consequences˺ of their deeds. And they will have no escape.
 
-— Rabi’ al-Thani 29, 1445H
+— Rabi’ al-Thani 30, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
