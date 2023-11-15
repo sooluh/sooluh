@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops_</sub><br>
-**Surah Az-Zumar** (39: 51)
+<sub>_The Reality_</sub><br>
+**Surah Al-Haqqah** (69: 21)
 
-> So the evil ˹consequences˺ of their deeds overtook them. And the wrongdoers among these ˹pagans˺ will be overtaken by the evil ˹consequences˺ of their deeds. And they will have no escape.
+> They will be in a life of bliss,
 
-— Rabi’ al-Thani 30, 1445H
+— Jumada al-Ula 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
