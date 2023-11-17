@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 123)
+<sub>_The Letter "Qaf"_</sub><br>
+**Surah Qaf** (50: 24)
 
-> Pharaoh threatened, “How dare you believe in him before I give you permission? This must be a conspiracy you devised in the city to drive out its people, but soon you will see.
+> ˹It will be said to both angels,˺ “Throw into Hell every stubborn disbeliever,
 
-— Jumada al-Ula 2, 1445H
+— Jumada al-Ula 3, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
