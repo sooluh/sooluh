@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Overwhelming_</sub><br>
-**Surah Al-Ghashiyah** (88: 23)
+<sub>_The Spoils of War_</sub><br>
+**Surah Al-Anfal** (8: 27)
 
-> But whoever turns away, persisting in disbelief,
+> O believers! Do not betray Allah and the Messenger, nor betray your trusts knowingly.
 
-— Jumada al-Ula 5, 1445H
+— Jumada al-Ula 6, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
