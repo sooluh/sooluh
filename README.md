@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War_</sub><br>
-**Surah Al-Anfal** (8: 27)
+<sub>_The Forgiver_</sub><br>
+**Surah Ghafir** (40: 35)
 
-> O believers! Do not betray Allah and the Messenger, nor betray your trusts knowingly.
+> those who dispute Allah’s signs with no proof given to them. How despicable is that for Allah and the believers! This is how Allah seals the heart of every arrogant tyrant.”
 
-— Jumada al-Ula 6, 1445H
+— Jumada al-Ula 7, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
