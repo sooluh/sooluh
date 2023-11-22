@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver_</sub><br>
-**Surah Ghafir** (40: 35)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 66)
 
-> those who dispute Allah’s signs with no proof given to them. How despicable is that for Allah and the believers! This is how Allah seals the heart of every arrogant tyrant.”
+> Moses responded, “No, you go first.” And suddenly their ropes and staffs appeared to him—by their magic—to be slithering.
 
-— Jumada al-Ula 7, 1445H
+— Jumada al-Ula 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
