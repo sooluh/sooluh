@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 66)
+<sub>_The Earthquake_</sub><br>
+**Surah Az-Zalzalah** (99: 4)
 
-> Moses responded, “No, you go first.” And suddenly their ropes and staffs appeared to him—by their magic—to be slithering.
+> on that Day the earth will recount everything,
 
-— Jumada al-Ula 8, 1445H
+— Jumada al-Ula 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
