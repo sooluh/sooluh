@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 51)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 78)
 
-> or whatever you think is harder to bring to life!” Then they will ask ˹you˺, “Who will bring us back ˹to life˺?” Say, “The One Who created you the first time.” They will then shake their heads at you and ask, “When will that be?” Say, “Perhaps it is soon!”
+> And they argue with Us—forgetting they were created—saying, “Who will give life to decayed bones?”
 
-— Jumada al-Ula 11, 1445H
+— Jumada al-Ula 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
