@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Victory_</sub><br>
-**Surah Al-Fath** (48: 2)
+<sub>_The Dawn_</sub><br>
+**Surah Al-Fajr** (89: 24)
 
-> so that Allah may forgive you for your past and future shortcomings, perfect His favour upon you, guide you along the Straight Path,
+> They will cry, “I wish I had sent forth ˹something good˺ for my ˹true˺ life.”
 
-— Jumada al-Ula 13, 1445H
+— Jumada al-Ula 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
