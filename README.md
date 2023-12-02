@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Winnowing Winds_</sub><br>
-**Surah Adh-Dhariyat** (51: 53)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55: 69)
 
-> Have they passed this ˹cliché˺ down to one another? In fact, they have ˹all˺ been a transgressing people.
+> Then which of your Lord’s favours will you both deny?
 
-— Jumada al-Ula 17, 1445H
+— Jumada al-Ula 18, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
