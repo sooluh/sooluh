@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 69)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 107)
 
-> Then which of your Lord’s favours will you both deny?
+> and ‘If Allah touches you with harm, none can undo it except Him. And if He intends good for you, none can withhold His bounty. He grants it to whoever He wills of His servants. And He is the All-Forgiving, Most Merciful.’”
 
-— Jumada al-Ula 18, 1445H
+— Jumada al-Ula 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
