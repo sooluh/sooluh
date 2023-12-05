@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 106)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 96)
 
-> Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.
+> As for those who believe and do good, the Most Compassionate will ˹certainly˺ bless them with ˹genuine˺ love.
 
-— Jumada al-Ula 20, 1445H
+— Jumada al-Ula 21, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
