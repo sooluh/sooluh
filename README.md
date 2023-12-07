@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Resurrection_</sub><br>
-**Surah Al-Qiyamah** (75: 15)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 53)
 
-> despite the excuses they come up with.
+> Say, ˹O Prophet,˺ “˹Whether you˺ donate willingly or unwillingly, it will never be accepted from you, for you have been a rebellious people.”
 
-— Jumada al-Ula 22, 1445H
+— Jumada al-Ula 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
