@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 24)
+<sub>_The Sun_</sub><br>
+**Surah Ash-Shams** (91: 11)
 
-> She advanced towards him, and he would have done likewise, had he not seen a sign from his Lord. This is how We kept evil and indecency away from him, for he was truly one of Our chosen servants.
+> Thamûd rejected ˹the truth˺ out of arrogance,
 
-— Jumada al-Ula 24, 1445H
+— Jumada al-Ula 25, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
