@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sun_</sub><br>
-**Surah Ash-Shams** (91: 11)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 225)
 
-> Thamûd rejected ˹the truth˺ out of arrogance,
+> Do you not see how they rant in every field,
 
-— Jumada al-Ula 25, 1445H
+— Jumada al-Ula 26, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
