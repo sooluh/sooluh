@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 28)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 53)
 
-> Whenever they commit a shameful deed, they say, “We found our forefathers doing it and Allah has commanded us to do it.” Say, “No! Allah never commands what is shameful. How can you attribute to Allah what you do not know?”
+> The wicked will see the Fire and realize that they are bound to fall into it, and will find no way to avoid it.
 
-— Jumada al-Akhirah 1, 1445H
+— Jumada al-Akhirah 2, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
