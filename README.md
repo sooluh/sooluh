@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 37)
+<sub>_The Emissaries_</sub><br>
+**Surah Al-Mursalat** (77: 26)
 
-> Reallocating the sanctity of ˹these˺ months is an increase in disbelief, by which the disbelievers are led ˹far˺ astray. They adjust the sanctity one year and uphold it in another, only to maintain the number of months sanctified by Allah, violating the very months Allah has made sacred. Their evil deeds have been made appealing to them. And Allah does not guide the disbelieving people.
+> for the living and the dead,
 
-— Jumada al-Akhirah 3, 1445H
+— Jumada al-Akhirah 4, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
