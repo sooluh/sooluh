@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 225)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 41)
 
-> Do you not see how they rant in every field,
+> If they deny you, then say, “My deeds are mine and your deeds are yours. You are free of what I do and I am free of what you do!”
 
-— Jumada al-Akhirah 6, 1445H
+— Jumada al-Akhirah 7, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
