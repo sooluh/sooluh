@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 41)
+<sub>_Those who set the Ranks_</sub><br>
+**Surah As-Saffat** (37: 125)
 
-> If they deny you, then say, “My deeds are mine and your deeds are yours. You are free of what I do and I am free of what you do!”
+> Do you call upon ˹the idol of˺ Ba’l and abandon the Best of Creators—
 
-— Jumada al-Akhirah 7, 1445H
+— Jumada al-Akhirah 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
