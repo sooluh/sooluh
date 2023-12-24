@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 36)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 116)
 
-> Then which of your Lord’s favours will you both deny?
+> Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” ˹only˺ fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.
 
-— Jumada al-Akhirah 10, 1445H
+— Jumada al-Akhirah 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
