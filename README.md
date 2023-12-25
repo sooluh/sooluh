@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 116)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 137)
 
-> Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” ˹only˺ fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.
+> So if they believe in what you believe, then they will indeed be ˹rightly˺ guided. But if they turn away, they are simply opposed ˹to the truth˺. But Allah will spare you their evil. For He is the All-Hearing, All-Knowing.
 
-— Jumada al-Akhirah 11, 1445H
+— Jumada al-Akhirah 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
