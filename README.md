@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mutual Disillusion_</sub><br>
-**Surah At-Taghabun** (64: 17)
+<sub>_The Light_</sub><br>
+**Surah An-Nur** (24: 17)
 
-> If you lend to Allah a good loan, He will multiply it for you and forgive you. For Allah is Most Appreciative, Most Forbearing.
+> Allah forbids you from ever doing something like this again, if you are ˹true˺ believers.
 
-— Jumada al-Akhirah 13, 1445H
+— Jumada al-Akhirah 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
