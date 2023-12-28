@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Light_</sub><br>
-**Surah An-Nur** (24: 17)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 45)
 
-> Allah forbids you from ever doing something like this again, if you are ˹true˺ believers.
+> No one would ask for exemption except those who have no faith in Allah or the Last Day, and whose hearts are in doubt, so they are torn by their doubts.
 
-— Jumada al-Akhirah 14, 1445H
+— Jumada al-Akhirah 15, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
