@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud_</sub><br>
-**Surah Hud** (11: 91)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 263)
 
-> They threatened, “O Shu’aib! We do not comprehend much of what you say, and surely we see you powerless among us. Were it not for your clan, we would have certainly stoned you, for you are nothing to us.”
+> Kind words and forgiveness are better than charity followed by injury. And Allah is Self-Sufficient, Most Forbearing.
 
-— Jumada al-Akhirah 16, 1445H
+— Jumada al-Akhirah 17, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
