@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud_</sub><br>
-**Surah Hud** (11: 52)
+<sub>_The Spider_</sub><br>
+**Surah Al-'Ankabut** (29: 44)
 
-> And O  my people! Seek your Lord’s forgiveness and turn to Him in repentance. He will shower you with rain in abundance, and add strength to your strength. So do not turn away, persisting in wickedness.”
+> Allah created the heavens and the earth for a purpose. Surely in this is a sign for the people of faith.
 
-— Jumada al-Akhirah 19, 1445H
+— Jumada al-Akhirah 20, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
