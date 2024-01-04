@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Iron_</sub><br>
-**Surah Al-Hadid** (57: 2)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 118)
 
-> To Him belongs the kingdom of the heavens and the earth. He gives life and causes death. And He is Most Capable of everything.
+> To the Jews, We have forbidden what We related to you before. We did not wrong them, but it was they who wronged themselves.
 
-— Jumada al-Akhirah 21, 1445H
+— Jumada al-Akhirah 22, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
