@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 175)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 39)
 
-> As for those who believe in Allah and hold fast to Him, He will admit them into His mercy and grace and guide them to Himself through the Straight Path.
+> As for the moon, We have ordained ˹precise˺ phases for it, until it ends up ˹looking˺ like an old, curved palm stalk.
 
-— Jumada al-Akhirah 23, 1445H
+— Jumada al-Akhirah 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
