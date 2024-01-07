@@ -25,11 +25,11 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### 📚 Recent Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [How to Fix Proxmox (PVE) 6.4-15 to 7.x Upgrade Stuck at 57%](https://sooluh.hashnode.dev/pve-6415-to-7x-upgrade-stuck-at-57-clr30a4ik000009l69ckk2425)
 - [Step-by-Step Guide to Install Portainer on Ubuntu](https://sooluh.hashnode.dev/install-portainer-on-ubuntu-clohf3hcj000h09lda1w6crwu)
 - [Sudah Berhijab Namun Perlu Dihijab Kembali](https://sooluh.hashnode.dev/tabarruj-cllkuqt9l000209mmb78pfcqj)
 - [How I Handled Secure Session Management in Adonis 5](https://sooluh.hashnode.dev/session-management-adonis-5-cllafzcs6000108jx8pla49fb)
 - [Pacaran Kemudian Menikah](https://sooluh.hashnode.dev/pacaran-kemudian-menikah-cli6sxqj000040al5f7hm8bix)
-- [Dinilai Sebagai Ketaatan Saat Bertemu Error](https://sooluh.hashnode.dev/dinilai-sebagai-ketaatan-saat-bertemu-error-clfymj36v00010alc6o1a4a77)
 <!-- HASHNODE_BLOG:END -->
 
 Check out [**notes.suluh.my.id**](https://notes.suluh.my.id) for more interesting blog posts!
