@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 21)
+<sub>_The Spider_</sub><br>
+**Surah Al-'Ankabut** (29: 45)
 
-> and those who maintain whatever ˹ties˺ Allah has ordered to be maintained, stand in awe of their Lord, and fear strict judgment.
+> Recite what has been revealed to you of the Book and establish prayer. Indeed, ˹genuine˺ prayer should deter ˹one˺ from indecency and wickedness. The remembrance of Allah is ˹an˺ even greater ˹deterrent˺. And Allah ˹fully˺ knows what you ˹all˺ do.
 
-— Jumada al-Akhirah 25, 1445H
+— Jumada al-Akhirah 26, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
