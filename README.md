@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spider_</sub><br>
-**Surah Al-'Ankabut** (29: 45)
+<sub>_The Ascending Stairways_</sub><br>
+**Surah Al-Ma'arij** (70: 5)
 
-> Recite what has been revealed to you of the Book and establish prayer. Indeed, ˹genuine˺ prayer should deter ˹one˺ from indecency and wickedness. The remembrance of Allah is ˹an˺ even greater ˹deterrent˺. And Allah ˹fully˺ knows what you ˹all˺ do.
+> So endure ˹this denial, O  Prophet,˺ with beautiful patience.
 
-— Jumada al-Akhirah 26, 1445H
+— Jumada al-Akhirah 27, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
