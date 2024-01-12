@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 22)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 111)
 
-> to stay there for ever and ever. Surely with Allah is a great reward.
+> The Jews and Christians each claim that none will enter Paradise except those of their own faith. These are their desires. Reply, ˹O Prophet,˺ “Show ˹me˺ your proof if what you say is true.”
 
-— Jumada al-Akhirah 29, 1445H
+— Jumada al-Akhirah 30, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
