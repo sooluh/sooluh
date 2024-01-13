@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 111)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 14)
 
-> The Jews and Christians each claim that none will enter Paradise except those of their own faith. These are their desires. Reply, ˹O Prophet,˺ “Show ˹me˺ your proof if what you say is true.”
+> Then We made you their successors in the land to see how you would act.
 
-— Jumada al-Akhirah 30, 1445H
+— Rajab 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
