@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 14)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 117)
 
-> Then We made you their successors in the land to see how you would act.
+> ˹It is only˺ a brief enjoyment, then they will suffer a painful punishment.
 
-— Rajab 1, 1445H
+— Rajab 2, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
