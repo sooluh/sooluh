@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 117)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 1)
 
-> ˹It is only˺ a brief enjoyment, then they will suffer a painful punishment.
+> Alif-Lãm-Mĩm-Ṣãd.
 
-— Rajab 2, 1445H
+— Rajab 3, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
