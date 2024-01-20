@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cloaked One_</sub><br>
-**Surah Al-Muddaththir** (74: 17)
+<sub>_Muhammad_</sub><br>
+**Surah Muhammad** (47: 8)
 
-> I will make his fate unbearable,
+> As for the disbelievers, may they be doomed and may He render their deeds void.
 
-— Rajab 7, 1445H
+— Rajab 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
