@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Muhammad_</sub><br>
-**Surah Muhammad** (47: 8)
+<sub>_The Ant_</sub><br>
+**Surah An-Naml** (27: 77)
 
-> As for the disbelievers, may they be doomed and may He render their deeds void.
+> And it is truly a guide and mercy for the believers.
 
-— Rajab 8, 1445H
+— Rajab 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
