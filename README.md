@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ant_</sub><br>
-**Surah An-Naml** (27: 77)
+<sub>_The Letter "Qaf"_</sub><br>
+**Surah Qaf** (50: 23)
 
-> And it is truly a guide and mercy for the believers.
+> And one’s accompanying-angel will say, “Here is the record ready with me.”
 
-— Rajab 9, 1445H
+— Rajab 10, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
