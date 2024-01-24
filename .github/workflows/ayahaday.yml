@@ -19,7 +19,7 @@ jobs:
         with:
           deno-version: v1.x
 
-      - name: Bismillah 🤲🏻
+      - name: Ayah A Day 🤲🏻
         run: deno run --allow-all src/ayahaday.ts
 
       - name: Commit Changes 🚩
@@ -29,7 +29,7 @@ jobs:
           git add --all
 
           date=$(date '+%Y-%m-%d')
-          git commit -m "chore(readme) update $date"
+          git commit -m "chore(readme): update ayah a day $date"
 
       - name: GitHub Push 🚀
         uses: ad-m/github-push-action@master
