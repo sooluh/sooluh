@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 84)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 4)
 
-> So do not be in haste against them, for indeed We are ˹closely˺ counting down their days.
+> those who pay alms-tax;
 
-— Rajab 11, 1445H
+— Rajab 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
