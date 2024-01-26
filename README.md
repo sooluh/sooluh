@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 115)
+<sub>_The Overwhelming_</sub><br>
+**Surah Al-Ghashiyah** (88: 19)
 
-> I am only sent with a clear warning.”
+> and the mountains—how they were firmly set up;
 
-— Rajab 13, 1445H
+— Rajab 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
