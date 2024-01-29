@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 82)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55: 75)
 
-> “And as for the wall, it belonged to two orphan boys in the city, and under the wall was a treasure that belonged to them, and their father had been a righteous man. So your Lord willed that these children should come of age and retrieve their treasure, as a mercy from your Lord. I did not do it ˹all˺ on my own. This is the explanation of what you could not bear patiently.” 
+> Then which of your Lord’s favours will you both deny?
 
-— Rajab 16, 1445H
+— Rajab 17, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
