@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 75)
+<sub>_The Criterian_</sub><br>
+**Surah Al-Furqan** (25: 62)
 
-> Then which of your Lord’s favours will you both deny?
+> And He is the One Who causes the day and the night to alternate, ˹as a sign˺ for whoever desires to be mindful or to be grateful.
 
-— Rajab 17, 1445H
+— Rajab 18, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
