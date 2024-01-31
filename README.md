@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Criterian_</sub><br>
-**Surah Al-Furqan** (25: 62)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 84)
 
-> And He is the One Who causes the day and the night to alternate, ˹as a sign˺ for whoever desires to be mindful or to be grateful.
+> And to the people of Midian We sent their brother Shu’aib. He said, “O my people! Worship Allah. You have no god other than Him. And do not give short measure and weight. I do see you in prosperity now, but I truly fear for you the torment of an overwhelming Day.
 
-— Rajab 18, 1445H
+— Rajab 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
