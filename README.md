@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 43)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 54)
 
-> Go, both of you, to Pharaoh, for he has truly transgressed ˹all bounds˺.
+> So it will be. And We will pair them to maidens with gorgeous eyes.
 
-— Rajab 22, 1445H
+— Rajab 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
