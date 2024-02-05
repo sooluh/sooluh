@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 54)
+<sub>_The Letter "Saad"_</sub><br>
+**Surah Sad** (38: 45)
 
-> So it will be. And We will pair them to maidens with gorgeous eyes.
+> And remember Our servants: Abraham, Isaac, and Jacob—the men of strength and insight.
 
-— Rajab 23, 1445H
+— Rajab 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
