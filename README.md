@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 88)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 54)
 
-> When they entered Joseph’s presence, they pleaded, “O Chief Minister! We and our family have been touched with hardship, and we have brought only a few worthless coins, but ˹please˺ give us our supplies in full and be charitable to us. Indeed, Allah rewards the charitable.”
+> Then as soon as He removes the hardship from you, a group of you associates ˹others˺ with their Lord ˹in worship˺,
 
-— Rajab 26, 1445H
+— Rajab 27, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
