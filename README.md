@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 54)
+<sub>_Sheba_</sub><br>
+**Surah Saba** (34: 42)
 
-> Then as soon as He removes the hardship from you, a group of you associates ˹others˺ with their Lord ˹in worship˺,
+> So Today neither of you can benefit or protect each other. And We will say to the wrongdoers, “Taste the torment of the Fire, which you used to deny.”
 
-— Rajab 27, 1445H
+— Rajab 28, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
