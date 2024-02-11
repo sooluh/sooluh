@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 61)
+<sub>_The Most High_</sub><br>
+**Surah Al-A'la** (87: 4)
 
-> When it is said to them, “Come to Allah’s revelations and to the Messenger,” you see the hypocrites turn away from you stubbornly.
+> and Who brings forth ˹green˺ pasture,
 
-— Rajab 29, 1445H
+— Sha’ban 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
