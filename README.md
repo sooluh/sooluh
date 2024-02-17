@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Emissaries_</sub><br>
-**Surah Al-Mursalat** (77: 25)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 33)
 
-> Have We not made the earth a lodging
+> And We showed them signs in which there was a clear test.
 
-— Sha’ban 6, 1445H
+— Sha’ban 7, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
