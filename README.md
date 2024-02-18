@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 33)
+<sub>_The Declining Day_</sub><br>
+**Surah Al-'Asr** (103: 3)
 
-> And We showed them signs in which there was a clear test.
+> except those who have faith, do good, and urge each other to the truth, and urge each other to perseverance.
 
-— Sha’ban 7, 1445H
+— Sha’ban 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
