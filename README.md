@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 2)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 171)
 
-> taught the Quran,
+> except an old woman, who was one of the doomed.
 
-— Sha’ban 9, 1445H
+— Sha’ban 10, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
