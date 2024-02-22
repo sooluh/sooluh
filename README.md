@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 39)
+<sub>_The Spider_</sub><br>
+**Surah Al-'Ankabut** (29: 7)
 
-> As for the moon, We have ordained ˹precise˺ phases for it, until it ends up ˹looking˺ like an old, curved palm stalk.
+> As for those who believe and do good, We will certainly absolve them of their sins, and reward them according to the best of what they used to do.
 
-— Sha’ban 11, 1445H
+— Sha’ban 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
