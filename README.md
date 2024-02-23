@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spider_</sub><br>
-**Surah Al-'Ankabut** (29: 7)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 57)
 
-> As for those who believe and do good, We will certainly absolve them of their sins, and reward them according to the best of what they used to do.
+> And as for those who believe and do good, they will be rewarded in full. And Allah does not like the wrongdoers.”
 
-— Sha’ban 12, 1445H
+— Sha’ban 13, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
