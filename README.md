@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Tidings_</sub><br>
-**Surah An-Naba** (78: 8)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 8)
 
-> and created you in pairs,
+> And We will certainly reduce whatever is on it to barren ground.
 
-— Sha’ban 15, 1445H
+— Sha’ban 16, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
