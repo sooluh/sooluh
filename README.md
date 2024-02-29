@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Iron_</sub><br>
-**Surah Al-Hadid** (57: 23)
+<sub>_The Stories_</sub><br>
+**Surah Al-Qasas** (28: 63)
 
-> ˹We let you know this˺ so that you neither grieve over what you have missed nor boast over what He has granted you. For Allah does not like whoever is arrogant, boastful—
+> Those ˹misleaders˺ against whom the decree ˹of torment˺ is justified will cry, “Our Lord! These ˹followers˺ are the ones we caused to deviate. We led them into deviance, for we ourselves were deviant. We disassociate ourselves ˹from them˺ before You. It was not us that they used to worship.”
 
-— Sha’ban 18, 1445H
+— Sha’ban 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
