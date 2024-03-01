@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories_</sub><br>
-**Surah Al-Qasas** (28: 63)
+<sub>_Originator_</sub><br>
+**Surah Fatir** (35: 45)
 
-> Those ˹misleaders˺ against whom the decree ˹of torment˺ is justified will cry, “Our Lord! These ˹followers˺ are the ones we caused to deviate. We led them into deviance, for we ourselves were deviant. We disassociate ourselves ˹from them˺ before You. It was not us that they used to worship.”
+> If Allah were to punish people ˹immediately˺ for what they have committed, He would not have left a single living being on earth. But He delays them for an appointed term. And when their time arrives, then surely Allah is All-Seeing of His servants.
 
-— Sha’ban 19, 1445H
+— Sha’ban 20, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
