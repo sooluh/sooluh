@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Victory_</sub><br>
-**Surah Al-Fath** (48: 4)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 80)
 
-> He is the One Who sent down serenity upon the hearts of the believers so that they may increase even more in their faith. To Allah ˹alone˺ belong the forces of the heavens and the earth. And Allah is All-Knowing, All-Wise.
+> He responded, “If only I had the strength ˹to resist you˺ or could rely on a strong supporter.”
 
-— Sha’ban 21, 1445H
+— Sha’ban 22, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
