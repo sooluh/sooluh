@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud_</sub><br>
-**Surah Hud** (11: 80)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 117)
 
-> He responded, “If only I had the strength ˹to resist you˺ or could rely on a strong supporter.”
+> ˹He is˺ the Originator of the heavens and the earth! When He decrees a matter, He simply tells it, “Be!” And it is!
 
-— Sha’ban 22, 1445H
+— Sha’ban 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
