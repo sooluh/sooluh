@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 117)
+<sub>_The Defrauding_</sub><br>
+**Surah Al-Mutaffifin** (83: 9)
 
-> ˹He is˺ the Originator of the heavens and the earth! When He decrees a matter, He simply tells it, “Be!” And it is!
+> a fate ˹already˺ sealed.
 
-— Sha’ban 23, 1445H
+— Sha’ban 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
