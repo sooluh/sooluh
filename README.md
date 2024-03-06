@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding_</sub><br>
-**Surah Al-Mutaffifin** (83: 9)
+<sub>_The Emissaries_</sub><br>
+**Surah Al-Mursalat** (77: 48)
 
-> a fate ˹already˺ sealed.
+> When it is said to them, “Bow down ˹before Allah,” they do not bow.
 
-— Sha’ban 24, 1445H
+— Sha’ban 25, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
