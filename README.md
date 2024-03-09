@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cleaving_</sub><br>
-**Surah Al-Infitar** (82: 13)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 116)
 
-> Indeed, the virtuous will be in bliss,
+> And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?” He will answer, “Glory be to You! How could I ever say what I had no right to say? If I had said such a thing, you would have certainly known it. You know what is ˹hidden˺ within me, but I do not know what is within You. Indeed, You ˹alone˺ are the Knower of all unseen.
 
-— Sha’ban 27, 1445H
+— Sha’ban 28, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
