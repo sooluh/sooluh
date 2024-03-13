@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 166)
+<sub>_The Criterian_</sub><br>
+**Surah Al-Furqan** (25: 49)
 
-> Yet ˹if you are denied, O  Prophet,˺ Allah bears witness to what He has sent down to you—He has sent it with His knowledge. The angels too bear witness. And Allah ˹alone˺ is sufficient as a Witness.
+> giving life to a lifeless land, and providing water for countless animals and humans of Our Own creation.
 
-— Ramadhan 2, 1445H
+— Ramadhan 3, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
