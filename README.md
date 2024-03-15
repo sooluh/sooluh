@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories_</sub><br>
-**Surah Al-Qasas** (28: 23)
+<sub>_The Reality_</sub><br>
+**Surah Al-Haqqah** (69: 43)
 
-> When he arrived at the well of Midian, he found a group of people watering ˹their herds˺. Apart from them, he noticed two women holding back ˹their herd˺. He asked ˹them˺, “What is the matter?” They replied, “We cannot water ˹our animals˺ until the ˹other˺ shepherds are done, for our father is a very old man.”
+> ˹It is˺ a revelation from the Lord of all worlds.
 
-— Ramadhan 4, 1445H
+— Ramadhan 5, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
