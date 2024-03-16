@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality_</sub><br>
-**Surah Al-Haqqah** (69: 43)
+<sub>_Those who set the Ranks_</sub><br>
+**Surah As-Saffat** (37: 151)
 
-> ˹It is˺ a revelation from the Lord of all worlds.
+> Indeed, it is one of their ˹outrageous˺ fabrications to say,
 
-— Ramadhan 5, 1445H
+— Ramadhan 6, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
