@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 74)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 31)
 
-> He chooses whoever He wills to receive His mercy. And Allah is the Lord of infinite bounty.
+> It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on ˹canopied˺ couches. What a marvellous reward! And what a fabulous place to rest!
 
-— Ramadhan 7, 1445H
+— Ramadhan 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
