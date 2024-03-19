@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 31)
+<sub>_Luqman_</sub><br>
+**Surah Luqman** (31: 13)
 
-> It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on ˹canopied˺ couches. What a marvellous reward! And what a fabulous place to rest!
+> And ˹remember˺ when Luqmân said to his son, while advising him, “O my dear son! Never associate ˹anything˺ with Allah ˹in worship˺, for associating ˹others with Him˺ is truly the worst of all wrongs.”
 
-— Ramadhan 8, 1445H
+— Ramadhan 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
