@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 69)
+<sub>_The Pen_</sub><br>
+**Surah Al-Qalam** (68: 44)
 
-> Some of the People of the Book wish to mislead you ˹believers˺. They mislead none but themselves, yet they fail to perceive it.
+> So leave to Me ˹O Prophet˺ those who reject this message. We will gradually draw them to destruction in ways they cannot comprehend.
 
-— Ramadhan 10, 1445H
+— Ramadhan 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
