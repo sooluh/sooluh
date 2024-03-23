@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread_</sub><br>
-**Surah Al-Ma'idah** (5: 105)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 26)
 
-> O believers! You are accountable only for yourselves. It will not harm you if someone chooses to deviate—as long as you are ˹rightly˺ guided. To Allah you will all return, and He will inform you of what you used to do.
+> Then Allah sent down His reassurance upon His Messenger and the believers, and sent down forces you could not see, and punished those who disbelieved. Such was the reward of the disbelievers.
 
-— Ramadhan 12, 1445H
+— Ramadhan 13, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
