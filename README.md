@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 26)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 25)
 
-> Then Allah sent down His reassurance upon His Messenger and the believers, and sent down forces you could not see, and punished those who disbelieved. Such was the reward of the disbelievers.
+> Those before them ˹also˺ rejected ˹the truth˺, then the torment came upon them from where they least expected.
 
-— Ramadhan 13, 1445H
+— Ramadhan 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
