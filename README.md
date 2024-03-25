@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops_</sub><br>
-**Surah Az-Zumar** (39: 25)
+<sub>_The Hypocrites_</sub><br>
+**Surah Al-Munafiqun** (63: 10)
 
-> Those before them ˹also˺ rejected ˹the truth˺, then the torment came upon them from where they least expected.
+> And donate from what We have provided for you before death comes to one of you, and you cry, “My Lord! If only You delayed me for a short while, I would give in charity and be one of the righteous.”
 
-— Ramadhan 14, 1445H
+— Ramadhan 15, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
