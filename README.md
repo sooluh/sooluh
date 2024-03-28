@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 25)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55: 75)
 
-> And those who violate Allah’s covenant after it has been affirmed, break whatever ˹ties˺ Allah has ordered to be maintained, and spread corruption in the land—it is they who will be condemned and will have the worst abode. 
+> Then which of your Lord’s favours will you both deny?
 
-— Ramadhan 17, 1445H
+— Ramadhan 18, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
