@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 75)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 108)
 
-> Then which of your Lord’s favours will you both deny?
+> They are the ones whose hearts, ears, and eyes are sealed by Allah, and it is they who are ˹truly˺ heedless.
 
-— Ramadhan 18, 1445H
+— Ramadhan 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
