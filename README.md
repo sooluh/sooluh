@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rooms_</sub><br>
-**Surah Al-Hujurat** (49: 6)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 98)
 
-> O believers, if an evildoer brings you any news, verify ˹it˺ so you do not harm people unknowingly, becoming regretful for what you have done.
+> He said, “I will pray to my Lord for your forgiveness. He ˹alone˺ is indeed the All-Forgiving, Most Merciful.”
 
-— Ramadhan 22, 1445H
+— Ramadhan 23, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
