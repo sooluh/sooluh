@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 40)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 31)
 
-> ˹They are˺ those who have been expelled from their homes for no reason other than proclaiming: “Our Lord is Allah.” Had Allah not repelled ˹the aggression of˺ some people by means of others, destruction would have surely claimed monasteries, churches, synagogues, and mosques in which Allah’s Name is often mentioned. Allah will certainly help those who stand up for Him. Allah is truly All-Powerful, Almighty.
+> He taught Adam the names of all things, then He presented them to the angels and said, “Tell Me the names of these, if what you say is true?”
 
-— Ramadhan 27, 1445H
+— Ramadhan 28, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
