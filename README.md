@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 91)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 28)
 
-> Then an ˹overwhelming˺ earthquake struck them and they fell lifeless in their homes.
+> raising it high and forming it flawlessly.
 
-— Ramadhan 29, 1445H
+— Ramadhan 30, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
