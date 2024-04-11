@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Traducer_</sub><br>
-**Surah Al-Humazah** (104: 2)
+<sub>_The Emissaries_</sub><br>
+**Surah Al-Mursalat** (77: 19)
 
-> who amasses wealth ˹greedily˺ and counts it ˹repeatedly˺,
+> Woe on that Day to the deniers!
 
-— Shawwal 1, 1445H
+— Shawwal 2, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
