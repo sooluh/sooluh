@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Emissaries_</sub><br>
-**Surah Al-Mursalat** (77: 19)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 19)
 
-> Woe on that Day to the deniers!
+> Have you not seen that Allah created the heavens and the earth for a reason? If He wills, He can eliminate you and produce a new creation.
 
-— Shawwal 2, 1445H
+— Shawwal 3, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
