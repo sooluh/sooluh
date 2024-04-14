@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 33)
+<sub>_The Forgiver_</sub><br>
+**Surah Ghafir** (40: 37)
 
-> Do not take a ˹human˺ life—made sacred by Allah—except with ˹legal˺ right. If anyone is killed unjustly, We have given their heirs the authority, but do not let them exceed limits in retaliation, for they are already supported ˹by law˺.
+> leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” And so Pharaoh’s evil deeds were made so appealing to him that he was hindered from the ˹Right˺ Way. But the plotting of Pharaoh was only in vain.
 
-— Shawwal 4, 1445H
+— Shawwal 5, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
