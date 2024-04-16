@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 145)
+<sub>_The Cleaving_</sub><br>
+**Surah Al-Infitar** (82: 9)
 
-> No soul can ever die without Allah’s Will at the destined time. Those who desire worldly gain, We will let them have it, and those who desire heavenly reward, We will grant it to them. And We will reward those who are grateful.
+> But no! In fact, you deny the ˹final˺ Judgment,
 
-— Shawwal 6, 1445H
+— Shawwal 7, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
