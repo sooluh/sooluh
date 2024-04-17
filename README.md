@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cleaving_</sub><br>
-**Surah Al-Infitar** (82: 9)
+<sub>_The Combined Forces_</sub><br>
+**Surah Al-Ahzab** (33: 47)
 
-> But no! In fact, you deny the ˹final˺ Judgment,
+> Give good news to the believers that they will have a great bounty from Allah.
 
-— Shawwal 7, 1445H
+— Shawwal 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
