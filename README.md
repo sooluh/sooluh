@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Combined Forces_</sub><br>
-**Surah Al-Ahzab** (33: 47)
+<sub>_The Night_</sub><br>
+**Surah Al-Layl** (92: 4)
 
-> Give good news to the believers that they will have a great bounty from Allah.
+> Surely the ends you strive for are diverse.
 
-— Shawwal 8, 1445H
+— Shawwal 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
