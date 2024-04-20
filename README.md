@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ant_</sub><br>
-**Surah An-Naml** (27: 79)
+<sub>_The Mount_</sub><br>
+**Surah At-Tur** (52: 36)
 
-> So put your trust in Allah, for you are surely upon the ˹Path of˺ clear truth.
+> Or did they create the heavens and the earth? In fact, they have no certainty.
 
-— Shawwal 10, 1445H
+— Shawwal 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
