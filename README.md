@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Combined Forces_</sub><br>
-**Surah Al-Ahzab** (33: 33)
+<sub>_The Mount_</sub><br>
+**Surah At-Tur** (52: 20)
 
-> Settle in your homes, and do not display yourselves as women did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away from you and purify you completely, O  members of the ˹Prophet’s˺ family!
+> They will be reclining on thrones, ˹neatly˺ lined up ˹facing each other˺. And We will pair them to maidens with gorgeous eyes.
 
-— Shawwal 13, 1445H
+— Shawwal 14, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
