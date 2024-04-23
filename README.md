@@ -6,7 +6,7 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 
 - 💼 I'm currently working at [**PST**](https://pratama.tech)<br />
 - 🎓 Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id)<br />
-- 🌱 Currently learning Laravel and Livewire<br />
+- 🌱 Currently learning `undefined`<br />
 - ✨ Interested in **backend-ish** things<br />
 - 🏠 Rarely go out, unless it's important<br />
 - 📖 Read Islamic ~motiv~ books
