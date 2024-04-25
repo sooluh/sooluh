@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 11)
+<sub>_The Light_</sub><br>
+**Surah An-Nur** (24: 54)
 
-> Allah commands you regarding your children: the share of the male will be twice that of the female. If you leave only two ˹or more˺ females, their share is two-thirds of the estate. But if there is only one female, her share will be one-half. Each parent is entitled to one-sixth if you leave offspring. But if you are childless and your parents are the only heirs, then your mother will receive one-third. But if you leave siblings, then your mother will receive one-sixth—after the fulfilment of bequests and debts. ˹Be fair to˺ your parents and children, as you do not ˹fully˺ know who is more beneficial to you. ˹This is˺ an obligation from Allah. Surely Allah is All-Knowing, All-Wise.
+> Say, “Obey Allah and obey the Messenger. But if you turn away, then he is only responsible for his duty and you are responsible for yours. And if you obey him, you will be ˹rightly˺ guided. The Messenger’s duty is only to deliver ˹the message˺ clearly.”
 
-— Shawwal 15, 1445H
+— Shawwal 16, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
