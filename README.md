@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rivalry in world increase_</sub><br>
-**Surah At-Takathur** (102: 5)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 91)
 
-> Indeed, if you were to know ˹your fate˺ with certainty, ˹you would have acted differently˺.
+> or until you have a garden of palm trees and vineyards, and cause rivers to flow abundantly in it,
 
-— Shawwal 20, 1445H
+— Shawwal 21, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
