@@ -14,12 +14,12 @@ a software engineer from Indonesia. 8+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 90)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 88)
 
-> The disbelieving chiefs of his people threatened, “If you follow Shu’aib, you will surely be losers!”
+> This is Allah’s guidance with which He guides whoever He wills of His servants. Had they associated others with Him ˹in worship˺, their ˹good˺ deeds would have been wasted.
 
-— Shawwal 24, 1445H
+— Shawwal 25, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
