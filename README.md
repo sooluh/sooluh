@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm Suluh!
 
-a software engineer from Indonesia. 8+ years of experience in web development.
+a software engineer from Indonesia. 9+ years of experience in web development.
 
 - 💼 I'm currently working at [**PST**](https://pratama.tech)<br />
 - 🎓 Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id)<br />
