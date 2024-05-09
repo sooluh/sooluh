@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 27)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 17)
 
-> O children of Adam! Do not let Satan deceive you as he tempted your parents out of Paradise and caused their cover to be removed in order to expose their nakedness. Surely he and his soldiers watch you from where you cannot see them. We have made the devils allies of those who disbelieve.
+> And indeed, We created above you seven levels ˹of heaven˺. We are never unmindful of ˹Our˺ creation.
 
-— Shawwal 29, 1445H
+— Dhu al-Qi’dah 1, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
