@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 17)
+<sub>_The Ornaments of Gold_</sub><br>
+**Surah Az-Zukhruf** (43: 13)
 
-> And indeed, We created above you seven levels ˹of heaven˺. We are never unmindful of ˹Our˺ creation.
+> so that you may sit firmly on their backs, and remember your Lord’s blessings once you are settled on them, saying, “Glory be to the One Who has subjected these for us, for we could have never done so ˹on our own˺.
 
-— Dhu al-Qi’dah 1, 1445H
+— Dhu al-Qi’dah 2, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
