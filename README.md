@@ -15,11 +15,11 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_The Stories_</sub><br>
-**Surah Al-Qasas** (28: 9)
+**Surah Al-Qasas** (28: 30)
 
-> Pharaoh’s wife said ˹to him˺, “˹This baby is˺ a source of joy for me and you. Do not kill him. Perhaps he may be useful to us or we may adopt him as a son.” They were unaware ˹of what was to come˺.
+> But when he came to it, he was called from the bush in the sacred ground to the right side of the valley: “O Moses! It is truly I. I am Allah—the Lord of all worlds.
 
-— Dhu al-Qi’dah 6, 1445H
+— Dhu al-Qi’dah 7, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
