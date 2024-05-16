@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories_</sub><br>
-**Surah Al-Qasas** (28: 30)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 18)
 
-> But when he came to it, he was called from the bush in the sacred ground to the right side of the valley: “O Moses! It is truly I. I am Allah—the Lord of all worlds.
+> those who listen to what is said and follow the best of it. These are the ones ˹rightly˺ guided by Allah, and these are ˹truly˺ the people of reason.
 
-— Dhu al-Qi’dah 7, 1445H
+— Dhu al-Qi’dah 8, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
