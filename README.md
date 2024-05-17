@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops_</sub><br>
-**Surah Az-Zumar** (39: 18)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 41)
 
-> those who listen to what is said and follow the best of it. These are the ones ˹rightly˺ guided by Allah, and these are ˹truly˺ the people of reason.
+> Do they not see that We gradually reduce their land from its borders? Allah decides—none can reverse His decision. And He is swift in reckoning.
 
-— Dhu al-Qi’dah 8, 1445H
+— Dhu al-Qi’dah 9, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
