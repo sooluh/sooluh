@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The City_</sub><br>
-**Surah Al-Balad** (90: 12)
+<sub>_Muhammad_</sub><br>
+**Surah Muhammad** (47: 8)
 
-> And what will make you realize what ˹attempting˺ the challenging path is?
+> As for the disbelievers, may they be doomed and may He render their deeds void.
 
-— Dhu al-Qi’dah 10, 1445H
+— Dhu al-Qi’dah 11, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
