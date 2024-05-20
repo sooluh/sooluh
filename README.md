@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Muhammad_</sub><br>
-**Surah Muhammad** (47: 8)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 185)
 
-> As for the disbelievers, may they be doomed and may He render their deeds void.
+> They replied, “You are simply bewitched!
 
-— Dhu al-Qi’dah 11, 1445H
+— Dhu al-Qi’dah 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
