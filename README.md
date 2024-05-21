@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 185)
+<sub>_The Spider_</sub><br>
+**Surah Al-'Ankabut** (29: 45)
 
-> They replied, “You are simply bewitched!
+> Recite what has been revealed to you of the Book and establish prayer. Indeed, ˹genuine˺ prayer should deter ˹one˺ from indecency and wickedness. The remembrance of Allah is ˹an˺ even greater ˹deterrent˺. And Allah ˹fully˺ knows what you ˹all˺ do.
 
-— Dhu al-Qi’dah 12, 1445H
+— Dhu al-Qi’dah 13, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
