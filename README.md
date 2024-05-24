@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 20)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 50)
 
-> But those ˹idols˺ they invoke besides Allah cannot create anything—they themselves are created.
+> And this ˹Quran˺ is a blessed reminder which We have revealed. Will you ˹pagans˺ then deny it?
 
-— Dhu al-Qi’dah 15, 1445H
+— Dhu al-Qi’dah 16, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
