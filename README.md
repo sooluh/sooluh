@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 50)
+<sub>_The Pen_</sub><br>
+**Surah Al-Qalam** (68: 38)
 
-> And this ˹Quran˺ is a blessed reminder which We have revealed. Will you ˹pagans˺ then deny it?
+> that you will have whatever you choose?
 
-— Dhu al-Qi’dah 16, 1445H
+— Dhu al-Qi’dah 17, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
