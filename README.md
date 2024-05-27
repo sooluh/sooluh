@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Combined Forces_</sub><br>
-**Surah Al-Ahzab** (33: 2)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 65)
 
-> Follow what is revealed to you from your Lord. Surely Allah is All-Aware of what you ˹all˺ do.
+> They said, “O Moses! Either you cast, or let us be the first to cast.”
 
-— Dhu al-Qi’dah 18, 1445H
+— Dhu al-Qi’dah 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
