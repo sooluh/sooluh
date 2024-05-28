@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 65)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 26)
 
-> They said, “O Moses! Either you cast, or let us be the first to cast.”
+> So Allah made them taste humiliation in this worldly life, but far worse is the punishment of the Hereafter, if only they knew.
 
-— Dhu al-Qi’dah 19, 1445H
+— Dhu al-Qi’dah 20, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
