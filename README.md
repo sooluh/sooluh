@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops_</sub><br>
-**Surah Az-Zumar** (39: 26)
+<sub>_The Combined Forces_</sub><br>
+**Surah Al-Ahzab** (33: 25)
 
-> So Allah made them taste humiliation in this worldly life, but far worse is the punishment of the Hereafter, if only they knew.
+> And Allah drove back the disbelievers in their rage, totally empty-handed. And Allah spared the believers from fighting. For Allah is All-Powerful, Almighty.
 
-— Dhu al-Qi’dah 20, 1445H
+— Dhu al-Qi’dah 21, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
