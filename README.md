@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sincerity_</sub><br>
-**Surah Al-Ikhlas** (112: 1)
+<sub>_The Tidings_</sub><br>
+**Surah An-Naba** (78: 5)
 
-> Say, ˹O Prophet,˺ “He is Allah—One ˹and Indivisible˺;
+> Again, no! They will come to know.
 
-— Dhu al-Qi’dah 23, 1445H
+— Dhu al-Qi’dah 24, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
