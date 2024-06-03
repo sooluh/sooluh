@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud_</sub><br>
-**Surah Hud** (11: 39)
+<sub>_Explained in Detail_</sub><br>
+**Surah Fussilat** (41: 43)
 
-> You will soon come to know who will be visited by a humiliating torment ˹in this life˺ and overwhelmed by an everlasting punishment ˹in the next˺.”
+> ˹O Prophet!˺ Nothing is said to you ˹by the deniers˺ except what was already said to the messengers before you. Surely your Lord is ˹the Lord˺ of forgiveness and painful punishment.
 
-— Dhu al-Qi’dah 25, 1445H
+— Dhu al-Qi’dah 26, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
