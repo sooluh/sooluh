@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Explained in Detail_</sub><br>
-**Surah Fussilat** (41: 43)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 70)
 
-> ˹O Prophet!˺ Nothing is said to you ˹by the deniers˺ except what was already said to the messengers before you. Surely your Lord is ˹the Lord˺ of forgiveness and painful punishment.
+> to warn whoever is ˹truly˺ alive and fulfil the decree ˹of torment˺ against the disbelievers.
 
-— Dhu al-Qi’dah 26, 1445H
+— Dhu al-Qi’dah 27, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
