@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cleaving_</sub><br>
-**Surah Al-Infitar** (82: 18)
+<sub>_The Spoils of War_</sub><br>
+**Surah Al-Anfal** (8: 52)
 
-> Again, what will make you realize what Judgment Day is?
+> Their fate is that of the people of Pharaoh and those before them—they all disbelieved in Allah’s signs, so Allah seized them for their sins. Indeed, Allah is All-Powerful, severe in punishment.
 
-— Dhu al-Qi’dah 28, 1445H
+— Dhu al-Qi’dah 29, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
