@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 74)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 16)
 
-> Even then your hearts became hardened like a rock or even harder, for some rocks gush rivers; others split, spilling water; while others are humbled in awe of Allah. And Allah is never unaware of what you do.
+> then on the Day of Judgment you will be resurrected.
 
-— Dhu al-Hijjah 3, 1445H
+— Dhu al-Hijjah 4, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
