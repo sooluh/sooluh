@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 16)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 59)
 
-> then on the Day of Judgment you will be resurrected.
+> Those ˹are the˺ societies We destroyed when they persisted in wrong, and We had set a time for their destruction.
 
-— Dhu al-Hijjah 4, 1445H
+— Dhu al-Hijjah 5, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
