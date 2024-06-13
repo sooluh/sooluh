@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories_</sub><br>
-**Surah Al-Qasas** (28: 49)
+<sub>_The Inevitable_</sub><br>
+**Surah Al-Waqi'ah** (56: 80)
 
-> Say, ˹O Prophet,˺ “Bring then a scripture from Allah which is a better guide than these two so I may follow it, if your claim is true.”
+> ˹It is˺ a revelation from the Lord of all worlds.
 
-— Dhu al-Hijjah 6, 1445H
+— Dhu al-Hijjah 7, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
