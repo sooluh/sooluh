@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Winnowing Winds_</sub><br>
-**Surah Adh-Dhariyat** (51: 21)
+<sub>_The Ornaments of Gold_</sub><br>
+**Surah Az-Zukhruf** (43: 57)
 
-> as there are within yourselves. Can you not see?
+> When the son of Mary was cited as an example ˹in argument˺, your people ˹O Prophet˺ broke into ˹joyful˺ applause.
 
-— Dhu al-Hijjah 11, 1445H
+— Dhu al-Hijjah 12, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
