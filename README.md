@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold_</sub><br>
-**Surah Az-Zukhruf** (43: 57)
+<sub>_The Exile_</sub><br>
+**Surah Al-Hashr** (59: 21)
 
-> When the son of Mary was cited as an example ˹in argument˺, your people ˹O Prophet˺ broke into ˹joyful˺ applause.
+> Had We sent down this Quran upon a mountain, you would have certainly seen it humbled and torn apart in awe of Allah. We set forth such comparisons for people, ˹so˺ perhaps they may reflect.
 
-— Dhu al-Hijjah 12, 1445H
+— Dhu al-Hijjah 13, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
