@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold_</sub><br>
-**Surah Az-Zukhruf** (43: 77)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 67)
 
-> They will cry, “O Mâlik! Let your Lord finish us off.” He will answer, “You are definitely here to stay.”
+> Surely in this is a sign. Yet most of them would not believe.
 
-— Dhu al-Hijjah 14, 1445H
+— Dhu al-Hijjah 15, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
