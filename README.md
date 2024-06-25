@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Most High_</sub><br>
-**Surah Al-A'la** (87: 18)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 51)
 
-> This is certainly ˹mentioned˺ in the earlier Scriptures—
+> Pharaoh asked, “And what about previous peoples?”
 
-— Dhu al-Hijjah 18, 1445H
+— Dhu al-Hijjah 19, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
