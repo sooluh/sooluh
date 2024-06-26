@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 51)
+<sub>_The Women_</sub><br>
+**Surah An-Nisa** (4: 48)
 
-> Pharaoh asked, “And what about previous peoples?”
+> Indeed, Allah does not forgive associating others with Him ˹in worship˺, but forgives anything else of whoever He wills. And whoever associates others with Allah has indeed committed a grave sin.
 
-— Dhu al-Hijjah 19, 1445H
+— Dhu al-Hijjah 20, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
