@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 48)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 93)
 
-> Indeed, Allah does not forgive associating others with Him ˹in worship˺, but forgives anything else of whoever He wills. And whoever associates others with Allah has indeed committed a grave sin.
+> There is no blame on those who believe and do good for what they had consumed before ˹the prohibition˺, as long as they fear Allah, have faith, and do what is good; then they believe and act virtuously, then become fully mindful ˹of Allah˺ and do righteous deeds. For Allah loves the good-doers.
 
-— Dhu al-Hijjah 20, 1445H
+— Dhu al-Hijjah 21, 1445H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
