@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night_</sub><br>
-**Surah Al-Layl** (92: 10)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 54)
 
-> We will facilitate for them the path of hardship.
+> So it will be. And We will pair them to maidens with gorgeous eyes.
 
-— Muharram 3, 1446H
+— Muharram 4, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
