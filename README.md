@@ -15,11 +15,11 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 254)
+**Surah Al-Baqarah** (2: 238)
 
-> O believers! Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. Those who disbelieve are ˹truly˺ the wrongdoers.
+> Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah.
 
-— Muharram 8, 1446H
+— Muharram 9, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
