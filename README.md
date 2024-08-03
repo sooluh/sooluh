@@ -25,11 +25,11 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### 📚 Recent Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
+- [Deploying a Laravel App on Shared Hosting with CPanel](https://notes.suluh.my.id/deploy-laravel-cpanel-shared-hosting)
 - [Customizing User Profile and Password Change Pages in Filament 3](https://notes.suluh.my.id/profile-page-filament-3)
 - [Ya Allah, Ajari Aku Cinta](https://notes.suluh.my.id/ya-allah-ajari-aku-cinta)
 - [90 Menit](https://notes.suluh.my.id/90-menit)
 - [How to Fix Proxmox (PVE) 6.4-15 to 7.x Upgrade Stuck at 57%](https://notes.suluh.my.id/pve-6415-to-7x-upgrade-stuck-at-57)
-- [Step-by-Step Guide to Install Portainer](https://notes.suluh.my.id/install-portainer-on-ubuntu)
 <!-- HASHNODE_BLOG:END -->
 
 Check out [**notes.suluh.my.id**](https://notes.suluh.my.id) for more interesting blog posts!
