@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread_</sub><br>
-**Surah Al-Ma'idah** (5: 91)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 181)
 
-> Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?
+> Give full measure, and cause no loss ˹to others˺.
 
-— Safar 9, 1446H
+— Safar 10, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
