@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Light_</sub><br>
-**Surah An-Nur** (24: 27)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55: 45)
 
-> O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful.
+> Then which of your Lord’s favours will you both deny? 
 
-— Safar 13, 1446H
+— Safar 14, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
