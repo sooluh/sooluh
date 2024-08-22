@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Overwhelming_</sub><br>
-**Surah Al-Ghashiyah** (88: 11)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 59)
 
-> where no idle talk will be heard.
+> ˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺ this Day, O  wicked ones!
 
-— Safar 17, 1446H
+— Safar 18, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
