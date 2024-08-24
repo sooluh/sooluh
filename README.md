@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold_</sub><br>
-**Surah Az-Zukhruf** (43: 68)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 69)
 
-> ˹who will be told,˺ “O My servants! There is no fear for you Today, nor will you grieve—
+> Do you find it astonishing that a reminder should come to you from your Lord through one of your own so he may warn you? Remember that He made you successors after the people of Noah and increased you greatly in stature. So remember Allah’s favours, so you may be successful.”
 
-— Safar 19, 1446H
+— Safar 20, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
