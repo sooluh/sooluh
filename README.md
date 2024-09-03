@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud_</sub><br>
-**Surah Hud** (11: 103)
+<sub>_He Frowned_</sub><br>
+**Surah 'Abasa** (80: 14)
 
-> Surely in this is a sign for those who fear the torment of the Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will be˺ witnessed ˹by all˺.
+> highly esteemed, purified—
 
-— Safar 29, 1446H
+— Safar 30, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
