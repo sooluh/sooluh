@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 83)
+<sub>_The Ascending Stairways_</sub><br>
+**Surah Al-Ma'arij** (70: 43)
 
-> Do they desire a way other than Allah’s—knowing that all those in the heavens and the earth submit to His Will, willingly or unwillingly, and to Him they will ˹all˺ be returned?
+> the Day they will come forth from the graves swiftly, as if racing to an idol ˹for a blessing˺,
 
-— Rabi' al-Awwal 2, 1446H
+— Rabi' al-Awwal 3, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
