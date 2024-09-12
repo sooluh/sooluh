@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 39)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 182)
 
-> Those who deny Our signs are ˹wilfully˺ deaf and dumb—lost in darkness. Allah leaves whoever He wills to stray and guides whoever He wills to the Straight Way.
+> Weigh with an even balance,
 
-— Rabi' al-Awwal 8, 1446H
+— Rabi' al-Awwal 9, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
