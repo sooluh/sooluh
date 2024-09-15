@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 10)
+<sub>_The Mutual Disillusion_</sub><br>
+**Surah At-Taghabun** (64: 9)
 
-> It is the same whether you warn them or not—they will never believe.
+> ˹Consider˺ the Day He will gather you ˹all˺ for the Day of Gathering—that will be the Day of mutual loss and gain. So whoever believes in Allah and does good, He will absolve them of their sins and admit them into Gardens under which rivers flow, to stay there for ever and ever. That is the ultimate triumph.
 
-— Rabi' al-Awwal 11, 1446H
+— Rabi' al-Awwal 12, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
