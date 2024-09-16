@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mutual Disillusion_</sub><br>
-**Surah At-Taghabun** (64: 9)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 57)
 
-> ˹Consider˺ the Day He will gather you ˹all˺ for the Day of Gathering—that will be the Day of mutual loss and gain. So whoever believes in Allah and does good, He will absolve them of their sins and admit them into Gardens under which rivers flow, to stay there for ever and ever. That is the ultimate triumph.
+> So We lured the tyrants out of ˹their˺ gardens, springs,
 
-— Rabi' al-Awwal 12, 1446H
+— Rabi' al-Awwal 13, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
