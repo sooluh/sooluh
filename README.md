@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 48)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 38)
 
-> They will be presented before your Lord in rows, ˹and the deniers will be told,˺ “You have surely returned to Us ˹all alone˺ as We created you the first time, although you ˹always˺ claimed that We would never appoint a time for your return.”
+> and preferred the ˹fleeting˺ life of this world,
 
-— Rabi' al-Awwal 19, 1446H
+— Rabi' al-Awwal 20, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
