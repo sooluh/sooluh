@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 38)
+<sub>_The Man_</sub><br>
+**Surah Al-Insan** (76: 9)
 
-> and preferred the ˹fleeting˺ life of this world,
+> ˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you.
 
-— Rabi' al-Awwal 20, 1446H
+— Rabi' al-Awwal 21, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
