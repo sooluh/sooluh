@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Inevitable_</sub><br>
-**Surah Al-Waqi'ah** (56: 12)
+<sub>_The Mutual Disillusion_</sub><br>
+**Surah At-Taghabun** (64: 3)
 
-> in the Gardens of Bliss.
+> He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return.
 
-— Rabi' al-Awwal 24, 1446H
+— Rabi' al-Awwal 25, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
