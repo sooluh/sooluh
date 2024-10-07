@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 31)
+<sub>_The Spoils of War_</sub><br>
+**Surah Al-Anfal** (8: 61)
 
-> O Children of Adam! Dress properly whenever you are at worship. Eat and drink, but do not waste. Surely He does not like the wasteful.
+> If the enemy is inclined towards peace, make peace with them. And put your trust in Allah. Indeed, He ˹alone˺ is the All-Hearing, All-Knowing.
 
-— Rabi' al-Thani 3, 1446H
+— Rabi' al-Thani 4, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
