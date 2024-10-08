@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War_</sub><br>
-**Surah Al-Anfal** (8: 61)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 105)
 
-> If the enemy is inclined towards peace, make peace with them. And put your trust in Allah. Indeed, He ˹alone˺ is the All-Hearing, All-Knowing.
+> Tell ˹them, O  Prophet˺, “Do as you will. Your deeds will be observed by Allah, His Messenger, and the believers. And you will be returned to the Knower of the seen and unseen, then He will inform you of what you used to do.”
 
-— Rabi' al-Thani 4, 1446H
+— Rabi' al-Thani 5, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
