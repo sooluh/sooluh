@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 41)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 88)
 
-> If they deny you, then say, “My deeds are mine and your deeds are yours. You are free of what I do and I am free of what you do!”
+> He said, “O my people! Consider if I stand on a clear proof from my Lord and He has blessed me with a good provision from Him. I do not want to do what I am forbidding you from. I only intend reform to the best of my ability. My success comes only through Allah. In Him I trust and to Him I turn.
 
-— Rabi' al-Thani 6, 1446H
+— Rabi' al-Thani 7, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
