@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 11)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 7)
 
-> For each one there are successive angels before and behind, protecting them by Allah’s command. Indeed, Allah would never change a people’s state ˹of favour˺ until they change their own state ˹of faith˺. And if it is Allah’s Will to torment a people, it can never be averted, nor can they find a protector other than Him.
+> And ˹remember˺ when your Lord proclaimed, ‘If you are grateful, I will certainly give you more. But if you are ungrateful, surely My punishment is severe.’”
 
-— Rabi' al-Thani 9, 1446H
+— Rabi' al-Thani 10, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
