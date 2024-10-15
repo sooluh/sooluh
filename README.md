@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 85)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 90)
 
-> We have not created the heavens and the earth and everything in between except for a purpose. And the Hour is certain to come, so forgive graciously.
+> Indeed, Allah commands justice, grace, as well as generosity to close relatives. He forbids indecency, wickedness, and aggression. He instructs you so perhaps you will be mindful.
 
-— Rabi' al-Thani 11, 1446H
+— Rabi' al-Thani 12, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
