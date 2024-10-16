@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 90)
+<sub>_The Night Journey_</sub><br>
+**Surah Al-Isra** (17: 23)
 
-> Indeed, Allah commands justice, grace, as well as generosity to close relatives. He forbids indecency, wickedness, and aggression. He instructs you so perhaps you will be mindful.
+> For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
 
-— Rabi' al-Thani 12, 1446H
+— Rabi' al-Thani 13, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
