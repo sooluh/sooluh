@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 23)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 65)
 
-> For your Lord has decreed that you worship none but Him. And honour your parents. If one or both of them reach old age in your care, never say to them ˹even˺ ‘ugh,’ nor yell at them. Rather, address them respectfully.
+> There they found a servant of Ours, to whom We had granted mercy from Us and enlightened with knowledge of Our Own.
 
-— Rabi' al-Thani 13, 1446H
+— Rabi' al-Thani 14, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
