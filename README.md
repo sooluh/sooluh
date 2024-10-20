@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 82)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 107)
 
-> But I am truly Most Forgiving to whoever repents, believes, and does good, then persists on ˹true˺ guidance.”
+> We have sent you ˹O Prophet˺ only as a mercy for the whole world.
 
-— Rabi' al-Thani 16, 1446H
+— Rabi' al-Thani 17, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
