@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 107)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 40)
 
-> We have sent you ˹O Prophet˺ only as a mercy for the whole world.
+> ˹They are˺ those who have been expelled from their homes for no reason other than proclaiming: “Our Lord is Allah.” Had Allah not repelled ˹the aggression of˺ some people by means of others, destruction would have surely claimed monasteries, churches, synagogues, and mosques in which Allah’s Name is often mentioned. Allah will certainly help those who stand up for Him. Allah is truly All-Powerful, Almighty.
 
-— Rabi' al-Thani 17, 1446H
+— Rabi' al-Thani 18, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
