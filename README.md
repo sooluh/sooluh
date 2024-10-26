@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 23)
+<sub>_The Ant_</sub><br>
+**Surah An-Naml** (27: 40)
 
-> And never say of anything, “I will definitely do this tomorrow,”
+> But the one who had knowledge of the Scripture said, “I can bring it to you in the blink of an eye.” So when Solomon saw it placed before him, he exclaimed, “This is by the grace of my Lord to test me whether I am grateful or ungrateful. And whoever is grateful, it is only for their own good. But whoever is ungrateful, surely my Lord is Self-Sufficient, Most Generous.”
 
-— Rabi' al-Thani 22, 1446H
+— Rabi' al-Thani 23, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
