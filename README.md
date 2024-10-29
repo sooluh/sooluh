@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spider_</sub><br>
-**Surah Al-'Ankabut** (29: 69)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 60)
 
-> As for those who struggle in Our cause, We will surely guide them along Our Way. And Allah is certainly with the good-doers.
+> So be patient, for the promise of Allah certainly is true. And do not be disturbed by those who have no sure faith.
 
-— Rabi' al-Thani 25, 1446H
+— Rabi' al-Thani 26, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
