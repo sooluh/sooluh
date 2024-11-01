@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prostration_</sub><br>
-**Surah As-Sajdah** (32: 16)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 28)
 
-> They abandon their beds, invoking their Lord with hope and fear, and donate from what We have provided for them.
+> And patiently stick with those who call upon their Lord morning and evening, seeking His pleasure. Do not let your eyes look beyond them, desiring the luxuries of this worldly life. And do not obey those whose hearts We have made heedless of Our remembrance, who follow ˹only˺ their desires and whose state is ˹total˺ loss.
 
-— Rabi' al-Thani 28, 1446H
+— Rabi' al-Thani 29, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
