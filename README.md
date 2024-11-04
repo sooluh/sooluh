@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Originator_</sub><br>
-**Surah Fatir** (35: 5)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 82)
 
-> O humanity! Indeed, Allah’s promise is true. So do not let the life of this world deceive you, nor let the Chief Deceiver deceive you about Allah.
+> All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!
 
-— Jumada al-Ula 1, 1446H
+— Jumada al-Ula 2, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
