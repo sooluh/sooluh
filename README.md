@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 82)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 10)
 
-> All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!
+> Say ˹O Prophet, that Allah says˺, “O My servants who believe! Be mindful of your Lord. Those who do good in this world will have a good reward. And Allah’s earth is spacious. Only those who endure patiently will be given their reward without limit.”
 
-— Jumada al-Ula 2, 1446H
+— Jumada al-Ula 3, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
