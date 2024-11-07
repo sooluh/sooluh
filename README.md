@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver_</sub><br>
-**Surah Ghafir** (40: 60)
+<sub>_The Wind-Curved Sandhills_</sub><br>
+**Surah Al-Ahqaf** (46: 13)
 
-> Your Lord has proclaimed, “Call upon Me, I will respond to you. Surely those who are too proud to worship Me will enter Hell, fully humbled.”
+> Surely those who say, “Our Lord is Allah,” and then remain steadfast—there will be no fear for them, nor will they grieve.
 
-— Jumada al-Ula 4, 1446H
+— Jumada al-Ula 5, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
