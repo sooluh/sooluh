@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pleading Woman_</sub><br>
-**Surah Al-Mujadila** (58: 11)
+<sub>_The Exile_</sub><br>
+**Surah Al-Hashr** (59: 19)
 
-> O believers! When you are told to make room in gatherings, then do so. Allah will make room for you ˹in His grace˺. And if you are told to rise, then do so. Allah will elevate those of you who are faithful, and ˹raise˺ those gifted with knowledge in rank. And Allah is All-Aware of what you do.
+> And do not be like those who forgot Allah, so He made them forget themselves. It is they who are ˹truly˺ rebellious.
 
-— Jumada al-Ula 7, 1446H
+— Jumada al-Ula 8, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
