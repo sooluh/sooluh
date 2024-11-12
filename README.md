@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Congregation, Friday_</sub><br>
-**Surah Al-Jumu'ah** (62: 10)
+<sub>_The Pen_</sub><br>
+**Surah Al-Qalam** (68: 7)
 
-> Once the prayer is over, disperse throughout the land and seek the bounty of Allah. And remember Allah often so you may be successful.
+> Surely your Lord ˹alone˺ knows best who has strayed from His Way and who is ˹rightly˺ guided.
 
-— Jumada al-Ula 9, 1446H
+— Jumada al-Ula 10, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
