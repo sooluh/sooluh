@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pen_</sub><br>
-**Surah Al-Qalam** (68: 7)
+<sub>_The Ascending Stairways_</sub><br>
+**Surah Al-Ma'arij** (70: 19)
 
-> Surely your Lord ˹alone˺ knows best who has strayed from His Way and who is ˹rightly˺ guided.
+> Indeed, humankind was created impatient:
 
-— Jumada al-Ula 10, 1446H
+— Jumada al-Ula 11, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
