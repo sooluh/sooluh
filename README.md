@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Noah_</sub><br>
-**Surah Nuh** (71: 10)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 49)
 
-> saying, ‘Seek your Lord’s forgiveness, ˹for˺ He is truly Most Forgiving.
+> And the record ˹of deeds˺ will be laid ˹open˺, and you will see the wicked in fear of what is ˹written˺ in it. They will cry, “Woe to us! What kind of record is this that does not leave any sin, small or large, unlisted?” They will find whatever they did present ˹before them˺. And your Lord will never wrong anyone.
 
-— Jumada al-Ula 12, 1446H
+— Jumada al-Ula 13, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
