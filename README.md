@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 49)
+<sub>_The Morning Hours_</sub><br>
+**Surah Ad-Duhaa** (93: 4)
 
-> And the record ˹of deeds˺ will be laid ˹open˺, and you will see the wicked in fear of what is ˹written˺ in it. They will cry, “Woe to us! What kind of record is this that does not leave any sin, small or large, unlisted?” They will find whatever they did present ˹before them˺. And your Lord will never wrong anyone.
+> And the next life is certainly far better for you than this one.
 
-— Jumada al-Ula 13, 1446H
+— Jumada al-Ula 14, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
