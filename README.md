@@ -15,11 +15,11 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_The Jinn_</sub><br>
-**Surah Al-Jinn** (72: 10)
+**Surah Al-Jinn** (72: 14)
 
-> Now, we have no clue whether evil is intended for those on earth, or their Lord intends for them what is right.
+> And among us are those who have submitted ˹to Allah˺ and those who are deviant. So ˹as for˺ those who submitted, it is they who have attained Right Guidance.
 
-— Jumada al-Ula 15, 1446H
+— Jumada al-Ula 16, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
