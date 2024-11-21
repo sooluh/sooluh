@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cloaked One_</sub><br>
-**Surah Al-Muddaththir** (74: 28)
+<sub>_The Resurrection_</sub><br>
+**Surah Al-Qiyamah** (75: 36)
 
-> It does not let anyone live or die,
+> Do people think they will be left without purpose?
 
-— Jumada al-Ula 18, 1446H
+— Jumada al-Ula 19, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
