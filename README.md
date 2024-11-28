@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cleaving_</sub><br>
-**Surah Al-Infitar** (82: 6)
+<sub>_The Defrauding_</sub><br>
+**Surah Al-Mutaffifin** (83: 1)
 
-> O humanity! What has emboldened you against your Lord, the Most Generous,
+> Woe to the defrauders!
 
-— Jumada al-Ula 25, 1446H
+— Jumada al-Ula 26, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
