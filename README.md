@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sundering_</sub><br>
-**Surah Al-Inshiqaq** (84: 6)
+<sub>_The Nightcommer_</sub><br>
+**Surah At-Tariq** (86: 4)
 
-> O humanity! Indeed, you are labouring restlessly towards your Lord, and will ˹eventually˺ meet the consequences.
+> There is no soul without a vigilant angel ˹recording everything˺.
 
-— Jumada al-Ula 28, 1446H
+— Jumada al-Ula 29, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
