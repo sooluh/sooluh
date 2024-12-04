@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Dawn_</sub><br>
-**Surah Al-Fajr** (89: 27)
+<sub>_The Night_</sub><br>
+**Surah Al-Layl** (92: 5)
 
-> ˹Allah will say to the righteous,˺ “O tranquil soul!
+> As for the one who is charitable, mindful ˹of Allah˺,
 
-— Jumada al-Akhirah 2, 1446H
+— Jumada al-Akhirah 3, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
