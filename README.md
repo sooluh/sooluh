@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Clear Proof_</sub><br>
-**Surah Al-Bayyinah** (98: 5)
+<sub>_The Earthquake_</sub><br>
+**Surah Az-Zalzalah** (99: 7)
 
-> even though they were only commanded to worship Allah ˹alone˺ with sincere devotion to Him in all uprightness, establish prayer, and pay alms-tax. That is the upright Way.
+> So whoever does an atom’s weight of good will see it.
 
-— Jumada al-Akhirah 8, 1446H
+— Jumada al-Akhirah 9, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
