@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Courser_</sub><br>
-**Surah Al-'Adiyat** (100: 6)
+<sub>_The Calamity_</sub><br>
+**Surah Al-Qari'ah** (101: 6)
 
-> Surely humankind is ungrateful to their Lord—
+> So as for those whose scale is heavy ˹with good deeds˺,
 
-— Jumada al-Akhirah 10, 1446H
+— Jumada al-Akhirah 11, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
