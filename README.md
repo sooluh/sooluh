@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Calamity_</sub><br>
-**Surah Al-Qari'ah** (101: 6)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 103)
 
-> So as for those whose scale is heavy ˹with good deeds˺,
+> Say, ˹O Prophet,˺ “Shall we inform you of who will be the biggest losers of deeds?
 
-— Jumada al-Akhirah 11, 1446H
+— Jumada al-Akhirah 12, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
