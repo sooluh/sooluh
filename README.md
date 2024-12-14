@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 103)
+<sub>_The Rivalry in world increase_</sub><br>
+**Surah At-Takathur** (102: 1)
 
-> Say, ˹O Prophet,˺ “Shall we inform you of who will be the biggest losers of deeds?
+> Competition for more ˹gains˺ diverts you ˹from Allah˺,
 
-— Jumada al-Akhirah 12, 1446H
+— Jumada al-Akhirah 13, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
