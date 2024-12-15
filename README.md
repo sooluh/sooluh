@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rivalry in world increase_</sub><br>
-**Surah At-Takathur** (102: 1)
+<sub>_The Declining Day_</sub><br>
+**Surah Al-'Asr** (103: 2)
 
-> Competition for more ˹gains˺ diverts you ˹from Allah˺,
+> Surely humanity is in ˹grave˺ loss,
 
-— Jumada al-Akhirah 13, 1446H
+— Jumada al-Akhirah 14, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
