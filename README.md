@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 40)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 17)
 
-> Indeed, Allah never wrongs ˹anyone˺—even by an atom’s weight. And if it is a good deed, He will multiply it many times over and will give a great reward out of His grace.
+> If Allah touches you with harm, none can undo it except Him. And if He touches you with a blessing, He is Most Capable of everything.
 
-— Jumada al-Akhirah 16, 1446H
+— Jumada al-Akhirah 17, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
