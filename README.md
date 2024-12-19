@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 17)
+<sub>_The Spoils of War_</sub><br>
+**Surah Al-Anfal** (8: 29)
 
-> If Allah touches you with harm, none can undo it except Him. And if He touches you with a blessing, He is Most Capable of everything.
+> O believers! If you are mindful of Allah, He will grant you a decisive authority, absolve you of your sins, and forgive you. And Allah is the Lord of infinite bounty.
 
-— Jumada al-Akhirah 17, 1446H
+— Jumada al-Akhirah 18, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
