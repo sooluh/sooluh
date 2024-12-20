@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War_</sub><br>
-**Surah Al-Anfal** (8: 29)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 104)
 
-> O believers! If you are mindful of Allah, He will grant you a decisive authority, absolve you of your sins, and forgive you. And Allah is the Lord of infinite bounty.
+> ˹They are˺ those whose efforts are in vain in this worldly life, while they think they are doing good!”
 
-— Jumada al-Akhirah 18, 1446H
+— Jumada al-Akhirah 19, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
