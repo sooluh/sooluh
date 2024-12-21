@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 104)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 12)
 
-> ˹They are˺ those whose efforts are in vain in this worldly life, while they think they are doing good!”
+> Whenever someone is touched by hardship, they cry out to Us, whether lying on their side, sitting, or standing. But when We relieve their hardship, they return to their old ways as if they had never cried to Us to remove any hardship! This is how the misdeeds of the transgressors have been made appealing to them.
 
-— Jumada al-Akhirah 19, 1446H
+— Jumada al-Akhirah 20, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
