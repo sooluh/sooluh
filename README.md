@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah_</sub><br>
-**Surah Yunus** (10: 12)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 87)
 
-> Whenever someone is touched by hardship, they cry out to Us, whether lying on their side, sitting, or standing. But when We relieve their hardship, they return to their old ways as if they had never cried to Us to remove any hardship! This is how the misdeeds of the transgressors have been made appealing to them.
+> O  my sons! Go and search ˹diligently˺ for Joseph and his brother. And do not lose hope in the mercy of Allah, for no one loses hope in Allah’s mercy except those with no faith.”
 
-— Jumada al-Akhirah 20, 1446H
+— Jumada al-Akhirah 21, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
