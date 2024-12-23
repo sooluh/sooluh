@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Joseph_</sub><br>
-**Surah Yusuf** (12: 87)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 28)
 
-> O  my sons! Go and search ˹diligently˺ for Joseph and his brother. And do not lose hope in the mercy of Allah, for no one loses hope in Allah’s mercy except those with no faith.”
+> those who believe and whose hearts find comfort in the remembrance of Allah. Surely in the remembrance of Allah do hearts find comfort.
 
-— Jumada al-Akhirah 21, 1446H
+— Jumada al-Akhirah 22, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
