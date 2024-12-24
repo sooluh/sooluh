@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 28)
+<sub>_The Rocky Tract_</sub><br>
+**Surah Al-Hijr** (15: 49)
 
-> those who believe and whose hearts find comfort in the remembrance of Allah. Surely in the remembrance of Allah do hearts find comfort.
+> Inform My servants ˹O Prophet˺ that I am truly the All-Forgiving, Most Merciful,
 
-— Jumada al-Akhirah 22, 1446H
+— Jumada al-Akhirah 23, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
