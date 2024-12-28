@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 110)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 87)
 
-> Say, ˹O Prophet,˺ “I am only a man like you, ˹but˺ it has been revealed to me that your God is only One God. So whoever hopes for the meeting with their Lord, let them do good deeds and associate none in the worship of their Lord.”
+> And ˹remember˺ when the Man of the Whale stormed off ˹from his city˺ in a rage, thinking We would not restrain him. Then in the ˹veils of˺ darkness he cried out, “There is no god ˹worthy of worship˺ except You. Glory be to You! I have certainly done wrong.”
 
-— Jumada al-Akhirah 26, 1446H
+— Jumada al-Akhirah 27, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
