@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 38)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 78)
 
-> Indeed, Allah defends those who believe. Surely Allah does not like whoever is deceitful, ungrateful.
+> ˹He is˺ the One Who created me, and He ˹alone˺ guides me.
 
-— Jumada al-Akhirah 28, 1446H
+— Jumada al-Akhirah 29, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
