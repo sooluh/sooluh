@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War_</sub><br>
-**Surah Al-Anfal** (8: 2)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 53)
 
-> The ˹true˺ believers are only those whose hearts tremble at the remembrance of Allah, whose faith increases when His revelations are recited to them, and who put their trust in their Lord.
+> Say, ˹O Prophet, that Allah says,˺ “O My servants who have exceeded the limits against their souls! Do not lose hope in Allah’s mercy, for Allah certainly forgives all sins. He is indeed the All-Forgiving, Most Merciful.
 
-— Rajab 1, 1446H
+— Rajab 2, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
