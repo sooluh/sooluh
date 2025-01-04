@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 24)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 124)
 
-> without adding, “if Allah so wills!” But if you forget, then remember your Lord, and say, “I trust my Lord will guide me to what is more right than this.”
+> Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.
 
-— Rajab 3, 1446H
+— Rajab 4, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
