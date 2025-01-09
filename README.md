@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 106)
+<sub>_The Rocky Tract_</sub><br>
+**Surah Al-Hijr** (15: 27)
 
-> Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.
+> As for the jinn, We created them earlier from smokeless fire.
 
-— Rajab 8, 1446H
+— Rajab 9, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
