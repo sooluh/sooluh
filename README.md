@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 27)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 190)
 
-> As for the jinn, We created them earlier from smokeless fire.
+> But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!
 
-— Rajab 9, 1446H
+— Rajab 10, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
