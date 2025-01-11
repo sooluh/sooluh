@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 190)
+<sub>_The City_</sub><br>
+**Surah Al-Balad** (90: 11)
 
-> But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!
+> If only they had attempted the challenging path ˹of goodness instead˺!
 
-— Rajab 10, 1446H
+— Rajab 11, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
