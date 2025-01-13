@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 51)
+<sub>_The Cloaked One_</sub><br>
+**Surah Al-Muddaththir** (74: 49)
 
-> Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺.
+> Now, what is the matter with them that they are turning away from the reminder,
 
-— Rajab 12, 1446H
+— Rajab 13, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
