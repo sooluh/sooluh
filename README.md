@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cloaked One_</sub><br>
-**Surah Al-Muddaththir** (74: 49)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 54)
 
-> Now, what is the matter with them that they are turning away from the reminder,
+> So it will be. And We will pair them to maidens with gorgeous eyes.
 
-— Rajab 13, 1446H
+— Rajab 15, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
