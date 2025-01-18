@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Star_</sub><br>
-**Surah An-Najm** (53: 54)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 48)
 
-> How overwhelming was what covered ˹them˺!
+> It is Allah Who sends the winds, which then stir up ˹vapour, forming˺ clouds, which He then spreads out in the sky or piles up into masses as He wills, from which you see rain come forth. Then as soon as He causes it to fall on whoever He wills of His servants, they rejoice,
 
-— Rajab 17, 1446H
+— Rajab 18, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
