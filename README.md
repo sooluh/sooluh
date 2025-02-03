@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Romans_</sub><br>
-**Surah Ar-Rum** (30: 28)
+<sub>_The Rocky Tract_</sub><br>
+**Surah Al-Hijr** (15: 4)
 
-> He sets forth for you an example ˹drawn˺ from your own lives: would you allow some of those ˹bondspeople˺ in your possession to be your equal partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you are mindful of your peers? This is how We make the signs clear for people who understand.
+> We have never destroyed a society without a destined term.
 
-— Sha'ban 3, 1446H
+— Sha'ban 4, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
