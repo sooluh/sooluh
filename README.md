@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 85)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 124)
 
-> They will reply, “To Allah!” Say, “Why are you not then mindful?”
+> Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.
 
-— Sha'ban 17, 1446H
+— Sha'ban 18, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
