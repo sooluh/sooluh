@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The City_</sub><br>
-**Surah Al-Balad** (90: 11)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 51)
 
-> If only they had attempted the challenging path ˹of goodness instead˺!
+> Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺.
 
-— Sha'ban 25, 1446H
+— Sha'ban 26, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
