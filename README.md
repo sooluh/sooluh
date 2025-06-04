@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 169)
+<sub>_The Rocky Tract_</sub><br>
+**Surah Al-Hijr** (15: 75)
 
-> My Lord! Save me and my family from ˹the consequences of˺ what they do.”
+> Surely in this are signs for those who contemplate.
 
-— Shawwal 17, 1446H
+— Dhu al-Hijjah 8, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
