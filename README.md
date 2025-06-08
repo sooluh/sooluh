@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories_</sub><br>
-**Surah Al-Qasas** (28: 35)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 54)
 
-> Allah responded, “We will assist you with your brother and grant you both authority, so they cannot harm you. With Our signs, you and those who follow you will ˹certainly˺ prevail.”
+> We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings.
 
-— Dhu al-Hijjah 11, 1446H
+— Dhu al-Hijjah 12, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
