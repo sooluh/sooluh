@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding_</sub><br>
-**Surah Al-Mutaffifin** (83: 34)
+<sub>_The Prophets_</sub><br>
+**Surah Al-Anbya** (21: 95)
 
-> But on that Day the believers will be laughing at the disbelievers,
+> It is impossible for a society which We have destroyed to ever rise again,
 
-— Dhu al-Hijjah 16, 1446H
+— Dhu al-Hijjah 17, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
