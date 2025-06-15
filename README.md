@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 35)
+<sub>_The Reality_</sub><br>
+**Surah Al-Haqqah** (69: 47)
 
-> The description of the Paradise promised to the righteous is that under it rivers flow; eternal is its fruit as well as its shade. That is the ˹ultimate˺ outcome for the righteous. But the outcome for the disbelievers is the Fire!
+> and none of you could have shielded him ˹from Us˺!
 
-— Dhu al-Hijjah 18, 1446H
+— Dhu al-Hijjah 19, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
