@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality_</sub><br>
-**Surah Al-Haqqah** (69: 47)
+<sub>_The Troops_</sub><br>
+**Surah Az-Zumar** (39: 32)
 
-> and none of you could have shielded him ˹from Us˺!
+> Who then does more wrong than those who lie about Allah and reject the truth after it has reached them? Is Hell not a ˹fitting˺ home for the disbelievers?
 
-— Dhu al-Hijjah 19, 1446H
+— Dhu al-Hijjah 20, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
