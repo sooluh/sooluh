@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ant_</sub><br>
-**Surah An-Naml** (27: 83)
+<sub>_The Sovereignty_</sub><br>
+**Surah Al-Mulk** (67: 26)
 
-> ˹Watch for˺ the Day We will gather from every faith-community a group of those who denied Our revelations, and they will be driven in ranks.
+> Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I am only sent with a clear warning.”
 
-— Dhu al-Hijjah 21, 1446H
+— Dhu al-Hijjah 22, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
