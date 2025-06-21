@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War_</sub><br>
-**Surah Al-Anfal** (8: 11)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 30)
 
-> ˹Remember˺ when He caused drowsiness to overcome you, giving you serenity. And He sent down rain from the sky to purify you, free you from Satan’s whispers, strengthen your hearts, and make ˹your˺ steps firm.
+> As for those who believe and do good, We certainly never deny the reward of those who are best in deeds.
 
-— Dhu al-Hijjah 24, 1446H
+— Dhu al-Hijjah 25, 1446H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
