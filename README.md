@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Clot_</sub><br>
-**Surah Al-'Alaq** (96: 14)
+<sub>_The Star_</sub><br>
+**Surah An-Najm** (53: 5)
 
-> Does he not know that Allah sees ˹all˺?
+> He has been taught by one ˹angel˺ of mighty power
 
-— Muharram 3, 1447H
+— Muharram 4, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
