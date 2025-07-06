@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 180)
+<sub>_The Forgiver_</sub><br>
+**Surah Ghafir** (40: 42)
 
-> Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do.
+> You invite me to disbelieve in Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, Most Forgiving.
 
-— Muharram 10, 1447H
+— Muharram 11, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
