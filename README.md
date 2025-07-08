@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Saad"_</sub><br>
-**Surah Sad** (38: 73)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 76)
 
-> So the angels prostrated all together—
+> Say, ˹O Prophet,˺ “How can you worship besides Allah those who can neither harm nor benefit you? And Allah ˹alone˺ is the All-Hearing, All-Knowing.”
 
-— Muharram 12, 1447H
+— Muharram 13, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
