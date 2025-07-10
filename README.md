@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Elephant_</sub><br>
-**Surah Al-Fil** (105: 4)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 93)
 
-> that pelted them with stones of baked clay,
+> All food was lawful for the children of Israel, except what Israel made unlawful for himself before the Torah was revealed. Say, ˹O Prophet,˺ “Bring the Torah and read it, if your claims are true.”
 
-— Muharram 14, 1447H
+— Muharram 15, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
