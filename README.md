@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 93)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 110)
 
-> All food was lawful for the children of Israel, except what Israel made unlawful for himself before the Torah was revealed. Say, ˹O Prophet,˺ “Bring the Torah and read it, if your claims are true.”
+> We turn their hearts and eyes away ˹from the truth˺ as they refused to believe at first, leaving them to wander blindly in their defiance.
 
-— Muharram 15, 1447H
+— Muharram 16, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
