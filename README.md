@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Moon_</sub><br>
-**Surah Al-Qamar** (54: 40)
+<sub>_The Women_</sub><br>
+**Surah An-Nisa** (4: 28)
 
-> And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?
+> And it is Allah’s Will to lighten your burdens, for humankind was created weak.
 
-— Muharram 22, 1447H
+— Muharram 23, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
