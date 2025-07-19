@@ -25,11 +25,11 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### 📚 Recent Blog Posts
 
 <!-- HASHNODE_BLOG:START -->
-- [Konser Bukan Ancaman Keimanan?](https://notes.suluh.my.id/konser-bukan-ancaman-keimanan)
 - [Rumah di Surga](https://notes.suluh.my.id/rumah-di-surga)
 - [Menjaga Pandangan](https://notes.suluh.my.id/menjaga-pandangan)
 - [Deploying a Laravel App on Shared Hosting with CPanel](https://notes.suluh.my.id/deploy-laravel-cpanel-shared-hosting)
 - [Customizing User Profile and Password Change Pages in Filament 3](https://notes.suluh.my.id/profile-page-filament-3)
+- [Ya Allah, Ajari Aku Cinta](https://notes.suluh.my.id/ya-allah-ajari-aku-cinta)
 <!-- HASHNODE_BLOG:END -->
 
 Check out [**notes.suluh.my.id**](https://notes.suluh.my.id) for more interesting blog posts!
