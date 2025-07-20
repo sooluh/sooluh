@@ -15,11 +15,11 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 
 <!-- AYAHADAY:START -->
 <sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 221)
+**Surah Ash-Shu'ara** (26: 195)
 
-> Shall I inform you of whom the devils ˹actually˺ descend upon?
+> in a clear Arabic tongue.
 
-— Muharram 24, 1447H
+— Muharram 25, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
