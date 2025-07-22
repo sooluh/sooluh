@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Moon_</sub><br>
-**Surah Al-Qamar** (54: 36)
+<sub>_Those who set the Ranks_</sub><br>
+**Surah As-Saffat** (37: 47)
 
-> He had already warned them of Our ˹crushing˺ blow but they disputed the warnings.
+> It will neither harm ˹them˺, nor will they be intoxicated by it.
 
-— Muharram 26, 1447H
+— Muharram 27, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
