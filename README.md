@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sundering_</sub><br>
-**Surah Al-Inshiqaq** (84: 21)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 150)
 
-> and when the Quran is recited to them, they do not bow down ˹in submission˺?
+> Say, ˹O Prophet,˺ “Bring your witnesses who can testify that Allah has forbidden this.” If they ˹falsely˺ testify, do not testify with them. And do not follow the desires of those who deny Our proofs, disbelieve in the Hereafter, and set up equals with their Lord.
 
-— Safar 3, 1447H
+— Safar 4, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
