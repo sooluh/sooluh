@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 12)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 20)
 
-> It is certainly We Who resurrect the dead, and write what they send forth and what they leave behind. Everything is listed by Us in a perfect Record. 
+> It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still. Had Allah willed, He could have taken away their hearing and sight. Surely Allah is Most Capable of everything.
 
-— Safar 15, 1447H
+— Safar 16, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
