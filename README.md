@@ -14,12 +14,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 20)
+<sub>_The Mansions of the Stars_</sub><br>
+**Surah Al-Buruj** (85: 7)
 
-> It is as if the lightning were about to snatch away their sight. Whenever lightning strikes, they walk in its light, but when darkness covers them, they stand still. Had Allah willed, He could have taken away their hearing and sight. Surely Allah is Most Capable of everything.
+> watching what they had ˹ordered to be˺ done to the believers,
 
-— Safar 16, 1447H
+— Safar 17, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
