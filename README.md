@@ -5,8 +5,7 @@
 a software engineer from Indonesia. 9+ years of experience in web development.
 
 - 💼 I'm currently working at ?<br />
-- 🎓 Studying at [**STT Wastukancana**](https://stt-wastukancana.ac.id)<br />
-- 🌱 Currently learning _anything_<br />
+- 🌱 Currently learning [Go](https://go.dev)<br />
 - ✨ Interested in **backend-ish** things<br />
 - 🏠 Rarely go out, unless it's important<br />
 - 📖 Read Islamic ~motiv~ books
