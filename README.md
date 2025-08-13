@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sundering_</sub><br>
-**Surah Al-Inshiqaq** (84: 12)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 18)
 
-> and will burn in the blazing Fire.
+> And you would have thought they were awake, though they were asleep. We turned them over, to the right and left, while their dog stretched his forelegs at the entrance. Had you looked at them, you would have certainly fled away from them, filled with horror.
 
-— Safar 18, 1447H
+— Safar 19, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
