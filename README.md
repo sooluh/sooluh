@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 54)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 44)
 
-> So it will be. And We will pair them to maidens with gorgeous eyes.
+> Indeed, We revealed the Torah, containing guidance and light, by which the prophets, who submitted themselves to Allah, made judgments for Jews. So too did the rabbis and scholars judge according to Allah’s Book, with which they were entrusted and of which they were made keepers. So do not fear the people; fear Me! Nor trade my revelations for a fleeting gain. And those who do not judge by what Allah has revealed are ˹truly˺ the disbelievers.
 
-— Rabi' al-Awwal 3, 1447H
+— Rabi' al-Awwal 4, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
