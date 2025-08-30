@@ -4,7 +4,7 @@
 
 a software engineer from Indonesia. 9+ years of experience in web development.
 
-- 💼 I'm currently working at ?<br />
+- 💼 I'm currently working at [Infomedia Nusantara](https://infomedia.co.id)<br />
 - 🌱 Currently learning [Go](https://go.dev)<br />
 - ✨ Interested in **backend-ish** things<br />
 - 🏠 Rarely go out, unless it's important<br />
