@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 238)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 99)
 
-> Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah.
+> The Messenger’s duty is only to deliver ˹the message˺. And Allah ˹fully˺ knows what you reveal and what you conceal.
 
-— Rabi' al-Awwal 8, 1447H
+— Rabi' al-Awwal 9, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
