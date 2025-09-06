@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 31)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 211)
 
-> We will soon attend to you ˹for judgment˺, O  two multitudes ˹of jinn and humans˺!
+> Ask the Children of Israel how many clear signs We have given them. And whoever trades Allah’s favour—after receiving it—˹for disbelief˺ should know that Allah is indeed severe in punishment.
 
-— Rabi' al-Awwal 13, 1447H
+— Rabi' al-Awwal 14, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
