@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding_</sub><br>
-**Surah Al-Mutaffifin** (83: 18)
+<sub>_The Reality_</sub><br>
+**Surah Al-Haqqah** (69: 1)
 
-> But no! The virtuous are certainly bound for ’Illiyûn ˹in elevated Gardens˺—
+> The Inevitable Hour!
 
-— Rabi' al-Awwal 17, 1447H
+— Rabi' al-Awwal 18, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
