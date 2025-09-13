@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 51)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 28)
 
-> Indeed, the righteous will be in a secure place,
+> He sets forth for you an example ˹drawn˺ from your own lives: would you allow some of those ˹bondspeople˺ in your possession to be your equal partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you are mindful of your peers? This is how We make the signs clear for people who understand.
 
-— Rabi' al-Awwal 20, 1447H
+— Rabi' al-Awwal 21, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
