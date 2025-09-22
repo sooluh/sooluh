@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 8)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 54)
 
-> ˹The deniers’˺ hearts on that Day will be trembling ˹in horror˺,
+> It is Allah Who created you in a state of weakness, then developed ˹your˺ weakness into strength, then developed ˹your˺ strength into weakness and old age. He creates whatever He wills. For He is the All-Knowing, Most Capable.
 
-— Rabi' al-Awwal 29, 1447H
+— Rabi' al-Awwal 30, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
