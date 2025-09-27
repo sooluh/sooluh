@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 14)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 85)
 
-> and make you reside in the land after them. This is for whoever is in awe of standing before Me and fears My warning.”
+> They will reply, “To Allah!” Say, “Why are you not then mindful?”
 
-— Rabi' al-Thani 4, 1447H
+— Rabi' al-Thani 5, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
