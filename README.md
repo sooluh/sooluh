@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 63)
+<sub>_The Overwhelming_</sub><br>
+**Surah Al-Ghashiyah** (88: 11)
 
-> If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors.
+> where no idle talk will be heard.
 
-— Rabi' al-Thani 14, 1447H
+— Rabi' al-Thani 15, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
