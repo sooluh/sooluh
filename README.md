@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Wind-Curved Sandhills_</sub><br>
-**Surah Al-Ahqaf** (46: 13)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 54)
 
-> Surely those who say, “Our Lord is Allah,” and then remain steadfast—there will be no fear for them, nor will they grieve.
+> ˹so˺ eat and graze your cattle. Surely in this are signs for people of sound judgment.
 
-— Rabi' al-Thani 21, 1447H
+— Rabi' al-Thani 22, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
