@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 77)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 83)
 
-> Have you ˹O Prophet˺ not seen those who had been told, “Do not fight! Rather, establish prayer and pay alms-tax.”? Then once the order came to fight, a group of them feared those ˹hostile˺ people as Allah should be feared—or even more. They said, “Our Lord! Why have You ordered us to fight? If only You had delayed ˹the order for˺ us for a little while!” Say, ˹O Prophet,˺ “The enjoyment of this world is so little, whereas the Hereafter is far better for those mindful ˹of Allah˺. And none of you will be wronged ˹even by the width of˺ the thread of a date stone.
+> Do they desire a way other than Allah’s—knowing that all those in the heavens and the earth submit to His Will, willingly or unwillingly, and to Him they will ˹all˺ be returned?
 
-— Rabi' al-Thani 29, 1447H
+— Rabi' al-Thani 30, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
