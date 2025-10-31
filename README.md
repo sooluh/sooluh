@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 28)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 10)
 
-> O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
+> It is the same whether you warn them or not—they will never believe.
 
-— Jumada al-Ula 8, 1447H
+— Jumada al-Ula 9, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
