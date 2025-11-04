@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 98)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 101)
 
-> And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing.
+> nor a close friend.
 
-— Jumada al-Ula 12, 1447H
+— Jumada al-Ula 13, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
