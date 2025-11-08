@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Enshrouded One_</sub><br>
-**Surah Al-Muzzammil** (73: 16)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 48)
 
-> But Pharaoh disobeyed the messenger, so We seized him with a stern grip.
+> They will be presented before your Lord in rows, ˹and the deniers will be told,˺ “You have surely returned to Us ˹all alone˺ as We created you the first time, although you ˹always˺ claimed that We would never appoint a time for your return.”
 
-— Jumada al-Ula 16, 1447H
+— Jumada al-Ula 17, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
