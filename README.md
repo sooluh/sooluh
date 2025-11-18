@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Overwhelming_</sub><br>
-**Surah Al-Ghashiyah** (88: 7)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 105)
 
-> neither nourishing nor satisfying hunger.
+> No one fabricates lies except those who disbelieve in Allah’s revelations, and it is they who are the ˹true˺ liars.
 
-— Jumada al-Ula 26, 1447H
+— Jumada al-Ula 27, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
