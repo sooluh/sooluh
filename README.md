@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 105)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 104)
 
-> No one fabricates lies except those who disbelieve in Allah’s revelations, and it is they who are the ˹true˺ liars.
+> Do they not know that Allah alone accepts the repentance of His servants and receives ˹their˺ charity, and that Allah alone is the Accepter of Repentance, Most Merciful?
 
-— Jumada al-Ula 27, 1447H
+— Jumada al-Ula 28, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
