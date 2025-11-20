@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 104)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 82)
 
-> Do they not know that Allah alone accepts the repentance of His servants and receives ˹their˺ charity, and that Allah alone is the Accepter of Repentance, Most Merciful?
+> All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!
 
-— Jumada al-Ula 28, 1447H
+— Jumada al-Ula 29, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
