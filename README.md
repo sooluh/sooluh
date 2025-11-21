@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 82)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 177)
 
-> All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!
+> when Shu’aib said to them, “Will you not fear ˹Allah˺?
 
-— Jumada al-Ula 29, 1447H
+— Jumada al-Ula 30, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
