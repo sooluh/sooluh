@@ -13,12 +13,12 @@ a software engineer from Indonesia. 9+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 72)
+<sub>_The Sovereignty_</sub><br>
+**Surah Al-Mulk** (67: 2)
 
-> He replied, “Did I not say that you cannot have patience with me?”
+> ˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.
 
-— Jumada al-Akhirah 1, 1447H
+— Jumada al-Akhirah 2, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
