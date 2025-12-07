@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder_</sub><br>
-**Surah Ar-Ra'd** (13: 22)
+<sub>_The Letter "Qaf"_</sub><br>
+**Surah Qaf** (50: 17)
 
-> And ˹they are˺ those who endure patiently, seeking their Lord’s pleasure, establish prayer, donate from what We have provided for them—secretly and openly—and respond to evil with good. It is they who will have the ultimate abode:
+> As the two recording-angels—˹one˺ sitting to the right, and ˹the other to˺ the left—note ˹everything˺,
 
-— Jumada al-Akhirah 15, 1447H
+— Jumada al-Akhirah 16, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
