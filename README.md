@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets_</sub><br>
-**Surah Al-Anbya** (21: 95)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 35)
 
-> It is impossible for a society which We have destroyed to ever rise again,
+> The description of the Paradise promised to the righteous is that under it rivers flow; eternal is its fruit as well as its shade. That is the ˹ultimate˺ outcome for the righteous. But the outcome for the disbelievers is the Fire!
 
-— Jumada al-Akhirah 18, 1447H
+— Jumada al-Akhirah 19, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
