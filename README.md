@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 30)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 190)
 
-> As for those who believe and do good, We certainly never deny the reward of those who are best in deeds.
+> But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!
 
-— Jumada al-Akhirah 26, 1447H
+— Jumada al-Akhirah 27, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
