@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7: 190)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 120)
 
-> But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!
+> Indeed, Abraham was a model of excellence: devoted to Allah, ˹perfectly˺ upright—not a polytheist—
 
-— Jumada al-Akhirah 27, 1447H
+— Jumada al-Akhirah 28, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
