@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 2)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 13)
 
-> By the clear Book!
+> We relate to you ˹O Prophet˺ their story in truth. They were youths who truly believed in their Lord, and We increased them in guidance.
 
-— Rajab 2, 1447H
+— Rajab 3, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
