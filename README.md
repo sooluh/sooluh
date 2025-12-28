@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mount_</sub><br>
-**Surah At-Tur** (52: 46)
+<sub>_The Stories_</sub><br>
+**Surah Al-Qasas** (28: 20)
 
-> the Day their scheming will be of no benefit to them whatsoever, nor will they be helped.
+> And there came a man, rushing from the farthest end of the city. He said, “O Moses! The chiefs are actually conspiring against you to put you to death, so leave ˹the city˺. I really advise you ˹to do so˺.”
 
-— Rajab 7, 1447H
+— Rajab 8, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
