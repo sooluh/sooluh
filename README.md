@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 34)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 47)
 
-> Pharaoh said to the chiefs around him, “He is indeed a skilled magician,
+> So do not think ˹O Prophet˺ that Allah will fail to keep His promise to His messengers. Allah is indeed Almighty, capable of punishment.
 
-— Rajab 9, 1447H
+— Rajab 10, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
