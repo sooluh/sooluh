@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Resurrection_</sub><br>
-**Surah Al-Qiyamah** (75: 24)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 50)
 
-> And ˹other˺ faces will be gloomy,
+> See then the impact of Allah’s mercy: how He gives life to the earth after its death! Surely That ˹same God˺ can raise the dead. For He is Most Capable of everything.
 
-— Rajab 21, 1447H
+— Rajab 22, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
