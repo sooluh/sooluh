@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 150)
+<sub>_The Resurrection_</sub><br>
+**Surah Al-Qiyamah** (75: 34)
 
-> Say, ˹O Prophet,˺ “Bring your witnesses who can testify that Allah has forbidden this.” If they ˹falsely˺ testify, do not testify with them. And do not follow the desires of those who deny Our proofs, disbelieve in the Hereafter, and set up equals with their Lord.
+> Woe to you, and more woe!
 
-— Sha'ban 5, 1447H
+— Sha'ban 6, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
