@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 61)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 12)
 
-> And there are others who hurt the Prophet by saying, “He listens to anyone.” Say, ˹O Prophet,˺ “He listens to what is best for you. He believes in Allah, has faith in the believers, and is a mercy for those who believe among you.” Those who hurt Allah’s Messenger will suffer a painful punishment.
+> It is certainly We Who resurrect the dead, and write what they send forth and what they leave behind. Everything is listed by Us in a perfect Record. 
 
-— Sha'ban 15, 1447H
+— Sha'ban 16, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
