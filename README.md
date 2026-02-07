@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mansions of the Stars_</sub><br>
-**Surah Al-Buruj** (85: 7)
+<sub>_The Sundering_</sub><br>
+**Surah Al-Inshiqaq** (84: 12)
 
-> watching what they had ˹ordered to be˺ done to the believers,
+> and will burn in the blazing Fire.
 
-— Sha'ban 18, 1447H
+— Sha'ban 19, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
