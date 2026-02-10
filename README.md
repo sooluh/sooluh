@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops_</sub><br>
-**Surah Az-Zumar** (39: 43)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 124)
 
-> Or have they taken others besides Allah as intercessors? Say, ˹O Prophet,˺ “˹Would they do so,˺ even though those ˹idols˺ have neither authority nor intelligence?”
+> Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.
 
-— Sha'ban 21, 1447H
+— Sha'ban 22, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
