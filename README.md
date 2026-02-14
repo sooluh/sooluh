@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 4)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 106)
 
-> saying, “My Lord! Surely my bones have become brittle, and grey hair has spread across my head, but I have never been disappointed in my prayer to You, my Lord!
+> Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment.
 
-— Sha'ban 25, 1447H
+— Sha'ban 26, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
