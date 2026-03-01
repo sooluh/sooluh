@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 42)
+<sub>_The Bee_</sub><br>
+**Surah An-Nahl** (16: 5)
 
-> Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers do. He only delays them until a Day when ˹their˺ eyes will stare in horror—
+> And He created the cattle for you as a source of warmth, food, and ˹many other˺ benefits.
 
-— Ramadan 11, 1447H
+— Ramadan 12, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
