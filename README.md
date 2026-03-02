@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 5)
+<sub>_The Forgiver_</sub><br>
+**Surah Ghafir** (40: 7)
 
-> And He created the cattle for you as a source of warmth, food, and ˹many other˺ benefits.
+> Those ˹angels˺ who carry the Throne and those around it glorify the praises of their Lord, have faith in Him, and seek forgiveness for the believers, ˹praying:˺ “Our Lord! You encompass everything in ˹Your˺ mercy and knowledge. So forgive those who repent and follow Your Way, and protect them from the torment of the Hellfire.
 
-— Ramadan 12, 1447H
+— Ramadan 13, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
