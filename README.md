@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Victory_</sub><br>
-**Surah Al-Fath** (48: 15)
+<sub>_Joseph_</sub><br>
+**Surah Yusuf** (12: 33)
 
-> Those who stayed behind will say, when you ˹believers˺ set out to take the spoils of war, “Let us accompany you.” They wish to change Allah’s promise. Say, ˹O Prophet,˺ “You will not accompany us. This is what Allah has said before.” They will then say, “In fact, you are driven by jealousy against us!” The truth is: they can hardly comprehend.
+> Joseph prayed, “My Lord! I would rather be in jail than do what they invite me to. And if You do not turn their cunning away from me, I might yield to them and fall into ignorance.”
 
-— Ramadan 16, 1447H
+— Ramadan 17, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
