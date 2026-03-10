@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 34)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 51)
 
-> But, when the Supreme Disaster comes to pass—
+> Indeed, the righteous will be in a secure place,
 
-— Ramadan 20, 1447H
+— Ramadan 21, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
