@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 4)
+<sub>_Originator_</sub><br>
+**Surah Fatir** (35: 20)
 
-> We have never destroyed a society without a destined term.
+> nor are the darkness and the light,
 
-— Ramadan 23, 1447H
+— Ramadan 24, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
