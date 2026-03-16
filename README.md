@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 29)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 47)
 
-> So she pointed to the baby. They exclaimed, “How can we talk to someone who is an infant in the cradle?”
+> O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others.
 
-— Ramadan 26, 1447H
+— Ramadan 27, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
