@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 73)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 8)
 
-> O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!
+> ˹The deniers’˺ hearts on that Day will be trembling ˹in horror˺,
 
-— Ramadan 29, 1447H
+— Ramadan 30, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
