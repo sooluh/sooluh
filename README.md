@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 27)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 39)
 
-> Then she returned to her people, carrying him. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing!
+> If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything.
 
-— Shawwal 3, 1447H
+— Shawwal 4, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
