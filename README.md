@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 39)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 14)
 
-> If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything.
+> and make you reside in the land after them. This is for whoever is in awe of standing before Me and fears My warning.”
 
-— Shawwal 4, 1447H
+— Shawwal 5, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
