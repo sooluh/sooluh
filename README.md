@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 85)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 49)
 
-> They will reply, “To Allah!” Say, “Why are you not then mindful?”
+> But those who deny Our signs will be afflicted with punishment for their rebelliousness.
 
-— Shawwal 6, 1447H
+— Shawwal 7, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
