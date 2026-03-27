@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 49)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 91)
 
-> But those who deny Our signs will be afflicted with punishment for their rebelliousness.
+> Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?
 
-— Shawwal 7, 1447H
+— Shawwal 8, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
