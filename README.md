@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55: 45)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 27)
 
-> Then which of your Lord’s favours will you both deny? 
+> Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him.
 
-— Shawwal 13, 1447H
+— Shawwal 14, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
