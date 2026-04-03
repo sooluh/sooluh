@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 27)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 63)
 
-> Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him.
+> If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors.
 
-— Shawwal 14, 1447H
+— Shawwal 15, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
