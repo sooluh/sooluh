@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 54)
+<sub>_The Exile_</sub><br>
+**Surah Al-Hashr** (59: 24)
 
-> ˹so˺ eat and graze your cattle. Surely in this are signs for people of sound judgment.
+> He is Allah: the Creator, the Inventor, the Shaper. He ˹alone˺ has the Most Beautiful Names. Whatever is in the heavens and the earth ˹constantly˺ glorifies Him. And He is the Almighty, All-Wise.
 
-— Shawwal 23, 1447H
+— Shawwal 24, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
