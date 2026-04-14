@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Inevitable_</sub><br>
-**Surah Al-Waqi'ah** (56: 88)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 31)
 
-> So, if the deceased is one of those brought near ˹to Us˺,
+> Pharaoh demanded, “Bring it then, if what you say is true.”
 
-— Shawwal 25, 1447H
+— Shawwal 26, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
