@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 31)
+<sub>_The Winnowing Winds_</sub><br>
+**Surah Adh-Dhariyat** (51: 55)
 
-> Pharaoh demanded, “Bring it then, if what you say is true.”
+> But ˹continue to˺ remind. For certainly reminders benefit the believers.
 
-— Shawwal 26, 1447H
+— Shawwal 27, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
