@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Winnowing Winds_</sub><br>
-**Surah Adh-Dhariyat** (51: 55)
+<sub>_Hud_</sub><br>
+**Surah Hud** (11: 103)
 
-> But ˹continue to˺ remind. For certainly reminders benefit the believers.
+> Surely in this is a sign for those who fear the torment of the Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will be˺ witnessed ˹by all˺.
 
-— Shawwal 27, 1447H
+— Shawwal 28, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
