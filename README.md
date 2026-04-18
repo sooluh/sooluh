@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_He Frowned_</sub><br>
-**Surah 'Abasa** (80: 14)
+<sub>_The Women_</sub><br>
+**Surah An-Nisa** (4: 77)
 
-> highly esteemed, purified—
+> Have you ˹O Prophet˺ not seen those who had been told, “Do not fight! Rather, establish prayer and pay alms-tax.”? Then once the order came to fight, a group of them feared those ˹hostile˺ people as Allah should be feared—or even more. They said, “Our Lord! Why have You ordered us to fight? If only You had delayed ˹the order for˺ us for a little while!” Say, ˹O Prophet,˺ “The enjoyment of this world is so little, whereas the Hereafter is far better for those mindful ˹of Allah˺. And none of you will be wronged ˹even by the width of˺ the thread of a date stone.
 
-— Shawwal 29, 1447H
+— Dhu al-Qa'dah 1, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
