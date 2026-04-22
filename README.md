@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 65)
+<sub>_Ta-Ha_</sub><br>
+**Surah Taha** (20: 23)
 
-> So travel with your family in the dark of night, and follow ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”
+> so that We may show you some of Our greatest signs.
 
-— Dhu al-Qa'dah 4, 1447H
+— Dhu al-Qa'dah 5, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
