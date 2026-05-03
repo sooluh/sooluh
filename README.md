@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 101)
+<sub>_The Criterian_</sub><br>
+**Surah Al-Furqan** (25: 56)
 
-> nor a close friend.
+> And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.
 
-— Dhu al-Qa'dah 15, 1447H
+— Dhu al-Qa'dah 16, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
