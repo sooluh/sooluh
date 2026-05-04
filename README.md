@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Criterian_</sub><br>
-**Surah Al-Furqan** (25: 56)
+<sub>_The Thunder_</sub><br>
+**Surah Ar-Ra'd** (13: 10)
 
-> And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.
+> It is the same ˹to Him˺ whether any of you speaks secretly or openly, whether one hides in the darkness of night or goes about in broad daylight.
 
-— Dhu al-Qa'dah 16, 1447H
+— Dhu al-Qa'dah 17, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
