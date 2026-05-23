@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Emissaries_</sub><br>
-**Surah Al-Mursalat** (77: 16)
+<sub>_Muhammad_</sub><br>
+**Surah Muhammad** (47: 18)
 
-> Did We not destroy earlier disbelievers?
+> Are they only waiting for the Hour to take them by surprise? Yet ˹some of˺ its signs have already come. Once it actually befalls them, will it not be too late to be mindful?
 
-— Dhu al-Hijjah 5, 1447H
+— Dhu al-Hijjah 6, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
