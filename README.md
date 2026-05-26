@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man_</sub><br>
-**Surah Al-Insan** (76: 18)
+<sub>_The Pilgrimage_</sub><br>
+**Surah Al-Haj** (22: 62)
 
-> from a spring there, called Salsabîl.
+> That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great.
 
-— Dhu al-Hijjah 8, 1447H
+— Dhu al-Hijjah 9, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
