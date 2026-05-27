@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage_</sub><br>
-**Surah Al-Haj** (22: 62)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3: 166)
 
-> That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great.
+> So what you suffered on the day the two armies met was by Allah’s Will, so that He might distinguish the ˹true˺ believers
 
-— Dhu al-Hijjah 9, 1447H
+— Dhu al-Hijjah 10, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
