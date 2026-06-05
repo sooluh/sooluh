@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Qaf"_</sub><br>
-**Surah Qaf** (50: 17)
+<sub>_The Defrauding_</sub><br>
+**Surah Al-Mutaffifin** (83: 34)
 
-> As the two recording-angels—˹one˺ sitting to the right, and ˹the other to˺ the left—note ˹everything˺,
+> But on that Day the believers will be laughing at the disbelievers,
 
-— Dhu al-Hijjah 18, 1447H
+— Dhu al-Hijjah 19, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
