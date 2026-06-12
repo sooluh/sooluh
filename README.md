@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty_</sub><br>
-**Surah Al-Mulk** (67: 26)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36: 54)
 
-> Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I am only sent with a clear warning.”
+> On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do.
 
-— Dhu al-Hijjah 25, 1447H
+— Dhu al-Hijjah 26, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
