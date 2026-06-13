@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 54)
+<sub>_The Spoils of War_</sub><br>
+**Surah Al-Anfal** (8: 11)
 
-> On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do.
+> ˹Remember˺ when He caused drowsiness to overcome you, giving you serenity. And He sent down rain from the sky to purify you, free you from Satan’s whispers, strengthen your hearts, and make ˹your˺ steps firm.
 
-— Dhu al-Hijjah 26, 1447H
+— Dhu al-Hijjah 27, 1447H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
