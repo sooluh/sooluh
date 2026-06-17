@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 120)
+<sub>_The Fig_</sub><br>
+**Surah At-Tin** (95: 5)
 
-> Indeed, Abraham was a model of excellence: devoted to Allah, ˹perfectly˺ upright—not a polytheist—
+> But We will reduce them to the lowest of the low ˹in Hell˺,
 
-— Muharram 1, 1448H
+— Muharram 2, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
