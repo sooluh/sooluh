@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Victory_</sub><br>
-**Surah Al-Fath** (48: 16)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 2)
 
-> Say to nomadic Arabs, who stayed behind, “You will be called ˹to fight˺ against a people of great might, who you will fight unless they submit. If you then obey, Allah will grant you a fine reward. But if you turn away as you did before, He will inflict upon you a painful punishment.”
+> By the clear Book!
 
-— Muharram 3, 1448H
+— Muharram 4, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
