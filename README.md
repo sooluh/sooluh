@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Star_</sub><br>
-**Surah An-Najm** (53: 5)
+<sub>_The Prostration_</sub><br>
+**Surah As-Sajdah** (32: 7)
 
-> He has been taught by one ˹angel˺ of mighty power
+> Who has perfected everything He created. And He originated the creation of humankind from clay.
 
-— Muharram 7, 1448H
+— Muharram 8, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
