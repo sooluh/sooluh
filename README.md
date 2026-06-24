@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prostration_</sub><br>
-**Surah As-Sajdah** (32: 7)
+<sub>_The Mount_</sub><br>
+**Surah At-Tur** (52: 46)
 
-> Who has perfected everything He created. And He originated the creation of humankind from clay.
+> the Day their scheming will be of no benefit to them whatsoever, nor will they be helped.
 
-— Muharram 8, 1448H
+— Muharram 9, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
