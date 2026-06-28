@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 47)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 180)
 
-> So do not think ˹O Prophet˺ that Allah will fail to keep His promise to His messengers. Allah is indeed Almighty, capable of punishment.
+> Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do.
 
-— Muharram 12, 1448H
+— Muharram 13, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
