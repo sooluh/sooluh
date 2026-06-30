@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver_</sub><br>
-**Surah Ghafir** (40: 42)
+<sub>_The Letter "Saad"_</sub><br>
+**Surah Sad** (38: 73)
 
-> You invite me to disbelieve in Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, Most Forgiving.
+> So the angels prostrated all together—
 
-— Muharram 14, 1448H
+— Muharram 15, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
