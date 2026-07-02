@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread_</sub><br>
-**Surah Al-Ma'idah** (5: 76)
+<sub>_The Elephant_</sub><br>
+**Surah Al-Fil** (105: 4)
 
-> Say, ˹O Prophet,˺ “How can you worship besides Allah those who can neither harm nor benefit you? And Allah ˹alone˺ is the All-Hearing, All-Knowing.”
+> that pelted them with stones of baked clay,
 
-— Muharram 16, 1448H
+— Muharram 17, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
