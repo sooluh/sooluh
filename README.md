@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 110)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 18)
 
-> We turn their hearts and eyes away ˹from the truth˺ as they refused to believe at first, leaving them to wander blindly in their defiance.
+> The mosques of Allah should only be maintained by those who believe in Allah and the Last Day, establish prayer, pay alms-tax, and fear none but Allah. It is right to hope that they will be among the ˹truly˺ guided.
 
-— Muharram 19, 1448H
+— Muharram 20, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
