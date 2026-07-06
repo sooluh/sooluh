@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 18)
+<sub>_The Exile_</sub><br>
+**Surah Al-Hashr** (59: 15)
 
-> The mosques of Allah should only be maintained by those who believe in Allah and the Last Day, establish prayer, pay alms-tax, and fear none but Allah. It is right to hope that they will be among the ˹truly˺ guided.
+> They are ˹both just˺ like those who recently went down before them: they tasted the evil consequences of their doings. And they will suffer a painful punishment.
 
-— Muharram 20, 1448H
+— Muharram 21, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
