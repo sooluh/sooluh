@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Exile_</sub><br>
-**Surah Al-Hashr** (59: 15)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 76)
 
-> They are ˹both just˺ like those who recently went down before them: they tasted the evil consequences of their doings. And they will suffer a painful punishment.
+> But when He gave them out of His bounty, they withheld it and turned away indifferently.
 
-— Muharram 21, 1448H
+— Muharram 22, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
