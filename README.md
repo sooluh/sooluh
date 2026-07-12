@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women_</sub><br>
-**Surah An-Nisa** (4: 28)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26: 221)
 
-> And it is Allah’s Will to lighten your burdens, for humankind was created weak.
+> Shall I inform you of whom the devils ˹actually˺ descend upon?
 
-— Muharram 26, 1448H
+— Muharram 27, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
