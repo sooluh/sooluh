@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who set the Ranks_</sub><br>
-**Surah As-Saffat** (37: 47)
+<sub>_The Ornaments of Gold_</sub><br>
+**Surah Az-Zukhruf** (43: 10)
 
-> It will neither harm ˹them˺, nor will they be intoxicated by it.
+> ˹He is the One˺ Who has laid out the earth for you, and set in it pathways for you so that you may find your way.
 
-— Safar 1, 1448H
+— Safar 2, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
