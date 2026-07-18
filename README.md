@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey_</sub><br>
-**Surah Al-Isra** (17: 31)
+<sub>_The Wind-Curved Sandhills_</sub><br>
+**Surah Al-Ahqaf** (46: 23)
 
-> Do not kill your children for fear of poverty. We provide for them and for you. Surely killing them is a heinous sin.
+> He responded, “The knowledge ˹of its time˺ is only with Allah. I only convey to you what I have been sent with. But I can see that you are a people acting ignorantly.”
 
-— Safar 3, 1448H
+— Safar 4, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
