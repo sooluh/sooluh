@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Wind-Curved Sandhills_</sub><br>
-**Surah Al-Ahqaf** (46: 23)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 88)
 
-> He responded, “The knowledge ˹of its time˺ is only with Allah. I only convey to you what I have been sent with. But I can see that you are a people acting ignorantly.”
+> They say, “Our hearts are unreceptive!” In fact, Allah has condemned them for their disbelief. They have but little faith.
 
-— Safar 4, 1448H
+— Safar 5, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
