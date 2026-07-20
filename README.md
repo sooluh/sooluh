@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 88)
+<sub>_The Resurrection_</sub><br>
+**Surah Al-Qiyamah** (75: 22)
 
-> They say, “Our hearts are unreceptive!” In fact, Allah has condemned them for their disbelief. They have but little faith.
+> On that Day ˹some˺ faces will be bright,
 
-— Safar 5, 1448H
+— Safar 6, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
