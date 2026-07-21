@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Resurrection_</sub><br>
-**Surah Al-Qiyamah** (75: 22)
+<sub>_The Sundering_</sub><br>
+**Surah Al-Inshiqaq** (84: 21)
 
-> On that Day ˹some˺ faces will be bright,
+> and when the Quran is recited to them, they do not bow down ˹in submission˺?
 
-— Safar 6, 1448H
+— Safar 7, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
