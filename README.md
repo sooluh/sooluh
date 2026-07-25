@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold_</sub><br>
-**Surah Az-Zukhruf** (43: 74)
+<sub>_The Courser_</sub><br>
+**Surah Al-'Adiyat** (100: 6)
 
-> Indeed, the wicked will be in the torment of Hell forever.
+> Surely humankind is ungrateful to their Lord—
 
-— Safar 10, 1448H
+— Safar 11, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
