@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Courser_</sub><br>
-**Surah Al-'Adiyat** (100: 6)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 46)
 
-> Surely humankind is ungrateful to their Lord—
+> Wealth and children are the adornment of this worldly life, but the everlasting good deeds are far better with your Lord in reward and in hope. 
 
-— Safar 11, 1448H
+— Safar 12, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
