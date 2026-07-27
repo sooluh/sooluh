@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18: 46)
+<sub>_The Sovereignty_</sub><br>
+**Surah Al-Mulk** (67: 10)
 
-> Wealth and children are the adornment of this worldly life, but the everlasting good deeds are far better with your Lord in reward and in hope. 
+> And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”
 
-— Safar 12, 1448H
+— Safar 13, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
