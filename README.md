@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty_</sub><br>
-**Surah Al-Mulk** (67: 10)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 114)
 
-> And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”
+> He will say, “You only remained for a little while, if only you knew.
 
-— Safar 13, 1448H
+— Safar 14, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
