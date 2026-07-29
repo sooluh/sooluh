@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 114)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 125)
 
-> He will say, “You only remained for a little while, if only you knew.
+> Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who disbelieve.
 
-— Safar 14, 1448H
+— Safar 15, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
