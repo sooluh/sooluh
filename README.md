@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 57)
+<sub>_The Combined Forces_</sub><br>
+**Surah Al-Ahzab** (33: 29)
 
-> He said, “Have you come to drive us out of our land with your magic, O  Moses?
+> But if you desire Allah and His Messenger and the ˹everlasting˺ Home of the Hereafter, then surely Allah has prepared a great reward for those of you who do good.”
 
-— Safar 16, 1448H
+— Safar 17, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
