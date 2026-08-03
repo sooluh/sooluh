@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 198)
+<sub>_The Night_</sub><br>
+**Surah Al-Layl** (92: 17)
 
-> There is no blame on you for seeking the bounty of your Lord ˹during this journey˺. When you return from ’Arafât, praise Allah near the sacred place and praise Him for having guided you, for surely before this ˹guidance˺ you were astray.
+> But the righteous will be spared from it—
 
-— Safar 19, 1448H
+— Safar 20, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
