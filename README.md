@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night_</sub><br>
-**Surah Al-Layl** (92: 17)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 4)
 
-> But the righteous will be spared from it—
+> saying, “My Lord! Surely my bones have become brittle, and grey hair has spread across my head, but I have never been disappointed in my prayer to You, my Lord!
 
-— Safar 20, 1448H
+— Safar 21, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
