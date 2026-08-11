@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cloaked One_</sub><br>
-**Surah Al-Muddaththir** (74: 49)
+<sub>_The Night_</sub><br>
+**Surah Al-Layl** (92: 10)
 
-> Now, what is the matter with them that they are turning away from the reminder,
+> We will facilitate for them the path of hardship.
 
-— Safar 27, 1448H
+— Safar 28, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
