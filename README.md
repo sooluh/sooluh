@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality_</sub><br>
-**Surah Al-Haqqah** (69: 1)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 34)
 
-> The Inevitable Hour!
+> But, when the Supreme Disaster comes to pass—
 
-— Rabi' al-Awwal 14, 1448H
+— Rabi' al-Awwal 15, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
