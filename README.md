@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Star_</sub><br>
-**Surah An-Najm** (53: 44)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 29)
 
-> And He is the One Who gives life and causes death.
+> So she pointed to the baby. They exclaimed, “How can we talk to someone who is an infant in the cradle?”
 
-— Rabi' al-Awwal 20, 1448H
+— Rabi' al-Awwal 21, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
