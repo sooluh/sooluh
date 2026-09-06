@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Palm Fiber_</sub><br>
-**Surah Al-Masad** (111: 1)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 73)
 
-> May the hands of Abu Lahab perish, and he ˹himself˺ perish!
+> O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!
 
-— Rabi' al-Awwal 23, 1448H
+— Rabi' al-Awwal 24, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
