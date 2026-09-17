@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 181)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 4)
 
-> Give full measure, and cause no loss ˹to others˺.
+> Whenever a sign comes to them from their Lord, they turn away from it.
 
-— Rabi' al-Thani 5, 1448H
+— Rabi' al-Thani 6, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
