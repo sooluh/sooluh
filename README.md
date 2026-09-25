@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36: 59)
+<sub>_The Ornaments of Gold_</sub><br>
+**Surah Az-Zukhruf** (43: 68)
 
-> ˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺ this Day, O  wicked ones!
+> ˹who will be told,˺ “O My servants! There is no fear for you Today, nor will you grieve—
 
-— Rabi' al-Thani 13, 1448H
+— Rabi' al-Thani 14, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
