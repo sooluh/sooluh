@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20: 23)
+<sub>_The Women_</sub><br>
+**Surah An-Nisa** (4: 161)
 
-> so that We may show you some of Our greatest signs.
+> taking interest despite its prohibition, and consuming people’s wealth unjustly. We have prepared for the disbelievers among them a painful punishment.
 
-— Rabi' al-Thani 30, 1448H
+— Jumada al-Ula 1, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
