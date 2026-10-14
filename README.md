@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 7)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 39)
 
-> And they carry your loads to ˹distant˺ lands which you could not otherwise reach without great hardship. Surely your Lord is Ever Gracious, Most Merciful.
+> Those who deny Our signs are ˹wilfully˺ deaf and dumb—lost in darkness. Allah leaves whoever He wills to stray and guides whoever He wills to the Straight Way.
 
-— Jumada al-Ula 2, 1448H
+— Jumada al-Ula 3, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
