@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 182)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 28)
 
-> Weigh with an even balance,
+> O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
 
-— Jumada al-Ula 4, 1448H
+— Jumada al-Ula 5, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
