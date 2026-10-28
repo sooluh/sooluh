@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man_</sub><br>
-**Surah Al-Insan** (76: 9)
+<sub>_The Pen_</sub><br>
+**Surah Al-Qalam** (68: 38)
 
-> ˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you.
+> that you will have whatever you choose?
 
-— Jumada al-Ula 16, 1448H
+— Jumada al-Ula 17, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
