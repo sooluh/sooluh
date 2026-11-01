@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mutual Disillusion_</sub><br>
-**Surah At-Taghabun** (64: 3)
+<sub>_Jonah_</sub><br>
+**Surah Yunus** (10: 38)
 
-> He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return.
+> Or do they claim, “He made it up!”? Tell them ˹O Prophet˺, “Produce one sûrah like it then, and seek help from whoever you can—other than Allah—if what you say is true!”
 
-— Jumada al-Ula 20, 1448H
+— Jumada al-Ula 21, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
