@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26: 177)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18: 72)
 
-> when Shu’aib said to them, “Will you not fear ˹Allah˺?
+> He replied, “Did I not say that you cannot have patience with me?”
 
-— Jumada al-Ula 27, 1448H
+— Jumada al-Ula 28, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
