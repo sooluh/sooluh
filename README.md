@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty_</sub><br>
-**Surah Al-Mulk** (67: 2)
+<sub>_The Emissaries_</sub><br>
+**Surah Al-Mursalat** (77: 16)
 
-> ˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.
+> Did We not destroy earlier disbelievers?
 
-— Jumada al-Ula 29, 1448H
+— Jumada al-Ula 30, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
