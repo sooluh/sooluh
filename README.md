@@ -13,12 +13,12 @@ a software engineer from Indonesia. 10+ years of experience in web development.
 ### ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3: 166)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 256)
 
-> So what you suffered on the day the two armies met was by Allah’s Will, so that He might distinguish the ˹true˺ believers
+> Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing.
 
-— Jumada al-Akhirah 5, 1448H
+— Jumada al-Akhirah 7, 1448H
 <!-- AYAHADAY:END -->
 
 ### 📚 Recent Blog Posts
